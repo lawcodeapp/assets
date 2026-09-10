@@ -1,0 +1,364 @@
+{
+  "civil_code": [
+    {
+      "id": 1,
+      "article": 121,
+      "amendment_definition": "ចំពោះសមាសភាគនៃវត្ថុអ្វីមួយ ដែលមិនអាចបែងចែកបានដោយមិនបំបែកវត្ថុនោះ ឬ ដោយមិនផ្លាស់ប្តូរលក្ខណៈដើមនៃវត្ថុនោះទេ ភាគនៃវត្ថុនោះមិនអាចក្លាយជាកម្មវត្ថុនៃសិទ្ធិឯករាជ្យបានឡើយ ។",
+      "amendment_definition_eng": "A component of a thing that cannot be severed from the associated thing without destroying the thing or changing the thing's essential nature may not be the subject of rights separate from those applicable to the thing.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 2,
+      "article": 138,
+      "amendment_definition": "កម្មសិទ្ធិ សំដៅទៅលើសិទ្ធិដែលកម្មសិទ្ធិករនោះអាចប្រើប្រាស់ អាស្រ័យផល និង ចាត់ចែងវត្ថុដែលជាកម្មសិទ្ធិរបស់ខ្លួន ដោយសេរីបាន នៅក្នុងទំហំដែលច្បាប់ និង បទដ្ឋានគតិយុត្តផ្សេងទៀតបានកម្រិត ។",
+      "amendment_definition_eng": "Ownership refers to the right of an owner to use, enjoy the fruits, and dispose of the thing they own freely, within the limits prescribed by law and other principles of justice.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 3,
+      "article": 185,
+      "amendment_definition": "នៅពេលទនេ្ល ស្ទឹង ឬ ព្រែកដែលនាវា ឬ ក្បូនអាចចេញចូលបាន បណ្តែតបាន បងើ្កតផ្លូវទឹកថ្មី ដោយបោះបង់ចោល ផ្លូវទឹកចាស់ កម្មសិទ្ធិករនៃដីជាប់មាត់ច្រាំងនោះ អាចធ្វើលទ្ធកម្មកម្មសិទ្ធិនៃបាតទនេ្ល ស្ទឹង ឬ ព្រែកចាស់ ហើយទំហំនៃកម្មសិទ្ធិលើដីគោករបស់ម្នាក់ៗ ត្រូវមានរហូតដល់ខ្សែបន្ទាត់កណ្តាលនៃទនេ្ល ស្ទឹង ឬ ព្រែកនោះ ។ កម្មសិទ្ធិករនៃដីជាប់មាត់ច្រាំងនោះ ត្រូវបង់តម្លៃដែលត្រូវបានកំណត់ដោយអ្នកវាយតម្លៃ ។ តម្លៃនៃបាតទនេ្ល ស្ទឹង ឬ ព្រែកចាស់ ត្រូវបានកំណត់ដោយអ្នកវាយតម្លៃដែលត្រូវបានជ្រើសតាំង ដោយតុលាការដែលមានសមត្ថកិច្ចលើទីកន្លែងនោះ តាមពាក្យសុំរបស់អាជ្ញាធររាជធានី ខេត្ត ឬ អ្នកដែលមានពាក់ព័ន្ធផលប្រយោជន៍ ។ ប៉ុន្តែ ក្នុងករណីដែលកម្មសិទ្ធិករនៃដីជាប់មាត់ច្រាំងនោះ មិនបង្ហាញឆន្ទៈយកកម្មសិទ្ធិលើបាតទនេ្ល ស្ទឹង ឬ ព្រែកចាស់នោះទេ ដីគោកនោះត្រូវបានលក់ជាសាធារណៈដោយអាជ្ញាធររាជធានី ខេត្ត ។ ប្រាក់ដែលកម្មសិទ្ធិករនៃដី ជាប់មាត់ច្រាំងបានបង់ ឬ ប្រាក់ដែលបានទទួលពីការលក់បាតទនេ្ល ស្ទឹង ឬ ព្រែកចាស់នោះ ត្រូវបែងចែកឱ្យកម្មសិទ្ធិករដែលបានបាត់បង់ដីដោយសារការបងើ្កតផ្លូវទឹកថ្មី តាមសមាមាត្រនៃតម្លៃដីដែលបានបាត់បង់ដោយសារទឹកហូរ ។",
+      "amendment_definition_eng": "If a river, stream, or canal navigable by boats or rafts abandons its existing riverbed and forms a new channel, the owners of land along the riverbank may acquire ownership of the old riverbed, and the extent of ownership of each shall reach up to the centerline of the old river, stream, or canal.\nThe riverbank owners shall pay the price determined by an expert appraiser.\nThe price of the old riverbed shall be determined by an expert appraiser appointed by the competent court at the location, upon the request of the capital, provincial authority, or any interested party.\nHowever, if the riverbank owners do not express the intention to acquire ownership of the old riverbed, the land shall be sold at public auction by the capital or provincial authority.\nThe money paid by the riverbank owners or received from the sale of the old riverbed shall be distributed to the owners whose land was lost due to the formation of the new channel, in proportion to the value of the land lost due to the water flow.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 4,
+      "article": 233,
+      "amendment_definition": "១- ការកាន់កាប់ដោយបានដឹងថាខ្លួនគ្មានសិទ្ធិអំណាចក្នុងការកាន់កាប់ទេ ហៅថា ការកាន់កាប់ដោយទុច្ចរិត រីឯការកាន់កាប់ដោយមិនបានដឹងថាខ្លួនគ្មានសិទ្ធិអំណាចទេ ហៅថា ការកាន់កាប់ដោយសុចរិត ។ ករណីដែលមានកំហុសក្នុងការមិនបានដឹងនោះ ហៅថា ការកាន់កាប់ដោយមានកំហុស ។ \n២- ការកាន់កាប់ដោយសន្តិវិធី សំដៅទៅលើការកាន់កាប់ដោយពុំប្រើហិង្សា ។ \nប៉ុន្តែ ទោះបីជាករណីអ្នកដែលចាប់ផ្តើមការកាន់កាប់ដោយសន្តិវិធី ការពារការកាន់កាប់របស់ខ្លួនដោយប្រើហិង្សា ចំពោះការបំពានមិនត្រឹមត្រូវរបស់តតិយជនក៏ដោយ ក៏ការកាន់កាប់នោះនៅតែជាការកាន់កាប់ដោយសន្តិវិធីដែរ ។ \n៣- ការកាន់កាប់ដោយដឹងឮជាសាធារណៈ សំដៅទៅលើការកាន់កាប់ដោយមិនលាក់បិទបាំង ដើម្បីធ្វើឱ្យអ្នកមានសិទ្ធិលើវត្ថុកាន់កាប់ អាចដឹង ឬ ឃើញវត្ថុកាន់កាប់នោះ ។ \n៤- ការកាន់កាប់ដោយទុច្ចរិត ការកាន់កាប់ដោយសុចរិតតែមានកំហុស ការកាន់កាប់ដោយគ្មានសន្តិវិធី និង ការកាន់កាប់ដោយមិនសាធារណៈ ហៅថា ការកាន់កាប់ដោយមានវិការៈ ។",
+      "amendment_definition_eng": "(1) Possession that is acquired with knowledge that one has no right of possession to it is referred to as “possession in bad faith”, while possession acquired without knowledge that one has no right of possession to it is referred to as “possession in good faith”.\nIf the lack of knowledge is due to a mistake, it is referred to as “possession with mistake”.\n\r\n(2) “Peaceful possession” refers to possession without the use of violence.\nHowever, even if the person who initially acquires possession peacefully later uses violence to protect their possession against unlawful infringement by a third party, such possession is still considered peaceful.\n\r\n(3) “Open possession” refers to possession without concealment, so that persons having rights over the possessed thing can know or see the fact of such possession.\n\r\n(4) Possession in bad faith, possession in good faith with mistake, possession without peace, and possession that is not open are all referred to as “flawed possession”.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 5,
+      "article": 242,
+      "amendment_definition": "១- ភោគីដែលប្រើប្រាស់ និង អាស្រ័យផលជាបន្តនូវអចលនវត្ថុ ដែលបានទទួលប័ណ្ណសំគាល់សិទ្ធិកាន់កាប់អចលនវត្ថុ ឬ ប័ណ្ណសំគាល់សិទ្ធិកាន់កាប់ប្រើប្រាស់ដីធ្លី តែមិនទាន់ចុះបញ្ជីអចលនវត្ថុដែលជាការចាំបាច់ ដើម្បីទទួលកម្មសិទ្ធិពេញលេញ ដោយសារមិនទាន់បានរៀបចំប្រព័ន្ធប្លង់សុរិយោដី និង សៀវភៅគោលបញ្ជីដីទេ ត្រូវចាត់ទុកថាជាកម្មសិទ្ធិករ ចំពោះការអនុវត្តសិទ្ធិទាមទារ ដោយផ្អែកលើសិទ្ធិប្រត្យក្ស ។ \n២- ក្នុងករណីដែលភោគីដែលបានកំណត់នៅក្នុងកថាខណ្ឌទី ១ ខាងលើនេះ ឱ្យតតិយជនប្រើប្រាស់ និង អាស្រ័យផលនូវអចលនវត្ថុ ភោគីនោះត្រូវចាត់ទុកថាជាកម្មសិទ្ធិករ ចំពោះការអនុវត្តសិទ្ធិទាមទារដោយផ្អែកលើសិទ្ធិប្រត្យក្ស ។ \n៣- អ្នកដែលបានទទួលអនុប្បទាននូវភោគៈ ដោយភ្ជាប់ជាមួយនឹងប័ណ្ណសំគាល់សិទ្ធិកាន់កាប់អចលនវត្ថុ ឬ ប័ណ្ណសំគាល់សិទ្ធិកាន់កាប់ប្រើប្រាស់ដីធ្លី ពីភោគីដែលបានកំណត់នៅក្នុងកថាខណ្ឌទី ១ ខាងលើនេះ ក៏ត្រូវចាត់ទុកថាជាកម្មសិទ្ធិករ ចំពោះការអនុវត្តសិទ្ធិទាមទារ ដោយផ្អែកលើសិទ្ធិប្រត្យក្សដែរ ។",
+      "amendment_definition_eng": "(1) A person who continuously uses and enjoys the fruits of an immovable property for which a certificate of possession or a certificate of land use right has been issued, but who has not yet registered the immovable property as required for acquiring full ownership due to the cadastral map and land register not yet being prepared, shall be deemed the owner in respect of claims based on real rights.\n\r\n(2) In the case where the person described in paragraph (1) permits a third party to use and enjoy the fruits of the immovable property, that person shall still be deemed the owner in respect of claims based on real rights.\n\r\n(3) A person who has received the property from the occupant described in paragraph (1), along with the certificate of possession or certificate of land use right, shall also be deemed the owner in respect of claims based on real rights.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 6,
+      "article": 291,
+      "amendment_definition": "១- ម្ចាស់សេវភាព ពុំអាចប្រើប្រាស់ដីបម្រើ ឱ្យហួសពីកម្រិតដែលបានកំណត់នៅក្នុងកិច្ចសន្យាបង្កើតឡើយ ។ សេវភាពនៃការយកទឹកបង្កើតឡើងនៅកន្លែងប្រភពទឹក រាប់បញ្ចូលសិទ្ធិឆ្លងកាត់ដីដែលមានប្រភពទឹកនោះដែរ ។ \n២- ម្ចាស់សេវភាពក៏ពុំអាចធ្វើការផ្លាស់ប្តូរណាមួយទៅលើដីបម្រើ ឬ ដីប្រើ ដែលអាចមានឥទ្ធិពលធ្ងន់ធ្ងរដល់ស្ថានភាពនៃដីបម្រើបានឡើយ ។ \n៣- បើម្ចាស់សេវភាពបានធ្វើផ្ទុយនឹងបញ្ញត្តិនៃវាក្យខណ្ឌទី ១ កថាខណ្ឌទី ១ និង កថាខណ្ឌទី ២ ខាងលើនេះ កម្មសិទ្ធិករនៃដីបម្រើ អាចទាមទារទៅតុលាការឱ្យរំលត់សេវភាពបាន ។ \n៤- ការទាមទារឱ្យរំលត់ដែលបានកំណត់នៅក្នុងកថាខណ្ឌទី ៣ ខាងលើនេះ មិនរារាំងក្នុងការទាមទារសំណងនៃការខូចខាត ដោយផ្អែកលើអំពើអនីត្យានុកូល ចំពោះម្ចាស់សេវភាពឡើយ ។ \n៥- នៅក្នុងករណីដែលមានកំណត់តម្លៃថ្នូរចំពោះសេវភាព បើម្ចាស់សេវភាពមិនបានបង់តម្លៃថ្នូរដែលបានកំណត់ទេ កម្មសិទ្ធិករនៃដីបម្រើអាចទាមទារទៅតុលាការឱ្យរំលត់សេវភាពបាន ។",
+      "amendment_definition_eng": "(1) The easement holder may not use the servient land beyond the limits specified in the contract establishing the easement. An easement for drawing water at a water source includes the right to cross the land where the water source is located.\n\r\n(2) The easement holder may not make any changes to the servient land or the dominant land that could seriously affect the condition of the servient land.\n\r\n(3) If the easement holder acts contrary to the provision of the first sentence of paragraph (1) and to paragraph (2) above, the owner of the servient land may apply to the court to extinguish the easement.\n\r\n(4) The application for extinguishment described in paragraph (3) above does not prevent a claim for damages based on tort against the easement holder.\n\r\n(5) In the case where a fee is prescribed for the easement and the easement holder fails to pay the prescribed fee, the owner of the servient land may apply to the court to extinguish the easement.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 7,
+      "article": 349,
+      "amendment_definition": "១- នៅពេលធ្វើកិច្ចសន្យា បើភាគីម្ខាងនៃកិច្ច សន្យាបានប្រើដោយមិនត្រឹមត្រូវនូវឋានៈខ្លួនដែលមានអាទិភាពជាងភាគីម្ខាងទៀត ខាងផ្នែកសេដ្ឋកិច្ច ឬ ផ្នែកសង្គម ឬ បានប្រើដោយមិនត្រឹមត្រូវនូវស្ថានភាពផ្សេង ទៀតដែលភាគីម្ខាងទៀតមិនអាចប្រឆាំងតបបានទេ ភាគីម្ខាងទៀតនោះអាចលុបចោលនូវកិច្ចសន្យាបាន ដោយហេតុថា ការបង្ហាញឆន្ទៈនោះមានវិការៈ ។ \n២- ការលុបចោលនូវកិច្ចសន្យាដោយយោងតាមបញ្ញត្តិនៃកថាខណ្ឌទី ១ ខាងលើនេះ មិនអាចអះអាងចំពោះតតិយជនដែលជាជនសុចរិត ហើយគ្មានកំហុសអំពីការរំលោភបំពានលើស្ថានភាពបានឡើយ ។",
+      "amendment_definition_eng": "(1) If, at the time of making a contract, one party improperly uses their superior economic or social position, or any other circumstance that prevents the other party from resisting, the disadvantaged party may rescind the contract on the ground that their declaration of intention was flawed.\n\r\n(2) The rescission of the contract based on paragraph (1) above may not be asserted against a third party who acted in good faith and without fault regarding the improper use of such circumstances.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 8,
+      "article": 385,
+      "amendment_definition": "១-ម្ចាស់បំណុលអាចទាមទារឱ្យកូនបំណុលអនុវត្តកាតព្វកិច្ចក្រៅផ្លូវតុលាការ ឬតាមផ្លូវតុលាការ ។ \n២-ទោះបីជាមានបញ្ញត្តិនៃកថាខណ្ឌទី ១ ខាងលើនេះក៏ដោយ ម្ចាស់បំណុលមិនអាចទាមទារឱ្យអនុវត្តកាតព្វកិច្ច តាមផ្លូវតុលាការបានឡើយ ក្នុងករណីដែលមានការព្រមព្រៀងគ្នារវាងភាគីនៃកិច្ចសន្យាថា មិនទាមទារឱ្យអនុវត្តតាមផ្លូវតុលាការ ។ \n៣-ទោះបីជាមានការកម្រិតនូវសិទ្ធិទាមទារឱ្យអនុវត្តកាតព្វកិច្ចតាមផ្លូវតុលាការ ដោយសារមានករណីត្រូវនឹងកថាខណ្ឌទី ២ ខាងលើនេះក៏ដោយ ប្រសិនបើកូនបំណុលបានអនុវត្តកាតព្វកិច្ចដោយស្ម័គ្រចិត្តហើយ ម្ចាស់បំណុលអាចទទួល និង រក្សាទុកនូវតាវកាលិកនេះ ដោយចាត់ទុកថាជាការសងបាន ។",
+      "amendment_definition_eng": "(1) An obligee may demand that the obligor perform the obligation either outside the court or through court proceedings.\n\r\n(2) Notwithstanding paragraph (1) above, the obligee may not demand performance through court proceedings if the parties to the contract have agreed not to seek judicial enforcement of the obligation.\n\r\n(3) Even if the right to demand judicial enforcement is restricted under paragraph (2) above, if the obligor voluntarily performs the obligation, the obligee may accept and retain such performance as fulfillment.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 9,
+      "article": 393,
+      "amendment_definition": "ការអនុវត្តកាតព្វកិច្ចមិនបានពេញលេញ សំដៅទៅលើករណីដែលកូនបំណុលបានអនុវត្តកាតព្វកិច្ច តែការផ្តល់តាវកាលិកមិនពេញលេញ ឬ ករណីដែលបានអនុវត្តតែមួយផ្នែកនៃកាតព្វកិច្ច ឬ ករណីផេ្សងទៀតដែលគ្មានការអនុវត្តឱ្យបានពេញលេញតាមខ្លឹមសារនៃកាតព្វកិច្ច ។",
+      "amendment_definition_eng": "Incomplete performance refers to cases where the obligor has performed the obligation, but the delivery was not complete, or where only part of the obligation was performed, or in other cases where full performance was not carried out in accordance with the content of the obligation.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 10,
+      "article": 412,
+      "amendment_definition": "១- សិទ្ធិរំលាយត្រូវរលត់ ក្នុងករណីភាគីដែលមានសិទ្ធិរំលាយបានធ្វើឱ្យមានការខូចខាត ឬ ការបាត់បង់ដល់វត្ថុដែលជាកម្មវត្ថុនៃកិច្ចសន្យា ឬ មិនអាចសងវត្ថុនោះវិញបាន ដោយចេតនា ឬ ធ្វើឱ្យវត្ថុនោះក្លាយជាវត្ថុប្រភេទផេ្សង ដោយការកែច្នៃ ឬ ការផ្លាស់ទម្រង់ ដោយចេតនា ។ \n២- បើភាគីបានអនុវត្តសិទ្ធិរំលាយ ភាគីនោះត្រូវសងជាប្រាក់នូវតម្លៃនៃវត្ថុដែលជាកម្មវត្ថុនោះ ត្រឹមកម្រិតតម្លៃ ដែលបានកំណត់ក្នុងកិច្ចសន្យា ។ \n៣- ក្នុងករណីដែលភាគីម្ខាងទៀតមានកំហុស ឬ មានមូលហេតុក្នុងការខូចខាត ឬ ការមិនបានសងវត្ថុដែលជាកម្មវត្ថុនោះ ភាគីដែលមានសិទ្ធិរំលាយ គ្មានករណីយកិច្ចក្នុង ការសងជាប្រាក់នូវតម្លៃនៃវត្ថុនោះ ដូចបានកំណត់នៅក្នុងកថាខណ្ឌទី ២ ខាងលើនេះឡើយ ។",
+      "amendment_definition_eng": "(1) The right of termination shall be extinguished if the party having such right has intentionally caused damage to or loss of the subject matter of the contract, or is unable to return it, or has intentionally transformed it into a different kind of thing through processing or alteration.\n\r\n(2) If the party exercises the right of termination, they must pay the value of the subject matter in money, up to the amount specified in the contract.\n\r\n(3) If the destruction, loss, or inability to return the subject matter is due to the fault or a reason attributable to the other party, the party with the right of termination shall not be obligated to pay the value in money as provided in paragraph (2) above.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 11,
+      "article": 420,
+      "amendment_definition": "ចំពោះកិច្ចសន្យាអញ្ញមញ្ញដែលមានអត្ថន័យឱ្យភាគីម្ខាងត្រូវធ្វើ ឬ មិនត្រូវធ្វើ ក្នុងករណីដែលការអនុវត្តកាតព្វកិច្ចនោះ ក្លាយជាអលទ្ធភាព ដោយគ្មានកំហុសរបស់ភាគីទាំងសងខាងទេ កាតព្វកិច្ចនោះត្រូវរលត់ ។ ក្នុងករណីនេះ កូនបំណុលមិនអាចទាមទារតាវកាលិកតបពីម្ចាស់បំណុលបានទេ ។",
+      "amendment_definition_eng": "Where one of the parties to a bilateral contract has an obligation to do or not to do something, and the performance of that obligation becomes impossible without fault from either party, the obligation shall be extinguished.\nIn such a case, the obligor may not demand counter-performance from the obligee.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 12,
+      "article": 428,
+      "amendment_definition": "១-ម្ចាស់បំណុលអាចលុបចោលនូវអំពើដែលកូនបំណុលបានធ្វើដោយដឹងថា អំពើនោះធ្វើឱ្យខូចខាតផលប្រយោជន៍ដល់ម្ចាស់បំណុល ហើយទាមទារឱ្យអ្នកដែលបានទទួលផលប្រយោជន៍ពីអំពើរបស់កូនបំណុលនោះ ឬអ្នកដែលទទួលបន្ទុកបន្តវត្ថុពីអ្នកនោះ សងមកវិញនូវវត្ថុដែលអ្នកនោះ បានទទួលជាតាវកាលិក ឬ ទឹកប្រាក់ដែលជាតម្លៃនៃវត្ថុនោះ តាមផ្លូវតុលាការបាន ។ \n២- ប្រសិនបើអ្នកដែលបានទទួលផលប្រយោជន៍ពីអំពើរបស់កូនបំណុល ឬ អ្នកដែលបានទទួលបន្តវត្ថុពីអ្នកនោះ មិនបានដឹងអំពីហេតុដែលធ្វើឱ្យខូចផលប្រយោជន៍របស់ម្ចាស់បំណុល នៅពេលដែលកូនបំណុលធ្វើអំពើនោះ ឬ ពេលដែលខ្លួនបានទទួលបន្តវត្ថុនោះទេ ការលុបចោលដែលបានកំណត់នៅក្នុងកថាខណ្ឌទី ១ ខាងលើនេះ មិនអាចត្រូវបានអនុញ្ញាតឡើយ ។ ប៉ុន្តែ ចំពោះអ្នកដែលបានទទួលផលប្រយោជន៍ ឬ អ្នកដែលបានទទួលបន្ត ដោយមិនបង់ថ្លៃទេ ទោះបីជាអ្នកនោះមិនបានដឹងអំពីហេតុដែលធ្វើឱ្យខូចផលប្រយោជន៍ដល់ម្ចាស់បំណុលក៏ដោយ ក៏ម្ចាស់បំណុលនោះអាចអះអាងនូវការលុបចោលបានដែរ ។ \n៣- បញ្ញត្តិនៃកថាខណ្ឌទី ១ និង ទី ២ ខាងលើនេះ មិនត្រូវយកមកអនុវត្តឡើយ ចំពោះអំពើដែលមានកម្មវត្ថុមិនមែនជាសិទ្ធិលើទ្រព្យសម្បត្តិទេ ។",
+      "amendment_definition_eng": "(1) An obligee may request the court to rescind an act performed by the obligor with knowledge that the act would cause damage to the obligee’s interests, and may demand that the person who received benefits from the obligor’s act, or a person who later acquired the object from them, return the object received or pay its value as restitution.\n\r\n(2) If the person who received benefits from the obligor’s act, or the person who later acquired the object, did not know of the cause that damaged the obligee’s interests at the time of the act or acquisition, rescission under paragraph (1) shall not be allowed. However, if the benefit or the object was received without payment, the obligee may still claim rescission, even if the recipient had no knowledge of the damage to the obligee’s interests.\n\r\n(3) The provisions of paragraphs (1) and (2) above shall not apply to acts whose subject matter does not involve property rights.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 13,
+      "article": 429,
+      "amendment_definition": "បញ្ញត្តិនៃមាត្រា ៤២៨ (ល័ក្ខខ័ណ្ឌនៃការលុបចោលនូវអំពើដែលនាំឱ្យខូចខាតផល ប្រយោជន៍) ខាងលើនេះ ត្រូវយកមកអនុវត្តផងដែរ ចំពោះម្ចាស់បំណុលដែលមានសិទ្ធិលើបំណុលក្រៅពីសិទ្ធិលើបំណុលដែលមានគោលបំណងសងជាប្រាក់ ។ ប៉ុន្តែ នៅពេលបញ្ចប់ការទាញហេតុផលដោយផ្ទាល់មាត់ដែលទាក់ទងនឹងសាលក្រម ឬ សាលដីកាដែលលុបចោលអំពើដែលនាំឱ្យខូចខាតផលប្រយោជន៍ សិទ្ធិលើបំណុលនេះ ត្រូវប្តូរទៅជាសិទ្ធិលើបំណុលដែលមានគោលបំណងសងជាប្រាក់វិញ ។",
+      "amendment_definition_eng": "The provisions of Article 428 (Requirements for avoidance of acts that cause damage to interests) shall also apply to an obligee holding a claim other than a monetary claim.\nHowever, by the time the oral argument concludes in the proceeding resulting in a judgment rescinding the act, the non-monetary claim must be converted into a monetary claim.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 14,
+      "article": 457,
+      "amendment_definition": "១-កូនបំណុលអាចតម្កល់នូវកម្មវត្ថុនៃកាតព្វកិច្ចនៅកន្លែងតម្កល់ដើម្បីឱ្យរួចពីកាតព្វកិច្ចបាន ក្នុងករណីណាមួយដូចខាងក្រោមនេះ: \nក-អ្នកសងបានស្នើផ្តល់ការសង តែម្ចាស់បំណុលបដិសេធមិនទទួល ឬ មិន អាចទទួលការសងនោះបាន ។ \nខ-កូនបំណុលមិនអាចដឹងថា អ្នកណាជាម្ចាស់បំណុល ដោយមិនមែនជា កំហុសរបស់ខ្លួន ។ \n២- នៅក្នុងអំឡុងពេលដែលម្ចាស់បំណុលមិនទាន់ព្រម ចំពោះការតម្កល់ ឬ ក្នុងអំឡុងពេលដែលសាលក្រម ឬ សាលដីកាដែលប្រកាសថា ការតម្កល់នោះ មានសុពលភាពមិនទាន់ចូលជាស្ថាពរទេ អ្នកសងអាចយកវត្ថុតម្កល់មកវិញបាន ។ ក្នុងករណីនេះ អ្នកសងត្រូវបានចាត់ទុកថា មិនបានធ្វើការតម្កល់ ។ ប៉ុន្តែ បញ្ញត្តិនេះមិនត្រូវយកមកអនុវត្តឡើយ ចំពោះករណីដែលសិទ្ធិលើការបញ្ចាំ ឬ សិទ្ធិលើហ៊ីប៉ូតែក ត្រូវបានរលត់ដោយការតម្កល់នោះ ។ \n៣- សេចក្តីលម្អិតស្តីពីការតម្កល់ ត្រូវកំណត់ក្នុងច្បាប់ស្តីពីការតម្កល់ ។",
+      "amendment_definition_eng": " (1) An obligor may discharge the obligation by depositing the subject matter of the obligation at a deposit office in any of the following cases:\n\r\na) where the obligor has offered performance, but the obligee refuses to accept it or is unable to accept it; or\n\r\nb) where the obligor cannot identify the obligee, without any fault on their part.\n\r\n(2) While the obligee has not yet accepted the deposit, or while a judgment or ruling declaring the deposit valid has not yet become final, the obligor may withdraw the deposited property. In such a case, the deposit shall be deemed not to have been made.\nHowever, this provision shall not apply where a pledge or hypothec has been extinguished due to the deposit.\n\r\n(3) The details concerning deposit shall be governed by the law on deposit.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 15,
+      "article": 505,
+      "amendment_definition": "១- ប្រសិនបើកូនបំណុលធ្វើការយល់ព្រមដែលបានកំណត់នៅក្នុងមាត្រា ៥០៣ (ល័ក្ខខ័ណ្ឌតតាំងនៃអនុប្បទានសិទ្ធិលើបំណុលដែលមានកំណត់ឈ្មោះ)នៃក្រមនេះដោយគ្មានការតវ៉ា ទោះបីជាខ្លួនមានហេតុដែលអាចតតាំងចំពោះអនុប្បទាយីក៏ដោយ ក៏កូនបំណុលមិនអាចយកហេតុនោះ តតាំងចំពោះអនុប្បទានិកបានឡើយ។ ប៉ុន្តែ បញ្ញត្តិនេះមិនត្រូវរារាំងក្នុងការយកវត្ថុវិញ បើកូនបំណុលប្រគល់វត្ថុណាឱ្យអនុប្បទាយីដើម្បីរំលត់កាតព្វកិច្ចរបស់ខ្លួន ឬ ក្នុងការចាត់ទុកថា កាតព្វកិច្ចមិនកើតឡើង បើកូនបំណុលទទួលបន្ទុកនូវកាតព្វកិច្ចចំពោះអនុប្បទាយី ដើម្បីរំលត់កាតព្វកិច្ចរបស់ខ្លួន ។ \n២- ប្រសិនបើអនុប្បទាយីបានជូនដំណឹងអំពីអនុប្បទានតែប៉ុណ្ណោះ កូនបំណុលអាចយកហេតុដែលកើតឡើងចំពោះអនុប្បទាយី រហូតដល់ពេលខ្លួនទទួលដំណឹងនោះទៅតតាំងចំពោះអនុប្បទានិកបាន ។",
+      "amendment_definition_eng": "(1) If the obligor gives consent as described in Article 503 (Conditions for Objection to the Assignment of Nominative Claims) of this Code without objection, the obligor may not raise any grounds against the assignee even if they had grounds to object to the assignor.\nHowever, this provision does not preclude the obligor from reclaiming any object delivered to the assignee for the purpose of extinguishing the obligation, or from deeming the obligation not to have arisen if the obligor assumed an obligation toward the assignee to extinguish their own obligation.\n\r\n(2) If only notice of the assignment is given by the assignee, the obligor may raise any grounds that arose against the assignee up to the time of receiving such notice as a defense against the assignee.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 16,
+      "article": 528,
+      "amendment_definition": "១- ចំពោះការផេ្ទរកម្មសិទ្ធិលើកម្មវត្ថុក្នុងកិច្ចសន្យាលក់ទិញ ត្រូវអនុវត្តទៅតាមគោលការណ៍ទូទៅដែលបានកំណត់ចាប់ពីមាត្រា ១៣៣ (ការបង្កើត ការផ្ទេរ និង ការកែប្រែនូវសិទ្ធិប្រត្យក្សដោយការព្រមព្រៀង) ដល់មាត្រា ១៣៥ (លក្ខខណ្ឌដើម្បី បង្កើតអានុភាពនៃការផ្ទេរកម្មសិទ្ធិលើអចលនវត្ថុដោយការព្រមព្រៀង) នៃក្រមនេះ ។ \n២- បើកម្មវត្ថុនៃកិច្ចសន្យាលក់ទិញជាសិទ្ធិលើទ្រព្យសម្បត្តិក្រៅពីកម្មសិទ្ធិ ការផេ្ទរសិទ្ធិទាំងនោះ ត្រូវអនុវត្តទៅតាមគោលការណ៍ទូទៅដែលទាក់ទងនឹងការផេ្ទរសិទ្ធិនីមួយៗ នោះ ។",
+      "amendment_definition_eng": "(1) With respect to the transfer of ownership of the subject matter under a contract of sale, the general principles set out in Articles 133 (Creation, transfer, and modification of real rights by agreement) to 135 (Conditions for effecting the transfer of ownership of immovables by agreement) of this Code shall apply.\n\r\n(2) If the subject matter of the sale contract is a property right other than ownership, the transfer of such right shall be governed by the general principles applicable to the transfer of each respective right.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 17,
+      "article": 534,
+      "amendment_definition": "១-ក្នុងករណីដែលកម្មវត្ថុនៃការលក់ទិញភ្ជាប់ជាមួយសិទ្ធិជួលអចិន្ត្រៃយ៍ ផលុបភោគ សិទ្ធិប្រើប្រាស់ សិទ្ធិអាស្រ័យនៅ សេវភាព សិទ្ធិជួល សិទ្ធិឃាត់ទុក ឬ សិទ្ធិលើការបញ្ចាំ សម្រាប់តតិយជន ហើយបើអ្នកទិញមិនអាចប្រើប្រាស់ ឬ ទទួលផលពីកម្មវត្ថុទាំងមូល ឬ មួយផ្នែក ដោយសារអត្ថិភាពនៃសិទ្ធិនោះ អ្នកទិញដែលមិនបានដឹងអំពីអត្ថិភាពនៃសិទ្ធិនោះ នៅពេលធ្វើកិច្ចសន្យា អាចទាមទារសំណងនៃការខូចខាតពីអ្នកលក់បាន ។ \n២- ក្នុងករណីដែលបានកំណត់ក្នុងកថាខណ្ឌទី ១ ខាងលើនេះ ប្រសិនបើគោលបំណងនៃកិច្ចសន្យាមិនអាចសម្រេចបាន ដោយសារអត្ថិភាពនៃសិទ្ធិនោះ អ្នកទិញដែលមិនបានដឹងអំពីអត្ថិភាពនៃសិទ្ធិនោះនៅពេលធ្វើកិច្ចសន្យា ក៏អាចរំលាយកិច្ចសន្យាបានដែរ ។ \n៣- បញ្ញត្តិនៃកថាខណ្ឌទី ១ និង ទី ២ ខាងលើនេះ ត្រូវយកមកអនុវត្តផងដែរ ចំពោះករណីដែលសេវភាពដែលត្រូវមានសម្រាប់អចលនវត្ថុដែលជាកម្មវត្ថុនៃការលក់ទិញ បែរជាគ្មានទៅវិញ ។ \n៤- ក្នុងករណីដែលបានកំណត់ក្នុងកថាខណ្ឌទី ១ ទី ២ ឬ ទី ៣ ខាងលើនេះ ការរំលាយកិច្ចសន្យា ឬ ការទាមទារសំណងនៃការខូចខាត ត្រូវធ្វើឡើងក្នុងអំឡុងពេល ១ (មួយ) ឆ្នាំ គិតចាប់ពីពេលដែលអ្នកទិញបានដឹងការពិត ។",
+      "amendment_definition_eng": "(1) If the subject matter of a sale is encumbered with a perpetual lease, usufruct, right of use, right of residence, servitude, lease, right of retention, or pledge in favor of a third party, and the buyer is unable to use or receive benefits from all or part of the subject matter due to the effect of such rights, the buyer may claim compensation for damages from the seller if the buyer was unaware of the existence of such rights at the time of the contract.\n\r\n(2) In the case described in paragraph (1), if the purpose of the contract cannot be fulfilled due to the effect of such rights, the buyer—who was unaware of their existence at the time of contract—may also rescind the contract.\n\r\n(3) The provisions of paragraphs (1) and (2) shall also apply in cases where a servitude, necessary for the immovable property being sold, turns out not to exist.\n\r\n(4) In the cases described in paragraphs (1), (2), or (3), the right to rescind the contract or claim compensation for damages must be exercised within one (1) year from the date the buyer became aware of the facts.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 18,
+      "article": 539,
+      "amendment_definition": "១- អ្នកលក់ត្រូវមានករណីយកិច្ចប្រគល់វត្ថុដែលគ្មានវិការៈឱ្យទៅអ្នកទិញ ។ \n២- លើកលែងតែគូភាគីបានកំណត់ផេ្សង វត្ថុដែលបានប្រគល់ឱ្យទៅអ្នកទិញមានលក្ខណៈណាមួយដូចខាងក្រោមនេះ ត្រូវបានចាត់ទុកថា មានវិការៈ: \nក-វត្ថុនោះមានភាពមិនស្របនឹងចំនួន គុណភាព និង លក្ខណៈដែលបានកំណត់ក្នុងកិច្ចសន្យា ។ \nខ-វត្ថុនោះមានភាពផេ្សងពីគំរូដែលអ្នកលក់បានបង្ហាញឱ្យអ្នកទិញមើលចំពោះចំនួន គុណភាព និង លក្ខណៈ ។ \nគ-វត្ថុនោះមិនស្របនឹងវិធីប្រើដែលអ្នកលក់ត្រូវបានបង្ហាញដោយជាក់លាក់ ឬ ដោយតុណ្ហីភាព នៅពេលធ្វើកិច្ចសន្យា ។ \nឃ-វត្ថុនោះមិនស្របនឹងវិធីប្រើធម្មតានៃវត្ថុប្រភេទដូចគ្នា ។ \nង-វត្ថុនោះមិនត្រូវបានខ្ចប់តាមវិធីធម្មតានៃការខ្ចប់វត្ថុប្រភេទដូចគ្នា ឬ តាមវិធីសមរម្យដើម្បីការពារវត្ថុនោះ ។",
+      "amendment_definition_eng": "(1) The seller has an obligation to deliver goods without defects to the buyer.\n\r\n(2) Unless otherwise agreed by the parties, the goods delivered to the buyer shall be deemed defective in any of the following cases:\n\r\na) the goods do not conform to the quantity, quality, or description specified in the contract;\n\r\nb) the goods differ from the sample or model shown by the seller to the buyer in terms of quantity, quality, or description;\n\r\nc) the goods are not suitable for the particular purpose expressly or implicitly indicated by the seller at the time the contract was made;\n\r\nd) the goods are not suitable for the ordinary use of goods of the same type;\n\r\ne) the goods are not packaged in the usual manner for such goods or in a proper way to protect and preserve them.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 19,
+      "article": 578,
+      "amendment_definition": "ការខ្ចីបរិភោគ សំដៅទៅលើកិច្ចសន្យាមួយ ដែលភាគីម្ខាងហៅថាអ្នកឱ្យខ្ចី មានករណីយកិច្ចប្រគល់ការប្រើប្រាស់ដោយសេរី នូវប្រាក់ ស្បៀងអាហារ ស្រូវ ឬ វត្ថុជំនួសផេ្សងទៀត ក្នុងអំឡុងពេលដែលមានកំណត់ ឱ្យទៅភាគីម្ខាងទៀតហៅថាអ្នកខ្ចី ហើយនៅក្រោយពេលដែលអំឡុងពេលនោះបានកន្លងផុត អ្នកខ្ចីមានករណីយកិច្ចសងទៅឱ្យអ្នកឱ្យខ្ចីវិញ នូវវត្ថុដែលមានប្រភេទ គុណភាព និង ចំនួនស្មើគ្នានឹងវត្ថុដែលបានទទួលពីអ្នកឱ្យខ្ចីនោះ ។",
+      "amendment_definition_eng": "A loan for consumption is a contract whereby one party, called the lender, has the obligation to provide for free use money, foodstuffs, paddy, or other fungible objects for a specified period to another party, called the borrower, who shall have the obligation to return objects of the same type, quality, and quantity as those received from the lender after the expiration of that period.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 20,
+      "article": 605,
+      "amendment_definition": "១-ប្រសិនបើភតិកៈមិនបានពិនិត្យស្ថានភាពនៃវត្ថុដែលជាកម្មវត្ថុនៃភតិសន្យាថាត្រឹមត្រូវតាមស្ថានភាពដែលបានកំណត់នៅក្នុងលិខិតកិច្ចសន្យា នៅពេលទទួលការប្រគល់វត្ថុដែលជាកម្មវត្ថុនោះ ភតិកៈមិនអាចទាមទារឱ្យភតិបតីទទួលខុសត្រូវបានឡើយ ចំពោះភាពខុសពីស្ថានភាពដែលបានកំណត់នៅក្នុងលិខិតកិច្ចសន្យាដែលខ្លួនអាចដឹងដោយងាយស្រួលបើពិនិត្យ ។ \n២- នៅក្នុងករណីដែលវត្ថុជួលមានវិការៈកំបាំង បើភតិកៈមិនបានដឹងអំពីវិការៈនោះទេ ភតិកៈអាចទាមទារឱ្យជួសជុលវិការៈនោះ ឬ ឱ្យដូរវត្ថុដែលគ្មានវិការៈ និង អាចទាមទារសំណងនៃការខូចខាតបាន ។ \n៣- ភតិបតីអាចជួសជុលវិការៈ ដោយសោហ៊ុយខ្លួនបាន លុះត្រាតែមិនធ្វើឱ្យមានការខូចខាតដោយមិនត្រឹមត្រូវនូវផលប្រយោជន៍របស់ភតិកៈ ។ ប៉ុន្តែ ភតិកៈមិនត្រូវបានរារាំងក្នុងការអនុវត្តសិទ្ធិទាមទារសំណងនៃការខូចខាតឡើយ ។ \n៤- ជំនួសនឹងការទាមទារដែលកំណត់ក្នុងកថាខណ្ឌទី ២ ខាងលើនេះ ភតិកៈអាចទាមទារឱ្យបន្ថយថ្លៃឈ្នួលដែលសមរម្យនឹងវិការៈបាន ដោយគិតតាំងពីពេលដែលបានប្រគល់ ។ \n៥- បើពុំអាចសម្រេចនូវគោលបំណងដែលបានធ្វើកិច្ចសន្យា ដោយសារមូលហេតុ នៃវិការៈកំបាំងនោះទេ ភតិកៈអាចរំលាយភតិសន្យានោះបាន ។ \n៦- ការទាមទារឱ្យជួសជុល ឱ្យដូរ ឱ្យបន្ថយថ្លៃឈ្នួល និង ការរំលាយ ត្រូវអនុវត្ត នៅក្នុងអំឡុងពេល ១ (មួយ) ឆ្នាំ គិតចាប់ពីពេលដែលភតិកៈបានដឹង ឬ ពេលដែលត្រូវដឹងអំពីហេតុនោះបាន ។",
+      "amendment_definition_eng": "(1) If the lessee did not inspect the condition of the leased property at the time of delivery to verify whether it conforms to the condition stated in the written contract, the lessee may not hold the lessor liable for any non-conformity that could have been easily discovered through inspection.\n\r\n(2) In the case of a hidden defect in the leased property, if the lessee was unaware of the defect, the lessee may demand that the defect be repaired or that the property be replaced with one free of defects, and may also claim compensation for damages.\n\r\n(3) The lessor may repair the defect at their own expense, provided that it does not unreasonably impair the lessee’s interest. However, the lessee is not barred from claiming compensation for damages.\n\r\n(4) Instead of making the demands mentioned in paragraph (2), the lessee may demand a reduction in the rental fee proportionate to the defect, effective from the time of delivery.\n\r\n(5) If the objective of the lease cannot be achieved due to the hidden defect, the lessee may terminate the lease.\n\r\n(6) Demands for repair, replacement, reduction of rent, or termination must be made within one (1) year from the date the lessee became aware, or should have become aware, of the cause for the demand.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 21,
+      "article": 748,
+      "amendment_definition": "១- នីតិបុគ្គលត្រូវទទួលខុសត្រូវក្នុងការសងការខូចខាត ដែលអភិបាល នាយក ឬ អ្នកតំណាងឯទៀត បានបង្កដល់អ្នកដទៃដោយខុសច្បាប់ ដោយកំហុសចេតនា ឬ ដោយកំហុសអចេតនា ក្នុងការអនុវត្តភារកិច្ច ។ \n២- បើបានសងការខូចខាតតាមបញ្ញត្តិនៃកថាខណ្ឌទី ១ ខាងលើនេះ នីតិបុគ្គល អាចទាមទារសំណងពីអ្នកតំណាងដែលបានប្រព្រឹត្តអំពើបង្កការខូចខាតនោះ ។",
+      "amendment_definition_eng": "(1) A juridical person shall be liable for damages caused to others by its guardian, director, or other representative who, through intentional or negligent wrongdoing, committed an unlawful act in the course of performing their duties.\n\r\n(2) If damages are paid under paragraph (1) above, the juridical person may claim compensation from the representative who committed the act that caused the damage.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 22,
+      "article": 763,
+      "amendment_definition": "ប្រសិនបើជនរងគ្រោះបានទទួលផលចំណេញដោយសារអំពើអនីត្យានុកូល ចំនួនប្រាក់ចំណេញនោះត្រូវដកចេញ នៅពេលធ្វើការគណនាចំនួនទឹកប្រាក់នៃសំណងការខូចខាត ។",
+      "amendment_definition_eng": "Where the injured party has received a gain or benefit as a result of the tortious act, the amount of such gain shall be deducted when calculating the amount of compensation for damages.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 23,
+      "article": 764,
+      "amendment_definition": "បើកំហុសរបស់ជនរងគ្រោះ ឬ កំហុសរបស់អ្នកដែលមានករណីយកិច្ចត្រូវត្រួតពិនិត្យជនរងគ្រោះ បានរួមចំណែកក្នុងការកើតឡើង ឬ រីករាលដាលនៃការខូចខាត តុលាការអាចគិតពិចារណានូវកម្រិតនៃការរួមចំណែកនោះ នៅពេលធ្វើការគណនាចំនួនទឹកប្រាក់នៃសំណងការខូចខាត ។",
+      "amendment_definition_eng": "Where the fault of the injured party, or the fault of a person who has a duty to supervise the injured party, contributed to the occurrence or aggravation of the damage, the court may take into account the extent of such contribution when calculating the amount of compensation for damages.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 24,
+      "article": 770,
+      "amendment_definition": "១-ក្នុងករណីដែលសិទ្ធិលើបំណុលដែលសិទ្ធិប្រាតិភោគប្រត្យក្សត្រូវបានបង្កើត ត្រូវបានផេ្ទរ បើគ្មានការបង្ហាញឆន្ទៈផេ្សងទេ សិទ្ធិប្រាតិភោគប្រត្យក្សនោះក៏ត្រូវបានផេ្ទរ ទៅឱ្យអ្នកដែលទទួលសិទ្ធិលើបំណុលនេះដែរ ។ ប៉ុន្តែ ក្នុងករណីដែលចាំបាច់តម្រូវឱ្យម្ចាស់សិទ្ធិលើប្រាតិភោគ កាន់កាប់វត្ថុដែលជាកម្មវត្ថុនៃសិទ្ធិប្រាតិភោគនោះ អ្នកទទួលការផេ្ទរសិទ្ធិលើបំណុលក៏ចាំបាច់ត្រូវទទួលនូវការកាន់កាប់វត្ថុដែលជាកម្មវត្ថុនោះដែរ ។ \n២-បញ្ញត្តិនៃកថាខណ្ឌទី ១ ខាងលើនេះ មិនត្រូវយកមកអនុវត្តឡើយ ចំពោះសិទ្ធិលើបំណុលដែលត្រូវបានធានា ដោយហ៊ីប៉ូតែកដើម្បីធានាបំណុលអណ្តែត ។",
+      "amendment_definition_eng": "(1) Where a claim secured by a real security right is transferred, the real security right shall also be transferred to the transferee of the claim, unless otherwise agreed.\nHowever, in cases where the holder of the real security right is required to possess the object of the security, the transferee of the claim must also receive possession of that object.\n\r\n(2) The provisions of paragraph (1) above shall not apply to claims secured by a floating hypothec.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 25,
+      "article": 786,
+      "amendment_definition": "១-ឯកសិទ្ធិចំពោះសោហ៊ុយសម្រាប់បុណ្យសព មានអត្ថិភាពចំពោះសោហ៊ុយសម្រាប់បុណ្យសពដែលបានធ្វើឡើង ទៅតាមឋានៈរបស់កូនបំណុលដែលបានទទួលមរណភាព ។ \n២-ក្នុងករណីដែលញាតិរបស់កូនបំណុលដែលមានអាហារកាតព្វកិច្ចបានទទួលមរណភាព ឯកសិទ្ធិដែលបានកំណត់នៅក្នុងកថាខណ្ឌទី ១ ខាងលើនេះ ក៏មានអត្ថិភាពចំពោះសោហ៊ុយសម្រាប់បុណ្យសពដែលកូនបំណុលបានធ្វើឡើង ទៅតាមឋានៈរបស់ញាតិនោះដែរ ។",
+      "amendment_definition_eng": "(1) Statutory liens for funeral expenses shall be effective with respect to expenses incurred for a funeral conducted in accordance with the status of the deceased obligor.\n\r\n(2) In the case where a relative of the obligor who was under a duty of support has passed away, the statutory lien referred to in paragraph (1) shall also apply to funeral expenses incurred by the obligor in accordance with the status of that relative.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 26,
+      "article": 787,
+      "amendment_definition": "ឯកសិទ្ធិចំពោះការផ្តល់នូវវត្ថុប្រើប្រាស់ប្រចាំថ្ងៃ មានអត្ថិភាពចំពោះការផ្តល់ចំណីអាហារ និង វត្ថុប្រើប្រាស់ផេ្សងៗរៀងរាល់ថ្ងៃ ក្នុងអំឡុងពេល ៦ (ប្រាំមួយ) ខែចុងក្រោយ ដែលចាំបាច់សម្រាប់ជីវភាពរបស់កូនបំណុល ឬ ញាតិដែលរស់នៅជាមួយកូនបំណុល ហើយដែលកូនបំណុលនោះមានអាហារកាតព្វកិច្ច និង អ្នកបម្រើ ។",
+      "amendment_definition_eng": "Statutory liens for the supply of daily necessaries shall be effective with respect to the provision of food and other daily necessities during the most recent six (6) months that were necessary for the livelihood of the obligor, or the relatives residing with the obligor and whom the obligor is bound to support, as well as the obligor’s servants.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 27,
+      "article": 791,
+      "amendment_definition": "ក្នុងករណីអនុប្បទាននូវសិទ្ធិជួល ឬ ជួលបន្ត ឯកសិទ្ធិរបស់ភតិបតី មានអានុភាពលើចលនវត្ថុរបស់អនុប្បទានិក ឬ ភតិកៈបន្ត ។ បញ្ញត្តិនេះត្រូវយកមកអនុវត្តផងដែរ ចំពោះប្រាក់ដែលអនុប្បទាយី ឬ ភតិបតីបន្តទទួល ។",
+      "amendment_definition_eng": "In the case of an assignment of lease rights or sublease, the statutory lien of the lessor shall extend to the movables of the assignee or sublessee.\nThis provision shall also apply to the money that the assignor or sublessor is to receive.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 28,
+      "article": 861,
+      "amendment_definition": "១- ម្ចាស់បំណុលហ៊ីប៉ូតែក អាចធ្វើអនុប្បទាន ឬ បោះបង់លំដាប់នៃហ៊ីប៉ូតែកបាន ដើម្បីផលប្រយោជន៍របស់ម្ចាស់បំណុលហ៊ីប៉ូតែកផ្សេងទៀតចំពោះកូនបំណុលតែម្នាក់ ។ ម្ចាស់បំណុលហ៊ីប៉ូតែក ក៏អាចផ្លាស់ប្តូរលំដាប់នៃហ៊ីប៉ូតែកនោះបាន ដោយការព្រមព្រៀងជាមួយម្ចាស់បំណុលហ៊ីប៉ូតែកផេ្សងទៀត ។ ប៉ុន្តែ បើមានបុគ្គលដែលមានទំនាក់ទំនងនឹងផលប្រយោជន៍ចំពោះការផ្លាស់ប្តូរនោះ ម្ចាស់បំណុលហ៊ីប៉ូតែកត្រូវទទួលការយល់ព្រម អំពីបុគ្គលនោះ ។ \n២- ម្ចាស់បំណុលហ៊ីប៉ូតែកដែលទទួលអនុប្បទាននូវលំដាប់នៃហ៊ីប៉ូតែក អាចទទួលការសង ដោយមានអាទិភាពជាងម្ចាស់បំណុលហ៊ីប៉ូតែកដែលបានធ្វើអនុប្បទាននូវលំដាប់នោះ នូវចំនួនទឹកប្រាក់នៃសិទ្ធិលើបំណុលទាំងអស់ ពីប្រាក់ដែលបានមកពីការលក់ដោយបង្ខំនូវអចលនវត្ថុហ៊ីប៉ូតែកនោះ ត្រឹមកម្រិតនៃចំនួនទឹកប្រាក់សរុបនៃចំណែកដែលត្រូវចែក ឱ្យទៅម្ចាស់បំណុលហ៊ីប៉ូតែកទាំងពីរនោះ ។ \n៣- ម្ចាស់បំណុលហ៊ីប៉ូតែកដែលទទួលនូវការបោះបង់លំដាប់នៃហ៊ីប៉ូតែក អាចទទួលការសងដោយមានសមភាពជាមួយម្ចាស់បំណុលដែលបានលះបង់លំដាប់ហ៊ីប៉ូតែកនោះ តាមសមាមាត្រនៃចំនួនទឹកប្រាក់នៃសិទ្ធិលើបំណុល នៅក្នុងទំហំនៃចំនួនទឹកប្រាក់ សរុបនៃចំណែកដែលត្រូវចែកឱ្យទៅម្ចាស់បំណុលហ៊ីប៉ូតែកទាំងពីរនោះ ។ \n៤-ម្ចាស់បំណុលហ៊ីប៉ូតែកដែលបានព្រមព្រៀងក្នុងការផ្លាស់ប្តូរលំដាប់ហ៊ីប៉ូតែក អាចអនុវត្តហ៊ីប៉ូតែកបាន តាមការព្រមព្រៀងនោះ ។",
+      "amendment_definition_eng": "(1) A hypothee may assign or waive their priority ranking for the benefit of another hypothee with respect to the same debtor.\nA hypothee may also change the ranking of the hypothec by agreement with other hypothees.\nHowever, if there is any person whose interests may be affected by such change, the consent of that person must be obtained.\n\r\n(2) A hypothee who has received an assignment of priority may receive payment with priority over the hypothee who assigned the ranking, up to the total amount to be distributed to both hypothees from the proceeds of the compulsory sale of the hypothecated immovable.\n\r\n(3) A hypothee who has received a waiver of priority may receive repayment equally with the hypothee who waived the priority, in proportion to their respective claims, within the total amount to be distributed to both hypothees.\n\r\n(4) A hypothee who has agreed to a change in the priority ranking may enforce the hypothec in accordance with that agreement.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 29,
+      "article": 903,
+      "amendment_definition": "១- កាតព្វកិច្ចធានាត្រូវរាប់បញ្ចូលទាំងការប្រាក់ ប្រាក់ធានាសំណងក្នុងករណីបំពានកិច្ចសន្យា និង សំណងការខូចខាត ដែលទាក់ទងនឹងកាតព្វកិច្ចចម្បង និង អ្វីដែលកើតឡើងបន្ទាប់បន្សំ ពីកាតព្វកិច្ចចម្បងនោះ ។ \n២- កិច្ចសន្យាធានា អាចកំណត់នូវចំនួនទឹកប្រាក់ធានាសំណងក្នុងករណីបំពានកិច្ចសន្យា ឬ ប្រាក់សំណងការខូចខាត ចំពោះការមិនអនុវត្តកាតព្វកិច្ចធានាបាន ។",
+      "amendment_definition_eng": "(1) A guaranty obligation shall include interest, penalties for breach of contract, and compensation for damages relating to the principal obligation and any obligations that arise as a consequence of the principal obligation.\n\r\n(2) A guaranty contract may specify the amount of penalty or compensation for damages in case of breach of the guaranty obligation.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 30,
+      "article": 922,
+      "amendment_definition": "១-ក្រៅពីករណីដែលមានបញ្ញត្តិនៅក្នុងច្បាប់ កាតព្វកិច្ចដោយសាមគ្គីភាពត្រូវបានបង្កើតឡើង ដោយការព្រមព្រៀង ដោយជាក់លាក់ ឬ ដោយតុណ្ហីភាព រវាងម្ចាស់បំណុល និង កូនបំណុលច្រើននាក់ដែលឆន្ទៈសាមគ្គីភាពរួមគ្នាទៅវិញទៅមក ត្រូវបានទទួលស្គាល់ ។ \n២-ការព្រមព្រៀងដែលបានកំណត់នៅក្នុងកថាខណ្ឌទី ១ ខាងលើនេះ អាចធ្វើឡើងរវាងម្ចាស់បំណុល និង កូនបំណុលនីមួយៗ ដោយព្រមគ្នា ឬ ដោយបន្តបន្ទាប់ ។ \n៣- ម្ចាស់បំណុលអាចលើកលែងសាមគ្គីភាព ចំពោះកូនបំណុលណាមួយបាន ។ \n៤- ក្រោយពេលលើកលែងសាមគ្គីភាព កូនបំណុលដែលបានទទួលការលើកលែង ត្រូវទទួលបន្ទុកនូវកាតព្វកិច្ច ត្រឹមតែចំនួនប្រាក់ដែលស្មើនឹងបន្ទុកដែលខ្លួនធ្លាប់មានមុនពេលលើកលែង ។ \n៥-ភាគនៃបន្ទុករបស់កូនបំណុលដែលមានកាតព្វកិច្ចដោយសាមគ្គីភាពនីមួយៗ ត្រូវបានសន្មតថាស្មើគ្នា ។",
+      "amendment_definition_eng": "(1) Except where otherwise provided by law, a joint obligation shall be created by an express or implied agreement between the obligee and multiple obligors, in which a mutual intention to be jointly bound is recognized.\n\r\n(2) The agreement described in paragraph (1) may be made between the obligee and all obligors collectively or between the obligee and each obligor individually or successively.\n\r\n(3) The obligee may release any obligor from joint liability.\n\r\n(4) After such release, the obligor shall remain liable only for the portion of the obligation that they were responsible for prior to the release.\n\r\n(5) Each joint obligor is presumed to bear an equal share of the obligation.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 31,
+      "article": 932,
+      "amendment_definition": "១-ក្នុងករណីដែលកូនបំណុលដែលមានកាតព្វកិច្ចដោយសាមគ្គីភាពណាម្នាក់ បានរួចផុតពីកាតព្វកិច្ច ដោយបានសង ឬ បានចេញចំណាយផេ្សងទៀតរបស់ខ្លួន ហើយធ្វើឱ្យកូនបំណុលដែលមានកាតព្វកិច្ចដោយសាមគ្គីភាពផេ្សងទៀតរួចផុតពីកាតព្វកិច្ច កូនបំណុលនោះត្រូវទទួលសិទ្ធិទាមទារសំណងពីកូនបំណុលផេ្សងទៀត ចំពោះបន្ទុករៀងៗខ្លួន ។ ក្នុងករណីដែលការសង ឬ ចំណាយផេ្សងទៀតរបស់កូនបំណុលដែលមាន កាតព្វកិច្ចដោយសាមគ្គីភាពណាម្នាក់ មានចំពោះតែកាតព្វកិច្ចមួយភាគ ហើយកូនបំណុលនោះ និង កូនបំណុលដែលមានកាតព្វកិច្ចដោយសាមគ្គីភាពផេ្សងទៀត បានទទួលការរួចផុតពីកាតព្វកិច្ច តាមកម្រិតនៃភាគនោះ កូនបំណុលនោះអាចទាមទារសំណង តាមសមាមាត្រនឹងចំនួនភាគរយនៃចំនួនទឹកប្រាក់សរុបនៃកាតព្វកិច្ចបាន ។ \n២- ការទាមទារសំណងដែលបានកំណត់នៅក្នុងកថាខណ្ឌទី ១ ខាងលើនេះ អាចធ្វើបាន ដោយរាប់បញ្ចូលការប្រាក់ដែលច្បាប់បានកំណត់ ដោយគិតពីថ្ងៃរួចផុតពីកាតព្វកិច្ច ដោយបានសង ឬ បានចេញចំណាយផេ្សងទៀតរបស់ខ្លួន និង សោហ៊ុយឬការខូចខាត ផេ្សងទៀតដែលមិនអាចជៀសវាងបាន ។",
+      "amendment_definition_eng": "(1) Where a joint obligor has been discharged from the obligation by making payment or incurring other expenses, and such discharge results in the release of the other joint obligors, that obligor may claim indemnification from the other obligors for their respective shares of the obligation.\nWhere the payment or other expense covers only part of the obligation, and the obligor and the other joint obligors are discharged to that extent, the obligor may claim indemnification in proportion to the percentage of the total obligation that was discharged.\n\r\n(2) The indemnification claim under paragraph (1) may include legal interest calculated from the date of discharge through payment or other expenditure, as well as any unavoidable expenses or other damages.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 32,
+      "article": 942,
+      "amendment_definition": "មាត្រា ៩៤២.- ការរលត់ញាតិភាព ដោយការកាត់កាល់\nញាតិភាពរវាងកូនចិញ្ចឹមសហព័ទ្ធរបស់ជននោះ បច្ឆាញាតិផ្ទាល់ និង សហព័ទ្ធរបស់បច្ឆាញាតិផ្ទាល់នោះ ជាមួយនឹងឪពុកម្តាយចិញ្ចឹមនិង ញាតិលោហិតរបស់ឪពុកម្តាយចិញ្ចឹមមនោះ ត្រូវបានបពា្ចប់ដោយការកាត់កាល់។",
+      "amendment_definition_eng": "Article 942.- Termination of kinship by dissolution of adoption\n\r\nThe kinship between the adoptee, the adoptee’s spouse, their lineal descendants and their spouses, and the adoptive parents and the adoptive parents’ blood relatives shall be terminated by the dissolution of the adoption.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 33,
+      "article": 975,
+      "amendment_definition": "ប្តីប្រពន្ធត្រូវទទួលខុសត្រូវដោយសាមគ្គីភាព ចំពោះកាតព្វកិច្ចដែលកំណត់ខាងក្រោមនេះ: \nក-សោហ៊ុយដើម្បីរក្សាជីវភាពរួមរបស់ប្តីប្រពន្ធ និង សោហ៊ុយដើម្បីការអប់រំ ឬ ការព្យាបាល ថែទាំកូន ជាអាទិ៍ ។ \nខ-កាតព្វកិច្ច និង ករណីយកិច្ចផេ្សងៗទៀត ដែលប្តីប្រពន្ធទាំងសងខាងបាន ព្រមព្រៀងតាមលិខិតជាលាយល័ក្ខណ៍អក្សរ ជាមួយម្ចាស់បំណុល នៅក្នុងអំឡុងពេលអាពាហ៍ពិពាហ៍ ឬ កាតព្វកិច្ច និង ករណីយកិច្ចផេ្សងៗទៀត ដែលប្តី ឬ ប្រពន្ធណាម្ខាង បានទទួលបន្ទុក ដោយមានការយល់ព្រមតាមលិខិតជាលាយល័ក្ខណ៍អក្សរ ពីប្រពន្ធ ឬ ប្តី ម្ខាងទៀត នៅក្នុងអំឡុងពេលអាពាហ៍ពិពាហ៍ ។ \nគ-សោហ៊ុយដើម្បីគ្រប់គ្រង និង រក្សាទ្រព្យសម្បត្តិរួម ។",
+      "amendment_definition_eng": "Husband and wife shall be jointly liable for the following obligations:\n\r\na) Expenses necessary for maintaining the joint household of the husband and wife, and expenses for the education, medical care, and other needs of their children;\n\r\nb) Obligations and other liabilities jointly agreed to in writing by both spouses with the creditor during the marriage, or obligations and other liabilities undertaken by one spouse with the written consent of the other spouse during the marriage;\n\r\nc) Expenses for the management and preservation of common property.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 34,
+      "article": 976,
+      "amendment_definition": "១- បើគ្មានការយល់ព្រមពីប្តីប្រពន្ធទាំងសងខាងទេ ទ្រព្យសម្បត្តិរួមរបស់ប្តីប្រពន្ធ មិនអាចយកទៅលក់ ឬ ធ្វើការចាត់ចែងផេ្សងទៀតបានឡើយ ។ \n២- ទោះបីមានបញ្ញត្តិនៃកថាខណ្ឌទី ១ ខាងលើក៏ដោយ បើមានស្ថានភាពមិនអាចជៀសវាងបាន សម្រាប់ការថែទាំជីវភាពរួមក្នុងអាពាហ៍ពិពាហ៍ និង ដើម្បីរក្សាជីវភាពរស់នៅ នោះប្តីប្រពន្ធណាម្ខាង អាចលក់ ឬ ធ្វើការចាត់ចែងផេ្សងទៀត នូវទ្រព្យសម្បត្តិរួមបាន ដោយទទួលការអនុញ្ញាតពីតុលាការ ។ \n៣- ក្នុងករណីដែលប្តី ឬ ប្រពន្ធណាម្ខាង បានលក់ ឬ ធ្វើការចាត់ចែងផេ្សងទៀត នូវទ្រព្យសម្បត្តិរួម ដោយគ្មានការយល់ព្រមពីសហព័ទ្ធម្ខាងទៀតផង និង គ្មានការអនុញ្ញាតពីតុលាការផង សហព័ទ្ធដែលមិនបានផ្តល់ការយល់ព្រម អាចទាមទារឱ្យលុបចោលនូវការចាត់ចែងនោះ ទៅតុលាការបាន នៅក្នុងអំឡុងពេល ២ (ពីរ) ឆ្នាំ គិតចាប់ពីពេលដែលបានដឹងអំពីការចាត់ចែងនោះ បើទ្រព្យសម្បត្តិរួមដែលត្រូវបានចាត់ចែងនោះ ជាអចលនវត្ថុសម្រាប់ការអាស្រ័យនៅរបស់គ្រួសារ និង នៅក្នុងអំឡុងពេល ១ (មួយ) ឆ្នាំ គិតចាប់ពីពេលដែលបានដឹងអំពីការចាត់ចែងនោះ បើទ្រព្យសម្បត្តិរួមដែលត្រូវបានចាត់ចែងនោះ ជាទ្រព្យសម្បត្តិផេ្សង ។",
+      "amendment_definition_eng": "(1) The common property of the spouses may not be sold or otherwise disposed of without the consent of both spouses.\n\r\n(2) Notwithstanding paragraph (1), in unavoidable circumstances for the preservation of matrimonial cohabitation and livelihood, one spouse may sell or otherwise dispose of the common property with the permission of the court.\n\r\n(3) If one spouse sells or otherwise disposes of the common property without the consent of the other spouse and without court permission, the non-consenting spouse may request the court to annul such disposition within two (2) years from the date they became aware of the disposition if the property disposed of is immovable, and within one (1) year if the property disposed of is movable.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 35,
+      "article": 1042,
+      "amendment_definition": "លើកលែងតែករណីដែលមានភាពចាំបាច់បន្ទាន់ អ្នកដែលមានអំណាចមេបា ត្រូវពិភាក្សាជាមួយឪពុក ឬ ម្តាយ ដែលពុំមានអំណាចមេបា អំពីចំណុចដែលទាក់ទងទៅនឹងកូន ដូចមានកំណត់ខាងក្រោមនេះ: \nក-ការអប់រំរបស់កូន ដែលហួសពីកម្រិតនៃកាតព្វកិច្ចអប់រំដែលជាករណីយកិច្ច កំណត់ដោយច្បាប់ ។ \nខ-ការផ្លាស់ប្តូរទីសំណាក់របស់កូន ពីរាជធានី ខេត្តមួយ ទៅរាជធានី ខេត្តមួយទៀត ។ \nគ-វិជ្ជាជីវៈ ឬ អាជីវកម្មរបស់កូន ។ \nឃ-សកម្មភាពព្យាបាល ដែលទាក់ទងដល់អាយុជីវិតរបស់កូន ។ \nង-ការចាត់ចែងទ្រព្យសម្បត្តិសំខាន់របស់កូន ។ \nច-ចំណុចសំខាន់ៗផេ្សងទៀត ដែលទាក់ទងទៅនឹងការគ្រប់គ្រងថែរក្សាកូន និង ទ្រព្យសម្បត្តិរបស់កូន ។",
+      "amendment_definition_eng": "Except in cases of urgent necessity, the parent holding parental authority shall consult with the other parent who does not hold parental authority regarding the following matters relating to the child:\n\r\na) The child’s education beyond the level of compulsory education as defined by law;\n\r\nb) Change of the child’s residence from one capital or province to another;\n\r\nc) The child’s profession or business;\n\r\nd) Medical treatment affecting the child’s life;\n\r\ne) Disposition of the child’s significant property;\n\r\nf) Other important matters related to the care and management of the child and the child’s property.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 36,
+      "article": 1076,
+      "amendment_definition": "សហព័ទ្ធ និង ញាតិនៅក្នុង ៤ (បួន) ថ្នាក់ របស់អ្នកអាណាព្យាបាលសម្រាប់អនីតិជន ពុំអាចធ្វើជាអ្នកត្រួតពិនិត្យអ្នកអាណាព្យាបាលសម្រាប់អនីតិជន បានឡើយ ។",
+      "amendment_definition_eng": "Neither the spouse nor a relative within four (4) degrees of kinship of the guardian of a minor may serve as the supervisor of that guardian.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 37,
+      "article": 1111,
+      "amendment_definition": "សហព័ទ្ធ និង ញាតិនៅក្នុង ៤ (បួន) ថ្នាក់របស់អ្នកអាណាព្យាបាលទូទៅ ពុំអាចធ្វើជាអ្នកត្រួតពិនិត្យអ្នកអាណាព្យាបាលទូទៅបានឡើយ ។",
+      "amendment_definition_eng": "Neither the spouse nor a relative within four (4) degrees of kinship of a general guardian may serve as the supervisor of that general guardian.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 38,
+      "article": 1157,
+      "amendment_definition": "១- បើកូនរបស់មតកជន បានទទួលមរណភាព នៅមុន ឬ ព្រមគ្នា នឹងពេលចាប់ផ្ដើមសន្តតិកម្ម ឬ បានបាត់បង់សិទ្ធិសន្តតិកម្ម ដោយត្រូវនឹងល័ក្ខខ័ណ្ឌដែលបានកំណត់ក្នុងបញ្ញត្តិនៃមាត្រា ១១៥០ (អភ័ព្វបុគ្គលនៃសន្តតិកម្ម ជាអាទិ៍) ខាងលើនេះ ឬ ដោយការផ្តាច់មត៌ក កូនរបស់បុគ្គលនោះ ត្រូវក្លាយទៅជាសន្តតិជនជំនួស ។ ប៉ុន្តែ បញ្ញត្តិនេះមិនត្រូវយកមកអនុវត្តឡើយ ចំពោះបុគ្គលដែលមិនមែនជាបច្ឆាញាតិផ្ទាល់របស់មតកជន ។ \n២- បញ្ញត្តិនៃកថាខណ្ឌទី ១ ខាងលើនេះ ត្រូវយកមកអនុវត្តជាបន្តបន្ទាប់ ចំពោះករណីដែលមានមូលហេតុដូចបានកំណត់នៅក្នុងកថាខណ្ឌទី ១ ដដែលនេះ ចំពោះអ្នកទទួលសន្តតិកម្មជំនួស ។",
+      "amendment_definition_eng": "(1) If a child of the decedent dies before or at the same time as the commencement of succession, or loses the right to succession due to any of the grounds specified in Article 1150 (Disqualified heirs, etc.) or by disinheritance, the children of that person shall become substitute heirs by succession through representation.\nHowever, this provision shall not apply to persons who are not lineal descendants of the decedent.\n\r\n(2) The provision in paragraph (1) shall apply successively in cases where the same grounds apply to a substitute heir.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 39,
+      "article": 1261,
+      "amendment_definition": "បុគ្គលដែលបានបោះបង់សន្តតិកម្ម ត្រូវចាត់ទុកថា បុគ្គលនោះមិនមែនជាសន្តតិជន ចំពោះសន្តតិកម្មនោះតាំងពីដំបូងមក ។",
+      "amendment_definition_eng": "A person who has renounced succession shall be deemed not to have been a successor from the beginning in respect of that succession.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    },
+    {
+      "id": 40,
+      "article": 1266,
+      "amendment_definition": "១- សហសន្តតិជនអាចចាប់ផ្តើមពិភាក្សាបែងចែកមត៌ក នៅពេលណាក៏បាន បើអំឡុងពេល ១ (មួយ) ខែ បានកន្លងផុត ក្រោយពីការចាប់ផ្តើមសន្តតិកម្ម ។ ប៉ុន្តែ ចំពោះការផ្លាស់ប្តូរឈ្មោះម្ចាស់សិទ្ធិលើមត៌ក ដោយសារលទ្ធផលនៃការបែងចែកមត៌ក ត្រូវអនុលោមតាមបញ្ញត្តិនៃមាត្រា ១២៧៧ (ការហាមឃាត់មិនឱ្យផ្លាស់ប្តូរឈ្មោះម្ចាស់សិទ្ធិ) នៃក្រមនេះ ឬ ចំពោះករណីដែលមតកជនហាមឃាត់ការបែងចែកមត៌កតាមមតកសាសន៍ ការបែងចែកមត៌កពុំអាចធ្វើបានឡើយ នៅក្នុងអំឡុងពេលដែលហាមឃាត់នោះ ។ \n២- ដើម្បីផេ្ទរសិទិ្ធចំពោះវត្ថុតាមការបែងចែកមត៌ក ការបែងចែកត្រូវធ្វើតាមទម្រង់ ចាំបាច់ដើម្បីផ្ទេរសិទ្ធិនីមួយៗនោះ ដូចជាលិខិតជាលាយលក្ខណ៍អក្សរជាអាទិ៍ ។",
+      "amendment_definition_eng": "(1) The co-successors may commence consultation on the partition of the estate at any time after one (1) month has passed from the commencement of succession;\nhowever, the change of ownership of the estate resulting from the partition must comply with the provisions of Article 1277 (Prohibition of change of ownership), and if the decedent has prohibited partition in a will, partition cannot be carried out during the prohibited period.\n\r\n(2) In order to transfer rights to property through partition, the partition must be made in the form required for the transfer of each specific right, such as in writing or other necessary formalities.",
+      "source": "មាត្រា ៨១.វិសោធនកម្មនូវបទប្បញ្ញត្តិមួយចំនួននៃក្រមរដ្ឋប្បវេណី នៃច្បាប់ស្តីពីការអនុវត្តក្រមរដ្ឋប្បវេណី",
+      "source_eng": "Article 81. Amendment of certain provisions of the Civil Code of the Law on the Implementation of the Civil Code",
+      "book": "civil_code"
+    }
+  ]
+}
