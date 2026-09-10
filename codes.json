@@ -6,7 +6,7 @@
     "articles_count": "១៦០ មាត្រា",
     "source": "ប្រភព៖ ក្រសួងយុត្តិធម៌",
     "description": "រដ្ឋធម្មនុញ្ញ គឺជាច្បាប់កំពូលរបស់ព្រះរាជាណាចក្រកម្ពុជា។",
-    "image_asset": "https://www.khmerlawcode.com/images/codes/constitution.jpg",
+    "image_url": "https://www.khmerlawcode.com/images/codes/constitution.jpg",
     "pdf_url": "https://www.khmerlawcode.com/pdf/constitution.pdf",
     "color_hex": "0xFFEDD185"
   },
@@ -17,7 +17,7 @@
     "articles_count": "៦៧២ មាត្រា",
     "source": "ប្រភព៖ ក្រសួងយុត្តិធម៌",
     "description": "ក្រមព្រហ្មទណ្ឌទណ្ឌ បញ្ញត្តិអំពីអំពើណាមួយថាជាបទល្មើសក្នុងស្ថានភាពដែលបុគ្គលម្នាក់ត្រូវមានទំនួលខុសត្រូវ...",
-    "image_asset": "https://www.khmerlawcode.com/images/codes/criminal-code.jpg",
+    "image_url": "https://www.khmerlawcode.com/images/codes/criminal-code.jpg",
     "pdf_url": "https://www.khmerlawcode.com/pdf/criminal.pdf",
     "color_hex": "0xFFFF3B30"
   },
@@ -28,7 +28,7 @@
     "articles_count": "៦១២ មាត្រា",
     "source": "ប្រភព៖ ក្រសួងយុត្តិធម៌",
     "description": "ក្រមនីតិវិធីព្រហ្មទណ្ឌ មានគោលបំណងកំណត់អំពីវិធានទាំងឡាយដែលត្រូវគោរព និងប្រព្រឹត្តតាមដោយហ្មត់ចត់ដើម្បី...",
-    "image_asset": "https://www.khmerlawcode.com/images/codes/criminal-procedure-code.jpg",
+    "image_url": "https://www.khmerlawcode.com/images/codes/criminal-procedure-code.jpg",
     "pdf_url": "https://www.khmerlawcode.com/pdf/criminal_procedure.pdf",
     "color_hex": "0xFFFF3B30"
   },
@@ -39,7 +39,7 @@
     "articles_count": "១៣០៥ មាត្រា",
     "source": "ប្រភព៖ ក្រសួងយុត្តិធម៌",
     "description": "ក្រមនេះ បញ្ញត្តអំពីគោលការណ៍ទូទៅដែលទាក់ទងទៅនឹងទំនាក់ទំនងគតិយុត្តផ្នែករដ្ឋប្បវេណី។",
-    "image_asset": "https://www.khmerlawcode.com/images/codes/civil-code.jpg",
+    "image_url": "https://www.khmerlawcode.com/images/codes/civil-code.jpg",
     "pdf_url": "https://www.khmerlawcode.com/pdf/civil.pdf",
     "color_hex": "0xFF5AC8FA"
   },
@@ -50,7 +50,7 @@
     "articles_count": "៥៨៨ មាត្រា",
     "source": "ប្រភព៖ ក្រសួងយុត្តិធម៌",
     "description": "នីតិវិធីដែលទាក់ទងទៅនឹងបណ្តឹងរដ្ឋប្បវេណី ត្រូវធ្វើតាមបញ្ញត្តិនៃក្រមនេះ លើកលែងតែក្នុងករណីដែលច្បាប់ផ្សេងបានកំណត់ពិសេស។",
-    "image_asset": "https://www.khmerlawcode.com/images/codes/civil-procedure-code.jpg",
+    "image_url": "https://www.khmerlawcode.com/images/codes/civil-procedure-code.jpg",
     "pdf_url": "https://www.khmerlawcode.com/pdf/civil_procedure.pdf",
     "color_hex": "0xFF5AC8FA"
   }
