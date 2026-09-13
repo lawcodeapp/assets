@@ -1,17 +1,4 @@
 {
-"constitution2": [
- {
-  "id": 1,
-  "name": "មាត្រា១.-\n",
-  "description": "\nប្រទេសកម្ពុជា ជាព្រះរាជាណាចក្រដែលព្រះមហាក្សត្រទ្រង់ប្រតិបត្តិ តាមរដ្ឋធម្មនុញ្ញនិងតាមលទ្ធិប្រជាធិបតេយ្យ សេរីពហុបក្ស ។\nព្រះរាជាណាចក្រកម្ពុជា ជារដ្ឋឯករាជ្យ អធិបតេយ្យ សន្តិភាព អព្យាក្រឹត្យ អចិន្ត្រៃយ៍ មិនចូលបក្សសម្ព័ន្ធ។\n",
-  "name_en": "Article 1\r\n",
-  "description_en": "\nCambodia is a Kingdom where the King shall fulfill his functions according to the Constitution and the principles of liberal multi-party democracy.  \r  \n\nThe Kingdom of Cambodia is an independent, sovereign, peaceful, permanently neutral and non-aligned State.  \n\n",
-  "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
-  "chapter": "ជំពូកទី ១ អំពីអធិបតេយ្យ",
-  "chapter_en": "CHAPTER 1: ON THE SOVEREIGNTY"
- }
- ],
   "constitution": [
  {
   "id": 1,
