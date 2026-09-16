@@ -1,18 +1,5 @@
 {
-"Traffic Law": [
- {
-  "id": 1,
-  "name": "មាត្រា១.-\n",
-  "description": "\nប្រទេសកម្ពុជា ជាព្រះរាជាណាចក្រដែលព្រះមហាក្សត្រទ្រង់ប្រតិបត្តិ តាមរដ្ឋធម្មនុញ្ញនិងតាមលទ្ធិប្រជាធិបតេយ្យ សេរីពហុបក្ស ។\nព្រះរាជាណាចក្រកម្ពុជា ជារដ្ឋឯករាជ្យ អធិបតេយ្យ សន្តិភាព អព្យាក្រឹត្យ អចិន្ត្រៃយ៍ មិនចូលបក្សសម្ព័ន្ធ។\n",
-  "name_en": "Article 1\r\n",
-  "description_en": "\nCambodia is a Kingdom where the King shall fulfill his functions according to the Constitution and the principles of liberal multi-party democracy.  \r  \n\nThe Kingdom of Cambodia is an independent, sovereign, peaceful, permanently neutral and non-aligned State.  \n\n",
-  "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
-  "chapter": "ជំពូកទី ១ អំពីអធិបតេយ្យ",
-  "chapter_en": "CHAPTER 1: ON THE SOVEREIGNTY"
- }
- ],
-  "constitution": [
+  "Constitution": [
  {
   "id": 1,
   "name": "មាត្រា១.-\n",
@@ -1774,7 +1761,7 @@
   "chapter_en": "CHAPTER 17 new: ON THE TRANSITIONAL PROVISIONS"
  }
 ],
-  "criminal_code": [
+  "Criminal Code": [
     {
       "id": 1,
       "name": "មាត្រា ១.- ដែនអនុវត្តនៃច្បាប់ព្រហ្មទណ្ឌ\r\n",
@@ -9179,7 +9166,7 @@
       "chapter_en": "BOOK 6 FINAL PROVISION "
     }
   ],
-  "criminal_procedure_code": [
+  "Criminal Procedure Code": [
     {
       "id": 1,
       "name": "មាត្រា ១.-គោលបំណងនៃក្រមនីតិវិធីព្រហ្មទណ្ឌ\r\n",
@@ -15913,7 +15900,7 @@
       "chapter_en": "BOOK 11: FINAL PROVISION"
     }
   ],
-  "civil_code": [
+  "Civil Code": [
     {
       "id": 1,
       "name": "មាត្រា ១.- ច្បាប់ទូទៅនៃនីតិឯកជន\n",
@@ -30270,7 +30257,7 @@
       "chapter_en": "BOOK 9 FINAL PROVISION"
     }
   ],
-  "civil_procedure_code": [
+  "Civil Procedure Code": [
     {
       "id": 1,
       "name": "មាត្រា ១.- គោលបំណងនៃក្រមនីតិវិធីរដ្ឋប្បវេណី\n",
