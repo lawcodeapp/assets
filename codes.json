@@ -1,6 +1,6 @@
 [
   {
-    "id": "constitution",
+    "id": "Constitution",
     "order": 1,
     "title": "រដ្ឋធម្មនុញ្ញ",
     "articles_count": "១៦០ មាត្រា",
@@ -11,7 +11,7 @@
     "color_hex": "0xFFEDD185"
   },
   {
-    "id": "criminal_code",
+    "id": "Criminal Code",
     "order": 2,
     "title": "ក្រមព្រហ្មទណ្ឌ",
     "articles_count": "៦៧២ មាត្រា",
@@ -22,7 +22,7 @@
     "color_hex": "0xFFFF3B30"
   },
   {
-    "id": "criminal_procedure_code",
+    "id": "Criminal Procedure Code",
     "order": 3,
     "title": "ក្រមនីតិវិធីព្រហ្មទណ្ឌ",
     "articles_count": "៦១២ មាត្រា",
@@ -33,7 +33,7 @@
     "color_hex": "0xFFFF3B30"
   },
   {
-    "id": "civil_code",
+    "id": "Civil Code",
     "order": 4,
     "title": "ក្រមរដ្ឋប្បវេណី",
     "articles_count": "១៣០៥ មាត្រា",
@@ -44,7 +44,7 @@
     "color_hex": "0xFF5AC8FA"
   },
   {
-    "id": "civil_procedure_code",
+    "id": "Civil Procedure Code",
     "order": 5,
     "title": "ក្រមនីតិវិធីរដ្ឋប្បវេណី",
     "articles_count": "៥៨៨ មាត្រា",
