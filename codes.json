@@ -7,8 +7,7 @@
     "source": "ប្រភព៖ ក្រសួងយុត្តិធម៌",
     "description": "រដ្ឋធម្មនុញ្ញ គឺជាច្បាប់កំពូលរបស់ព្រះរាជាណាចក្រកម្ពុជា។",
     "image_url": "https://www.khmerlawcode.com/images/codes/constitution.jpg",
-    "pdf_url": "https://www.khmerlawcode.com/pdf/constitution.pdf",
-    "color_hex": "0xFFEDD185"
+    "pdf_url": "https://www.khmerlawcode.com/pdf/constitution.pdf"
   },
   {
     "id": "Criminal Code",
@@ -18,8 +17,7 @@
     "source": "ប្រភព៖ ក្រសួងយុត្តិធម៌",
     "description": "ក្រមព្រហ្មទណ្ឌទណ្ឌ បញ្ញត្តិអំពីអំពើណាមួយថាជាបទល្មើសក្នុងស្ថានភាពដែលបុគ្គលម្នាក់ត្រូវមានទំនួលខុសត្រូវ...",
     "image_url": "https://www.khmerlawcode.com/images/codes/criminal-code.jpg",
-    "pdf_url": "https://www.khmerlawcode.com/pdf/criminal.pdf",
-    "color_hex": "0xFFFF3B30"
+    "pdf_url": "https://www.khmerlawcode.com/pdf/criminal.pdf"
   },
   {
     "id": "Criminal Procedure Code",
@@ -29,8 +27,7 @@
     "source": "ប្រភព៖ ក្រសួងយុត្តិធម៌",
     "description": "ក្រមនីតិវិធីព្រហ្មទណ្ឌ មានគោលបំណងកំណត់អំពីវិធានទាំងឡាយដែលត្រូវគោរព និងប្រព្រឹត្តតាមដោយហ្មត់ចត់ដើម្បី...",
     "image_url": "https://www.khmerlawcode.com/images/codes/criminal-procedure-code.jpg",
-    "pdf_url": "https://www.khmerlawcode.com/pdf/criminal_procedure.pdf",
-    "color_hex": "0xFFFF3B30"
+    "pdf_url": "https://www.khmerlawcode.com/pdf/criminal_procedure.pdf"
   },
   {
     "id": "Civil Code",
@@ -40,8 +37,7 @@
     "source": "ប្រភព៖ ក្រសួងយុត្តិធម៌",
     "description": "ក្រមនេះ បញ្ញត្តអំពីគោលការណ៍ទូទៅដែលទាក់ទងទៅនឹងទំនាក់ទំនងគតិយុត្តផ្នែករដ្ឋប្បវេណី។",
     "image_url": "https://www.khmerlawcode.com/images/codes/civil-code.jpg",
-    "pdf_url": "https://www.khmerlawcode.com/pdf/civil.pdf",
-    "color_hex": "0xFF5AC8FA"
+    "pdf_url": "https://www.khmerlawcode.com/pdf/civil.pdf"
   },
   {
     "id": "Civil Procedure Code",
@@ -51,7 +47,6 @@
     "source": "ប្រភព៖ ក្រសួងយុត្តិធម៌",
     "description": "នីតិវិធីដែលទាក់ទងទៅនឹងបណ្តឹងរដ្ឋប្បវេណី ត្រូវធ្វើតាមបញ្ញត្តិនៃក្រមនេះ លើកលែងតែក្នុងករណីដែលច្បាប់ផ្សេងបានកំណត់ពិសេស។",
     "image_url": "https://www.khmerlawcode.com/images/codes/civil-procedure-code.jpg",
-    "pdf_url": "https://www.khmerlawcode.com/pdf/civil_procedure.pdf",
-    "color_hex": "0xFF5AC8FA"
+    "pdf_url": "https://www.khmerlawcode.com/pdf/civil_procedure.pdf"
   }
 ]
