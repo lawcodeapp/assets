@@ -1,4 +1,226 @@
 {
+"Military Obligation": [
+   {
+  "id": 1,
+  "name": "មាត្រា១.-\n",
+  "description": "\nច្បាប់នេះកំណត់អំពីវិធាននៃការអនុវត្តកាតព្វកិច្ចយោធា ដើម្បីរួមចំណែកកសាងប្រទេសជាតិនិងការពារមាតុភូមិ ដែលជាកាតព្វកិច្ចចាំបាច់និងជាកិត្តិយសដ៏ឧត្តុង្គឧត្តមរបស់ប្រជាពលរដ្ឋខ្មែរ និងជាមូលដ្ឋានគ្រឹះនៃប្រភពកសាងកម្លាំងសម្រាប់វិស័យការពារជាតិនិងការអភិវឌ្ឍកាយសម្បទា ព្រមទាំងការបណ្តុះស្មារតីស្នេហាជាតិ ការអប់រំផ្នត់គំនិត និងវិន័យដែលជាតម្រូវការរបស់ប្រទេសជាតិ។\n",
+  "name_en": "Article 1\r\n",
+  "description_en": "\nThis Law defines the rules for the implementation of military obligations in order to contribute to nation-building and homeland defense, which is an essential obligation and a high honor for Cambodian citizens, and serves as the foundation of the force-building source for national defense, physical development, as well as the cultivation of patriotism, mindset education, and discipline required by the nation.\n",
+  "book": "កាតព្វកិច្ចយោធា",
+  "book_en": "Military Obligation",
+  "chapter": "ជំពូកទី ១ បទប្បញ្ញត្តិទូទៅ",
+  "chapter_en": "CHAPTER 1 GENERAL PROVISIONS"
+  },
+  {
+  "id": 2,
+  "name": "មាត្រា២.-\n",
+  "description": "\nច្បាប់នេះមានវិសាលភាពអនុវត្តចំពោះប្រជាពលរដ្ឋខ្មែរគ្រប់រូបមានអាយុចាប់ពី ១៨ (ដប់ប្រាំបី) ឆ្នាំ ដល់ ២៥ (ម្ភៃប្រាំ) ឆ្នាំ ដែលត្រូវបំពេញកាតព្វកិច្ចយោធា តាមការកំណត់នៃច្បាប់នេះ។\nការបំពេញកាតព្វកិច្ចយោធារបស់ប្រជាពលរដ្ឋខ្មែរជាស្ត្រី ត្រូវផ្អែកតាមគោលការណ៍ស្ម័គ្រចិត្ត។\nប្រជាពលរដ្ឋខ្មែរដែលមានសញ្ជាតិច្រើន ហើយដែលរស់នៅក្នុងព្រះរាជាណាចក្រកម្ពុជា ត្រូវបំពេញកាតព្វកិច្ចយោធាក្នុងព្រះរាជាណាចក្រកម្ពុជា។\nប្រជាពលរដ្ឋខ្មែរដែលត្រូវចូលបំពេញកាតព្វកិច្ចយោធា ត្រូវមានលក្ខណសម្បត្តិដូចយោធិនអាជីព ដូចមានចែងក្នុងច្បាប់ស្តីពីលក្ខន្តិកៈទូទៅចំពោះយោធិននៃកងយោធពលខេមរភូមិន្ទ។\n",
+  "name_en": "Article 2\r\n",
+  "description_en": "\nThis Law applies to all Cambodian citizens aged 18 (eighteen) to 25 (twenty-five) years who must fulfill military obligations as determined by this Law.\nThe fulfillment of military obligation by female Cambodian citizens shall be on a voluntary basis.\nCambodian citizens with multiple nationalities living in the Kingdom of Cambodia shall fulfill their military obligations in the Kingdom of Cambodia.\nCambodian citizens who enter to fulfill military obligations must have the same qualifications as professional military personnel, as specified in the Law on the General Statute for Military Personnel of the Royal Cambodian Armed Forces.\n",
+  "book": "កាតព្វកិច្ចយោធា",
+  "book_en": "Military Obligation",
+  "chapter": "ជំពូកទី ១ បទប្បញ្ញត្តិទូទៅ",
+  "chapter_en": "CHAPTER 1 GENERAL PROVISIONS"
+  },
+  {
+  "id": 3,
+  "name": "មាត្រា៣.-\n",
+  "description": "\nការបំពេញកាតព្វកិច្ចយោធា មានរយៈពេលកំណត់ ២៤ (ម្ភៃបួន) ខែ គិតពីថ្ងៃចូលបំពេញកាតព្វកិច្ច។\nក្នុងករណីចាំបាច់ កាតព្វកិច្ចយោធាអាចបន្តបានដោយមិនឱ្យលើសពី ៦ (ប្រាំមួយ) ខែ តាមការកំណត់របស់រាជរដ្ឋាភិបាល។\nចំនួនប្រជាពលរដ្ឋនិងលក្ខខណ្ឌទាំងឡាយក្នុងការចូលបំពេញកាតព្វកិច្ចយោធា សម្រាប់វគ្គនីមួយៗរៀងរាល់ឆ្នាំ ត្រូវកំណត់ដោយអនុក្រឹត្យ តាមសំណើរបស់រដ្ឋមន្ត្រីក្រសួងការពារជាតិ។\n",
+  "name_en": "Article 3\r\n",
+  "description_en": "\nThe duration of military obligation is fixed at 24 (twenty-four) months, counting from the day of entry into service.\nIn case of necessity, the military obligation may be extended for no more than 6 (six) months as determined by the Royal Government.\nThe number of citizens and all conditions for entering military service for each annual training batch shall be determined by a Sub-decree upon the proposal of the Minister of National Defense.\n",
+  "book": "កាតព្វកិច្ចយោធា",
+  "book_en": "Military Obligation",
+  "chapter": "ជំពូកទី ២ រយៈពេលនៃការចូលបំពេញកាតព្វកិច្ចយោធា និងលក្ខន្តិកៈដោយឡែកនៃយោធិនបម្រុង",
+  "chapter_en": "CHAPTER 2 DURATION OF MILITARY OBLIGATION SERVICE AND SEPARATE STATUTE OF RESERVE PERSONNEL"
+  },
+  {
+  "id": 4,
+  "name": "មាត្រា៤.-\n",
+  "description": "\nយោធិនដែលបានបញ្ចប់កាតព្វកិច្ចយោធាហើយ ត្រូវអនុញ្ញាតឱ្យទៅកាន់ជីវភាពស៊ីវិលវិញ ប៉ុន្តែត្រូវស្ថិតក្នុងបញ្ជីយោធិនបម្រុង រហូតដល់អាយុ ៤៥ (សែសិបប្រាំ) ឆ្នាំ។ យោធិននេះក៏អាចស្ថិតនៅក្នុងអាជីពយោធាបន្តទៅទៀតបាន ទៅតាមតម្រូវការរបស់ក្រសួងការពារជាតិនិងដោយឈរលើគោលការណ៍ស្ម័គ្រចិត្ត។\nក្នុងស្ថានភាពជាយោធិនបម្រុងនេះ សាមីជនត្រូវមកបំពេញភារកិច្ចក្នុងកងយោធពលខេមរភូមិន្ទ តាមការអញ្ជើញគ្រប់ពេលវេលា តាមការចាំបាច់របស់ប្រទេសជាតិ តាមគ្រប់រូបភាព និងតាមកាលៈទេសៈតម្រូវ តាមការកំណត់របស់រាជរដ្ឋាភិបាល។\n",
+  "name_en": "Article 4\r\n",
+  "description_en": "\nMilitary personnel who have completed their military obligation shall be allowed to return to civilian life, but must remain on the reserve list until the age of 45 (forty-five). Such personnel may also continue in the military career based on the needs of the Ministry of National Defense and on a voluntary basis.\nIn this status as reserve personnel, the individual concerned must report to perform duties in the Royal Cambodian Armed Forces whenever summoned, as required by national necessity, in all forms and circumstances as determined by the Royal Government.\n",
+  "book": "កាតព្វកិច្ចយោធា",
+  "book_en": "Military Obligation",
+  "chapter": "ជំពូកទី ២ រយៈពេលនៃការចូលបំពេញកាតព្វកិច្ចយោធា និងលក្ខន្តិកៈដោយឡែកនៃយោធិនបម្រុង",
+  "chapter_en": "CHAPTER 2 DURATION OF MILITARY OBLIGATION SERVICE AND SEPARATE STATUTE OF RESERVE PERSONNEL"
+  },
+  {
+  "id": 5,
+  "name": "មាត្រា៥.-\n",
+  "description": "\nលក្ខន្តិកៈដោយឡែកនៃយោធិនបម្រុង ត្រូវកំណត់ដោយព្រះរាជក្រឹត្យ។\n",
+  "name_en": "Article 5\r\n",
+  "description_en": "\nThe separate statute of reserve personnel shall be determined by a Royal Decree.\n",
+  "book": "កាតព្វកិច្ចយោធា",
+  "book_en": "Military Obligation",
+  "chapter": "ជំពូកទី ២ រយៈពេលនៃការចូលបំពេញកាតព្វកិច្ចយោធា និងលក្ខន្តិកៈដោយឡែកនៃយោធិនបម្រុង",
+  "chapter_en": "CHAPTER 2 DURATION OF MILITARY OBLIGATION SERVICE AND SEPARATE STATUTE OF RESERVE PERSONNEL"
+  },
+  {
+  "id": 6,
+  "name": "មាត្រា៦.-\n",
+  "description": "\nប្រជាពលរដ្ឋខ្មែរគ្រប់រូបដែលដល់អាយុត្រូវបំពេញកាតព្វកិច្ចយោធា ត្រូវអញ្ជើញទៅចុះឈ្មោះក្នុងបញ្ជីជំរឿនកាតព្វកិច្ចយោធា។ ការធ្វើជំរឿន ត្រូវអនុវត្តចំពោះប្រជាពលរដ្ឋខ្មែរគ្រប់រូបដែលមានអាយុចាប់ពី ១៧ (ដប់ប្រាំពីរ) ឆ្នាំឡើងទៅ។\nប្រជាពលរដ្ឋខ្មែរដែលមានឈ្មោះក្នុងបញ្ជីតម្រូវឱ្យចូលបំពេញកាតព្វកិច្ចយោធា ត្រូវទទួលបាននូវការជូនដំណឹងអំពីកាលបរិច្ឆេទនិងទីកន្លែងនៃការចុះឈ្មោះចូលបំពេញកាតព្វកិច្ចយោធា។\nលក្ខខណ្ឌនិងបែបបទនៃការធ្វើជំរឿន ការជ្រើសរើស ការអញ្ជើញ និងការអនុវត្តកាតព្វកិច្ចយោធា ត្រូវកំណត់ដោយអនុក្រឹត្យ។\n",
+  "name_en": "Article 6\r\n",
+  "description_en": "\nEvery Cambodian citizen reaching the required age for military service must register in the military obligation census list. The census shall be conducted for every Cambodian citizen aged 17 (seventeen) years and above.\nCambodian citizens whose names are on the list required to perform military service shall receive notification regarding the date and location for military service registration.\nThe conditions and procedures for census, selection, summoning, and execution of military obligation shall be determined by a Sub-decree.\n",
+  "book": "កាតព្វកិច្ចយោធា",
+  "book_en": "Military Obligation",
+  "chapter": "ជំពូកទី ៣ ការចុះបញ្ជី ការអញ្ជើញ ការពន្យារពេល និងការអនុញ្ញាតឱ្យរួចផុតពីកាតព្វកិច្ចយោធា",
+  "chapter_en": "CHAPTER 3 REGISTRATION, SUMMONS, POSTPONEMENT, AND EXEMPTION FROM MILITARY OBLIGATION"
+  },
+  {
+  "id": 7,
+  "name": "មាត្រា៧.-\n",
+  "description": "\nប្រជាពលរដ្ឋដែលត្រូវបានជ្រើសរើសឱ្យចូលបំពេញកាតព្វកិច្ចយោធា អាចដាក់ពាក្យសុំពន្យារពេល ១ (មួយ) ឆ្នាំម្តងៗ។\nលក្ខខណ្ឌនិងបែបបទនៃការពន្យារពេល ត្រូវកំណត់ដោយអនុក្រឹត្យ។\n",
+  "name_en": "Article 7\r\n",
+  "description_en": "\nCitizens selected for military obligation may apply for a 1 (one) year postponement at a time.\nThe conditions and procedures for postponement shall be determined by a Sub-decree.\n",
+  "book": "កាតព្វកិច្ចយោធា",
+  "book_en": "Military Obligation",
+  "chapter": "ជំពូកទី ៣ ការចុះបញ្ជី ការអញ្ជើញ ការពន្យារពេល និងការអនុញ្ញាតឱ្យរួចផុតពីកាតព្វកិច្ចយោធា",
+  "chapter_en": "CHAPTER 3 REGISTRATION, SUMMONS, POSTPONEMENT, AND EXEMPTION FROM MILITARY OBLIGATION"
+  },
+  {
+  "id": 8,
+  "name": "មាត្រា៨.-\n",
+  "description": "\nការអនុញ្ញាតឱ្យរួចផុតពីកាតព្វកិច្ចយោធា ត្រូវអនុវត្តចំពោះ៖\n- ព្រះសង្ឃ បព្វជិតនៃសាសនាផ្សេងៗ ដែលមានការទទួលស្គាល់ពីក្រសួងធម្មការនិងសាសនា\n- ប្រជាពលរដ្ឋដែលមានសមត្ថភាពឬទេពកោសល្យពិសេស ក្នុងវិស័យវិទ្យាសាស្ត្រ បច្ចេកវិទ្យា និងនវានុវត្តន៍ដែលមានការបញ្ជាក់ពីក្រសួង ស្ថាប័នមានសមត្ថកិច្ច\n- អ្នកឯកទេសជំនាញដែលបានចុះកិច្ចសហប្រតិបត្តិការបំពេញបេសកកម្មស្រាវជ្រាវឬអនុវត្តផ្ទាល់នូវកិច្ចការដែលជាប្រយោជន៍ផ្នែកសាធារណៈនៃកងយោធពលខេមរភូមិន្ទ ដែលមានរយៈពេលកំណត់ស្មើនឹងរយៈពេលបំពេញកាតព្វកិច្ចយោធាដូចមានកំណត់ក្នុងច្បាប់នេះ\n- ប្រជាពលរដ្ឋដែលបានបញ្ចប់សេវាជាយោធិនជាប់កិច្ចសន្យាស្របតាមលិខិតបទដ្ឋានគតិយុត្តជាធរមាន\n- ប្រជាពលរដ្ឋដែលមានកាយសម្បទាមិនគ្រប់គ្រាន់តាមការតម្រូវ ដោយមានការត្រួតពិនិត្យជាក់ស្តែងពីគណៈកម្មការសុខាភិបាល។\n",
+  "name_en": "Article 8\r\n",
+  "description_en": "\nExemptions from military obligation shall apply to:\n- Buddhist monks and clergy of other religions recognized by the Ministry of Cults and Religions;\n- Citizens with special abilities or talents in science, technology, and innovation, certified by competent ministries/institutions;\n- Specialized experts engaged in cooperative research missions or direct implementation of public interest tasks of the Royal Cambodian Armed Forces for a period equal to the military service duration specified in this Law;\n- Citizens who have completed service as contract military personnel in accordance with existing legal instruments;\n- Citizens with insufficient physical fitness as required, verified through actual medical examination by the Health Committee.\n",
+  "book": "កាតព្វកិច្ចយោធា",
+  "book_en": "Military Obligation",
+  "chapter": "ជំពូកទី ៣ ការចុះបញ្ជី ការអញ្ជើញ ការពន្យារពេល និងការអនុញ្ញាតឱ្យរួចផុតពីកាតព្វកិច្ចយោធា",
+  "chapter_en": "CHAPTER 3 REGISTRATION, SUMMONS, POSTPONEMENT, AND EXEMPTION FROM MILITARY OBLIGATION"
+  },
+  {
+  "id": 9,
+  "name": "មាត្រា៩.-\n",
+  "description": "\nក្នុងរយៈពេលនៃការបំពេញកាតព្វកិច្ចយោធា យោធិនគ្រប់រូបត្រូវទទួលបានប្រាក់ឧបត្ថម្ភនិងគោលរបបផ្សេងៗ ដែលត្រូវកំណត់ដោយអនុក្រឹត្យ។\nយោធិនមានជំងឺ ឬរងរបួស ឬគ្រោះថ្នាក់ផ្សេងៗ ត្រូវទទួលបានការសង្គ្រោះ ការព្យាបាល និងការថែទាំពីក្រសួងការពារជាតិ។ ក្នុងករណីយោធិនពលី មរណៈ ឬពិការ ដោយសារបុព្វហេតុជាតិមាតុភូមិពេលបំពេញបេសកកម្មក្នុងអំឡុងពេលនៃការបំពេញកាតព្វកិច្ចយោធា យោធិនត្រូវទទួលបានគោលរបបផ្សេងៗ ដែលត្រូវកំណត់ដោយអនុក្រឹត្យ។\nយោធិនដែលបានបង្កើតស្នាដៃល្អក្នុងពេលបំពេញកាតព្វកិច្ចយោធា ត្រូវបានលើកទឹកចិត្តនិងសរសើរដូចយោធិនអាជីព។\n",
+  "name_en": "Article 9\r\n",
+  "description_en": "\nDuring the period of military service, all military personnel shall receive allowances and other benefits as determined by a Sub-decree.\nMilitary personnel who fall ill, suffer injuries, or meet with accidents shall receive rescue, medical treatment, and care from the Ministry of National Defense. In cases where military personnel fall in action, die, or become disabled due to the cause of the nation/homeland while performing missions during military service, they shall receive various benefits as determined by a Sub-decree.\nMilitary personnel who achieve good merits during military service shall be encouraged and commended in the same manner as professional military personnel.\n",
+  "book": "កាតព្វកិច្ចយោធា",
+  "book_en": "Military Obligation",
+  "chapter": "ជំពូកទី ៤ កាតព្វកិច្ចនិងអត្ថប្រយោជន៍នៃការបំពេញកាតព្វកិច្ចយោធា",
+  "chapter_en": "CHAPTER 4 OBLIGATIONS AND BENEFITS OF MILITARY SERVICE"
+  },
+  {
+  "id": 10,
+  "name": "មាត្រា១០.-\n",
+  "description": "\nក្នុងរយៈពេលនៃការបំពេញកាតព្វកិច្ចយោធា យោធិនគ្រប់រូបត្រូវគោរពតាមបទវិន័យទូទៅសម្រាប់កងយោធពលខេមរភូមិន្ទ ស្របតាមលិខិតបទដ្ឋានគតិយុត្តជាធរមាន។\n",
+  "name_en": "Article 10\r\n",
+  "description_en": "\nDuring the period of military service, all military personnel must comply with the general disciplinary regulations for the Royal Cambodian Armed Forces in accordance with existing legal instruments.\n",
+  "book": "កាតព្វកិច្ចយោធា",
+  "book_en": "Military Obligation",
+  "chapter": "ជំពូកទី ៤ កាតព្វកិច្ចនិងអត្ថប្រយោជន៍នៃការបំពេញកាតព្វកិច្ចយោធា",
+  "chapter_en": "CHAPTER 4 OBLIGATIONS AND BENEFITS OF MILITARY SERVICE"
+  },
+  {
+  "id": 11,
+  "name": "មាត្រា១១.-\n",
+  "description": "\nយោធិនដែលបានបញ្ចប់កាតព្វកិច្ចយោធា ត្រូវទទួលបានការលើកទឹកចិត្ត ដែលត្រូវកំណត់ដោយអនុក្រឹត្យ។\nស្ថាប័នរដ្ឋ សហគ្រាសសាធារណៈឬឯកជននានា និងអង្គការសង្គមស៊ីវិល ត្រូវទទួលឱ្យប្រជាពលរដ្ឋដែលបានបញ្ចប់កាតព្វកិច្ចយោធានោះ ចូលបម្រើការងារវិញក្នុងក្របខ័ណ្ឌដើម ដោយរក្សាមុខតំណែងដូចមុនពេលទៅបំពេញកាតព្វកិច្ចយោធា ហើយផ្តល់អាទិភាពក្នុងការពិចារណាដំឡើងមុខតំណែង ឬថ្នាក់ ឬឋានន្តរសក្តិ។ រយៈពេលនៃការបំពេញកាតព្វកិច្ចយោធា ត្រូវបានរាប់បញ្ចូលក្នុងអតីតភាពសម្រាប់ការដំឡើងថ្នាក់ ឬឋានន្តរសក្តិ ឬការចូលនិវត្តន៍របស់សាមីជនផងដែរ។\nគ្រឹះស្ថានសាធារណៈឬឯកជននានា ត្រូវទទួលឱ្យសិស្ស និស្សិតដែលបានបញ្ចប់កាតព្វកិច្ចយោធានោះ បន្តការសិក្សាវិញ ដោយរក្សាលទ្ធផលនៃការសិក្សាកន្លងមករបស់សាមីជន។\nបែបបទនិងនីតិវិធីក្នុងការទទួលយកប្រជាពលរដ្ឋដែលបញ្ចប់កាតព្វកិច្ចយោធាឱ្យចូលបម្រើការងារ ឬបន្តការសិក្សាវិញ ត្រូវកំណត់ដោយអនុក្រឹត្យ។\n",
+  "name_en": "Article 11\r\n",
+  "description_en": "\nMilitary personnel who have completed military service shall receive incentives as determined by a Sub-decree.\nState institutions, public or private enterprises, and civil society organizations must reinstate citizens who have completed military service back to their original framework, maintaining the same positions as prior to military service, and give priority in considering promotion of position, class, or rank. The duration of military service shall also be counted toward seniority for promotion of class or rank, or retirement.\nPublic or private establishments must readmit students who have completed military service to continue their studies while preserving their past academic results.\nProcedures and formalities for accepting citizens who complete military service back to employment or studies shall be determined by a Sub-decree.\n",
+  "book": "កាតព្វកិច្ចយោធា",
+  "book_en": "Military Obligation",
+  "chapter": "ជំពូកទី ៤ កាតព្វកិច្ចនិងអត្ថប្រយោជន៍នៃការបំពេញកាតព្វកិច្ចយោធា",
+  "chapter_en": "CHAPTER 4 OBLIGATIONS AND BENEFITS OF MILITARY SERVICE"
+  },
+  {
+  "id": 12,
+  "name": "មាត្រា១២.-\n",
+  "description": "\nបទល្មើសព្រហ្មទណ្ឌដែលមានចែងក្នុងច្បាប់នេះ ត្រូវស្ថិតក្រោមសមត្ថកិច្ចរបស់តុលាការយោធា។\n",
+  "name_en": "Article 12\r\n",
+  "description_en": "\nCriminal offenses specified under this Law shall fall within the jurisdiction of the Military Court.\n",
+  "book": "កាតព្វកិច្ចយោធា",
+  "book_en": "Military Obligation",
+  "chapter": "ជំពូកទី ៥ សមត្ថកិច្ចតុលាការ",
+  "chapter_en": "CHAPTER 5 COURT JURISDICTION"
+  },
+  {
+  "id": 13,
+  "name": "មាត្រា១៣.-\n",
+  "description": "\nប្រជាពលរដ្ឋគ្រប់រូប ដែលត្រូវបានអញ្ជើញឱ្យចូលបំពេញកាតព្វកិច្ចយោធា ហើយមិនបានមកបង្ហាញខ្លួនតាមការអញ្ជើញក្នុងរយៈពេល ៣០ (សាមសិប) ថ្ងៃ គិតពីថ្ងៃដែលសាមីខ្លួនបានទទួលដំណឹង ត្រូវចាត់ទុកជាជនដែលគេចវេះពីកាតព្វកិច្ចយោធា លើកលែងតែមានមូលហេតុត្រឹមត្រូវដែលជននោះពុំអាចមកបង្ហាញខ្លួនបានតាមការកំណត់។\nជនណាដែលគេចវេះពីកាតព្វកិច្ចយោធា ត្រូវផ្តន្ទាទោស ដូចខាងក្រោម៖\n- ដាក់ពន្ធនាគារពី ៦ (ប្រាំមួយ) ខែ ទៅ ២ (ពីរ) ឆ្នាំ និងពិន័យជាប្រាក់ពី ១ ០០០ ០០០ (មួយលាន) រៀល ទៅ ៤ ០០០ ០០០ (បួនលាន) រៀល ប្រសិនបើអំពើនេះ ត្រូវបានប្រព្រឹត្តក្នុងកាលៈទេសៈដែលប្រទេសមានសន្តិភាព\n- ដាក់ពន្ធនាគារពី ២ (ពីរ) ឆ្នាំ ទៅ ៥ (ប្រាំ) ឆ្នាំ និងពិន័យជាប្រាក់ពី ៤ ០០០ ០០០ (បួនលាន) រៀល ទៅ ១០ ០០០ ០០០ (ដប់លាន) រៀល ប្រសិនបើអំពើនេះ ត្រូវបានប្រព្រឹត្តក្នុងកាលៈទេសៈដែលប្រទេសមានសង្គ្រាម ឬរងការឈ្លានពានពីកម្លាំងបរទេស។\nបញ្ញត្តិនៃកថាខណ្ឌទី២ខាងលើនេះ ត្រូវយកមកអនុវត្តដូចគ្នាផងដែរ ចំពោះជនណាដែលគេចវេះក្នុងអំឡុងពេលនៃការអនុវត្តកាតព្វកិច្ចយោធាដែលបានកំណត់ក្នុងច្បាប់នេះ។\nក្នុងករណីជនល្មើសទទួលកំហុសរបស់ខ្លួន ហើយសុខចិត្តចូលមកបំពេញកាតព្វកិច្ចយោធាវិញនៅមុនពេលដែលមានសេចក្តីសម្រេចជាស្ថាពរពីតុលាការ ជននោះត្រូវទទួលបានការអនុគ្រោះពីការផ្តន្ទាទោស ប៉ុន្តែត្រូវបញ្ជូនជននោះទៅអនុវត្តទណ្ឌកម្មវិន័យ។ បែបបទនិងនីតិវិធីនៃការអនុវត្តទណ្ឌកម្មវិន័យ ត្រូវកំណត់ដោយប្រកាសរបស់រដ្ឋមន្ត្រីក្រសួងការពារជាតិ។\n",
+  "name_en": "Article 13\r\n",
+  "description_en": "\nEvery citizen summoned to fulfill military obligations who fails to report within 30 (thirty) days from the date of receiving notification shall be considered as an evader of military obligation, unless there are legitimate reasons preventing them from appearing as required.\nAny person who evades military service shall be punished as follows:\n- Imprisonment from 6 (six) months to 2 (two) years and a fine from 1,000,000 (one million) Riels to 4,000,000 (four million) Riels, if committed during peacetime;\n- Imprisonment from 2 (two) years to 5 (five) years and a fine from 4,000,000 (four million) Riels to 10,000,000 (ten million) Riels, if committed during circumstances where the country is at war or subject to an invasion by foreign forces.\nThe provisions of paragraph 2 above shall also apply to any person who evades during the implementation period of military obligation specified in this Law.\nIn case the offender admits fault and agrees to return to fulfill military service prior to a final court decision, that person shall receive leniency from penal punishment, but shall be sent to undergo disciplinary sanctions. Procedures for disciplinary sanctions shall be determined by a Prakas of the Minister of National Defense.\n",
+  "book": "កាតព្វកិច្ចយោធា",
+  "book_en": "Military Obligation",
+  "chapter": "ជំពូកទី ៦ ទោសប្បញ្ញត្តិ",
+  "chapter_en": "CHAPTER 6 PENAL PROVISIONS"
+  },
+  {
+  "id": 14,
+  "name": "មាត្រា១៤.-\n",
+  "description": "\nការញុះញង់ឱ្យគេចវេះពីការបំពេញកាតព្វកិច្ចយោធា ត្រូវផ្តន្ទាទោសដូចគ្នានឹងបទល្មើសគេចវេះពីកាតព្វកិច្ចយោធា ដូចមានចែងក្នុងមាត្រា១៣ នៃច្បាប់នេះ។\nអ្នកផ្តើមគំនិតឬសមគំនិតនៃបទល្មើសដូចមានចែងក្នុងច្បាប់នេះ ត្រូវផ្តន្ទាទោសដូចគ្នានឹងចារីដែរ។\n",
+  "name_en": "Article 14\r\n",
+  "description_en": "\nIncitement to evade military obligation shall be punished in the same manner as the offense of military service evasion provided in Article 13 of this Law.\nInstigators or accomplices of the offenses provided in this Law shall be punished in the same manner as perpetrators.\n",
+  "book": "កាតព្វកិច្ចយោធា",
+  "book_en": "Military Obligation",
+  "chapter": "ជំពូកទី ៦ ទោសប្បញ្ញត្តិ",
+  "chapter_en": "CHAPTER 6 PENAL PROVISIONS"
+  },
+ {
+    "id": 15,
+    "name": "មាត្រា១៥.-\n",
+    "description": "\nជនណាដែលឆ្លៀតយកឋានៈនិងតួនាទី ដើម្បីរាំងស្ទះមិនឱ្យប្រជាពលរដ្ឋចូលបំពេញកាតព្វកិច្ចយោធា ត្រូវផ្តន្ទាទោសដាក់ពន្ធនាគារពី ២ (ពីរ) ឆ្នាំ ទៅ ៥ (ប្រាំ) ឆ្នាំ និងពិន័យជាប្រាក់ពី ៤ ០០០ ០០០ (បួនលាន) រៀល ទៅ ១០ ០០០ ០០០ (ដប់លាន) រៀល។\n",
+    "name_en": "Article 15\r\n",
+    "description_en": "\nAny person who takes advantage of their position and role to obstruct citizens from fulfilling their military obligation shall be punished by imprisonment from 2 (two) years to 5 (five) years and a fine from 4,000,000 (four million) Riels to 10,000,000 (ten million) Riels.\n",
+    "book": "កាតព្វកិច្ចយោធា",
+    "book_en": "Military Obligation",
+    "chapter": "ជំពូកទី ៦ ទោសប្បញ្ញត្តិ",
+    "chapter_en": "CHAPTER 6 PENAL PROVISIONS"
+  },
+  {
+    "id": 16,
+    "name": "មាត្រា១៦.-\n",
+    "description": "\nចំពោះជនណាដែលប្រព្រឹត្តបទល្មើសដែលមានចែងក្នុងមាត្រា១៣ មាត្រា១៤ និងមាត្រា១៥ នៃច្បាប់នេះ តុលាការអាចប្រកាសទោសបន្ថែមមួយឬច្រើន ដូចមានចែងក្នុងមាត្រា៥៣ (ប្រភេទនៃទោសបន្ថែម) នៃក្រមព្រហ្មទណ្ឌ។\nបែបបទនិងនីតិវិធីសម្រាប់ការអនុវត្តទោសបន្ថែមទាំងនេះ ត្រូវអនុលោមតាមបទប្បញ្ញត្តិនៃក្រមព្រហ្មទណ្ឌ។\n",
+    "name_en": "Article 16\r\n",
+    "description_en": "\nFor any person who commits the offenses specified in Article 13, Article 14, and Article 15 of this Law, the court may pronounce one or more additional penalties as specified in Article 53 (Types of Additional Penalties) of the Criminal Code.\nThe formalities and procedures for the implementation of these additional penalties shall comply with the provisions of the Criminal Code.\n",
+    "book": "កាតព្វកិច្ចយោធា",
+    "book_en": "Military Obligation",
+    "chapter": "ជំពូកទី ៦ ទោសប្បញ្ញត្តិ",
+    "chapter_en": "CHAPTER 6 PENAL PROVISIONS"
+  },
+  {
+    "id": 17,
+    "name": "មាត្រា១៧.-\n",
+    "description": "\nការអនុវត្តទោសប្បញ្ញត្តិនៃជំពូកទី៦ នៃច្បាប់នេះ មិនរារាំងដល់ការអនុវត្តច្បាប់ព្រហ្មទណ្ឌផ្សេងទៀត ក្នុងករណីដែលអំពើដែលកំណត់ថាជាបទល្មើសដែលមានចែងក្នុងច្បាប់នេះ ជាបទល្មើសដែលបានបញ្ញត្តិក្នុងច្បាប់ព្រហ្មទណ្ឌផ្សេងទៀត។\n",
+    "name_en": "Article 17\r\n",
+    "description_en": "\nThe application of the penal provisions under Chapter 6 of this Law shall not prevent the application of other criminal laws in cases where the act defined as an offense under this Law is an offense defined in other criminal laws.\n",
+    "book": "កាតព្វកិច្ចយោធា",
+    "book_en": "Military Obligation",
+    "chapter": "ជំពូកទី ៦ ទោសប្បញ្ញត្តិ",
+    "chapter_en": "CHAPTER 6 PENAL PROVISIONS"
+  },
+  {
+    "id": 18,
+    "name": "មាត្រា១៨.-\n",
+    "description": "\nលិខិតបទដ្ឋានគតិយុត្តទាំងឡាយដែលពាក់ព័ន្ធនឹងការអនុវត្តច្បាប់ស្តីពីកាតព្វកិច្ចយោធា ដែលត្រូវបានប្រកាសឱ្យប្រើដោយព្រះរាជក្រមលេខ នស/រកម/១២០៦/០៣០ ចុះថ្ងៃទី២២ ខែធ្នូ ឆ្នាំ២០០៦ ត្រូវមានអានុភាពអនុវត្តបន្តរហូតដល់មានលិខិតបទដ្ឋានគតិយុត្តថ្មីមកជំនួស ស្របតាមបទប្បញ្ញត្តិនៃច្បាប់នេះ។\n",
+    "name_en": "Article 18\r\n",
+    "description_en": "\nAll legal instruments related to the implementation of the Law on Military Obligation promulgated by Royal Kram No. NS/RKM/1206/030 dated December 22, 2006 shall remain in effect until replaced by new legal instruments in accordance with the provisions of this Law.\n",
+    "book": "កាតព្វកិច្ចយោធា",
+    "book_en": "Military Obligation",
+    "chapter": "ជំពូកទី ៧ អន្តរប្បញ្ញត្តិ",
+    "chapter_en": "CHAPTER 7 TRANSITIONAL PROVISIONS"
+  },
+  {
+    "id": 19,
+    "name": "មាត្រា១៩.-\n",
+    "description": "\nច្បាប់ស្តីពីកាតព្វកិច្ចយោធាដែលប្រកាសឱ្យប្រើដោយព្រះរាជក្រមលេខ នស/រកម/១២០៦/០៣០ ចុះថ្ងៃទី២២ ខែធ្នូ ឆ្នាំ២០០៦ និងបទប្បញ្ញត្តិទាំងឡាយណាដែលផ្ទុយនឹងច្បាប់នេះ ត្រូវទុកជានិរាករណ៍។\n",
+    "name_en": "Article 19\r\n",
+    "description_en": "\nThe Law on Military Obligation promulgated by Royal Kram No. NS/RKM/1206/030 dated December 22, 2006, and any provisions contrary to this Law, shall be abrogated.\n",
+    "book": "កាតព្វកិច្ចយោធា",
+    "book_en": "Military Obligation",
+    "chapter": "ជំពូកទី ៨ អវសានប្បញ្ញត្តិ",
+    "chapter_en": "CHAPTER 8 FINAL PROVISIONS"
+  },
+  {
+    "id": 20,
+    "name": "មាត្រា២០.-\n",
+    "description": "\nច្បាប់នេះត្រូវបានប្រកាសជាការប្រញាប់។\n",
+    "name_en": "Article 20\r\n",
+    "description_en": "\nThis Law shall be declared urgent.\n",
+    "book": "កាតព្វកិច្ចយោធា",
+    "book_en": "Military Obligation",
+    "chapter": "ជំពូកទី ៨ អវសានប្បញ្ញត្តិ",
+    "chapter_en": "CHAPTER 8 FINAL PROVISIONS"
+  }
+],
   "Constitution": [
  {
   "id": 1,
@@ -7,7 +229,7 @@
   "name_en": "Article 1\r\n",
   "description_en": "\nCambodia is a Kingdom where the King shall fulfill his functions according to the Constitution and the principles of liberal multi-party democracy.  \r  \n\nThe Kingdom of Cambodia is an independent, sovereign, peaceful, permanently neutral and non-aligned State.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១ អំពីអធិបតេយ្យ",
   "chapter_en": "CHAPTER 1: ON THE SOVEREIGNTY"
  },
@@ -18,7 +240,7 @@
   "name_en": "Article 2\r\n",
   "description_en": "\nThe territorial integrity of the Kingdom of Cambodia shall be absolutely inviolable within its borders as defined in the 1\/100,000 scale map made between the years 1933-1953, and internationally recognized between the years 1963-1969.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១ អំពីអធិបតេយ្យ",
   "chapter_en": "CHAPTER 1: ON THE SOVEREIGNTY"
  },
@@ -29,7 +251,7 @@
   "name_en": "Article 3\r\n",
   "description_en": "\nThe Kingdom of Cambodia is an indivisible State.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១ អំពីអធិបតេយ្យ",
   "chapter_en": "CHAPTER 1: ON THE SOVEREIGNTY"
  },
@@ -40,7 +262,7 @@
   "name_en": "Article 4\r\n",
   "description_en": "\nThe motto of the Kingdom of Cambodia is: Nation, Religion, King.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១ អំពីអធិបតេយ្យ",
   "chapter_en": "CHAPTER 1: ON THE SOVEREIGNTY"
  },
@@ -51,7 +273,7 @@
   "name_en": "Article 5\r\n",
   "description_en": "\nThe official language and script are those in Khmer.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១ អំពីអធិបតេយ្យ",
   "chapter_en": "CHAPTER 1: ON THE SOVEREIGNTY"
  },
@@ -62,7 +284,7 @@
   "name_en": "Article 6\r\n",
   "description_en": "\nPhnom Penh is the capital city of the Kingdom of Cambodia.  \r  \n\nThe national flag, anthem and coat of arms are defined in Annexes 1, 2 and 3.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១ អំពីអធិបតេយ្យ",
   "chapter_en": "CHAPTER 1: ON THE SOVEREIGNTY"
  },
@@ -73,7 +295,7 @@
   "name_en": "Article 7\r\n",
   "description_en": "\nThe King of Cambodia shall reign, but not govern.  \r  \n\nThe King is the Head of State for life.  \r  \n\nThe Person of the King shall be inviolable.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ២ អំពីព្រះមហាក្សត្រ",
   "chapter_en": "CHAPTER 2: ON THE KING"
  },
@@ -84,7 +306,7 @@
   "name_en": "Article 8\r\n",
   "description_en": "\nThe King shall incarnate the symbol of national unity and continuity.  \r  \n\nThe King shall be the guarantor of the national independence, the sovereignty and the territorial integrity of the Kingdom of Cambodia, and the guarantor for the respect of citizens’ rights and freedom, and of international treaties.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ២ អំពីព្រះមហាក្សត្រ",
   "chapter_en": "CHAPTER 2: ON THE KING"
  },
@@ -95,7 +317,7 @@
   "name_en": "Article 9\r\n",
   "description_en": "\nThe King shall assume the role as supreme arbiter to ensure the regular execution of public powers.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ២ អំពីព្រះមហាក្សត្រ",
   "chapter_en": "CHAPTER 2: ON THE KING"
  },
@@ -106,7 +328,7 @@
   "name_en": "Article 10\r\n",
   "description_en": "\nThe Cambodian monarchy is an elective monarchy.  \r  \n\nThe King can not appoint His heir to the throne.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ២ អំពីព្រះមហាក្សត្រ",
   "chapter_en": "CHAPTER 2: ON THE KING"
  },
@@ -117,7 +339,7 @@
   "name_en": "Article 11 new\r\n",
   "description_en": "\nIn case the King can not as usual perform His duties of Head of State for being seriously ill, as certified by a team of specialized medical doctors chosen by the President of the Senate, the President of the National Assembly and the Prime Minister, the President of the Senate shall perform the duties of Head of State as Regent in His stead.  \r  \n\nIn case the President of the Senate can not perform his duties of Head of State in the stead of the King, acting as Regent, while the King is seriously ill as stipulated in the aforementioned paragraph, the President of the National Assembly shall perform these duties.  \r  \n\nIn the case stated in the aforementioned paragraph, other dignitaries in the following hierarchy can perform the role of Regent as Acting Head of State:  \r  \na - First Vice-President of the Senate  \r  \nb - First Vice-President of the National Assembly  \r  \nc - Second Vice-President of the Senate  \r  \nd - Second Vice-President of the National Assembly\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ២ អំពីព្រះមហាក្សត្រ",
   "chapter_en": "CHAPTER 2: ON THE KING"
  },
@@ -128,7 +350,7 @@
   "name_en": "Article 12 new\r\n",
   "description_en": "\nAt the decease of the King, the President of the Senate shall perform the role of Head of State ad interim in his capacity as Regent of the Kingdom of Cambodia.  \r  \n\nIn case the President of the Senate can not perform his duties of Head of State ad interim in his capacity as Regent, the paragraphs 2 and 3 of Article 11 new must be implemented.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ២ អំពីព្រះមហាក្សត្រ",
   "chapter_en": "CHAPTER 2: ON THE KING"
  },
@@ -139,7 +361,7 @@
   "name_en": "Article 13 new\r\n",
   "description_en": "\nWithin a period not exceeding seven days, the new King of Cambodia shall be elected by the Crown Council.  \r  \n\nThe membership of the Crown Council shall be composed of:  \r  \n-The President of the Senate  \r  \n-The President of the National Assembly  \r  \n-The Prime Minister  \r  \n-The Supreme Patriarchs of the two religious orders, Mahanikaya and Dhammayutikanikaya  \r  \n-The First and Second Vice-Presidents of the Senate  \r  \n-The First and Second Vice-Presidents of the National Assembly  \r  \n\nThe organization and functioning of the Crown Council shall be determined by law.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ២ អំពីព្រះមហាក្សត្រ",
   "chapter_en": "CHAPTER 2: ON THE KING"
  },
@@ -150,7 +372,7 @@
   "name_en": "Article 14\r\n",
   "description_en": "\nShall be elected King of Cambodia, a member of the Royal family, aged at least 30 years, descendant of King Ang Duong or of King Norodom or also of King Sisowath.  \r  \n\nBefore ascending the throne, the King shall take oath as stipulated in Annex 4.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ២ អំពីព្រះមហាក្សត្រ",
   "chapter_en": "CHAPTER 2: ON THE KING"
  },
@@ -161,7 +383,7 @@
   "name_en": "Article 15\r\n",
   "description_en": "\nThe Consort of the King shall have the title of Queen of Cambodia.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ២ អំពីព្រះមហាក្សត្រ",
   "chapter_en": "CHAPTER 2: ON THE KING"
  },
@@ -172,7 +394,7 @@
   "name_en": "Article 16\r\n",
   "description_en": "\nThe Queen of Cambodia shall have no right to engage in politics, to assume a leading function in State or Government affairs, or to assume an administrative or political role.  \r  \n\nThe Queen of Cambodia shall devote herself in tasks of social, humanitarian, religious interests, and assist the King in protocol and diplomatic obligations.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ២ អំពីព្រះមហាក្សត្រ",
   "chapter_en": "CHAPTER 2: ON THE KING"
  },
@@ -183,7 +405,7 @@
   "name_en": "Article 17\r\n",
   "description_en": "\nThe provision, in which the King shall reign but not govern, as stipulated in Article 7 paragraph 1 of this Constitution, can not in any case be modified.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ២ អំពីព្រះមហាក្សត្រ",
   "chapter_en": "CHAPTER 2: ON THE KING"
  },
@@ -194,7 +416,7 @@
   "name_en": "Article 18 new\r\n",
   "description_en": "\nThe King communicates with the Senate and the National Assembly through royal messages.  \r  \n\nThese royal messages can not be subject to debate at the Senate and the National Assembly.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ២ អំពីព្រះមហាក្សត្រ",
   "chapter_en": "CHAPTER 2: ON THE KING"
  },
@@ -205,7 +427,7 @@
   "name_en": "Article 19 new (two)\r\n",
   "description_en": "\nThe King shall appoint the Prime Minister and the Council of Ministers in accordance with the procedures stipulated in Article 119 new (two).\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ២ អំពីព្រះមហាក្សត្រ",
   "chapter_en": "CHAPTER 2: ON THE KING"
  },
@@ -216,7 +438,7 @@
   "name_en": "Article 20\r\n",
   "description_en": "\nThe King grants official audiences twice a month to the Prime Minister and the Council of Ministers, who report on the situation of the country for His highest information.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ២ អំពីព្រះមហាក្សត្រ",
   "chapter_en": "CHAPTER 2: ON THE KING"
  },
@@ -227,7 +449,7 @@
   "name_en": "Article 21\r\n",
   "description_en": "\nUpon the request of the Council of Ministers, the King shall sign the Kret appointing, transferring or dismissing high-ranking civil and military officials, ambassadors and envoys extraordinary and plenipotentiary from their position.  \r  \n\nUpon the request of the Supreme Council of Magistracy, the King shall sign the Kret appointing, transferring or removing judicial judges from their position.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ២ អំពីព្រះមហាក្សត្រ",
   "chapter_en": "CHAPTER 2: ON THE KING"
  },
@@ -238,7 +460,7 @@
   "name_en": "Article 22 new\r\n",
   "description_en": "\nWhen the nation faces danger, the King shall make a public proclamation placing the country in a state of emergency, after unanimous agreement from the Prime Minister, the President of the National Assembly and the President of the Senate.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ២ អំពីព្រះមហាក្សត្រ",
   "chapter_en": "CHAPTER 2: ON THE KING"
  },
@@ -249,7 +471,7 @@
   "name_en": "Article 23\r\n",
   "description_en": "\nThe King is the Supreme Commander of the Royal Khmer Armed Forces. A Commander-in-Chief of the Royal Khmer Armed Forces shall be appointed to command the Armed Forces.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ២ អំពីព្រះមហាក្សត្រ",
   "chapter_en": "CHAPTER 2: ON THE KING"
  },
@@ -260,7 +482,7 @@
   "name_en": "Article 24 new\r\n",
   "description_en": "\nThe King is the President of the Supreme Council of National Defense which shall be created by a law.  \r  \n\nThe King declares war after the approval from the National Assembly and the Senate.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ២ អំពីព្រះមហាក្សត្រ",
   "chapter_en": "CHAPTER 2: ON THE KING"
  },
@@ -271,7 +493,7 @@
   "name_en": "Article 25\r\n",
   "description_en": "\nThe King receives credentials from ambassadors or envoys extraordinary and plenipotentiary of foreign countries accredited to the Kingdom of Cambodia.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ២ អំពីព្រះមហាក្សត្រ",
   "chapter_en": "CHAPTER 2: ON THE KING"
  },
@@ -282,7 +504,7 @@
   "name_en": "Article 26 new\r\n",
   "description_en": "\nThe King signs and ratifies international treaties and conventions after their approval by the National Assembly and the Senate.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ២ អំពីព្រះមហាក្សត្រ",
   "chapter_en": "CHAPTER 2: ON THE KING"
  },
@@ -293,7 +515,7 @@
   "name_en": "Article 27\r\n",
   "description_en": "\nThe King holds the right of commuting court’s sentence and the power of pardon.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ២ អំពីព្រះមហាក្សត្រ",
   "chapter_en": "CHAPTER 2: ON THE KING"
  },
@@ -304,7 +526,7 @@
   "name_en": "Article 28 new\r\n",
   "description_en": "\nThe King signs the Kram promulgating the Constitution and the laws adopted by the National Assembly and thoroughly reviewed by the Senate, as well as the Kret upon the proposal from the Council of Ministers.  \r  \n\nIn case of illness and medical treatment abroad, the King can delegate His power of signing the Kram and the Kret to the Head of State ad interim. This delegation of signature is express.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ២ អំពីព្រះមហាក្សត្រ",
   "chapter_en": "CHAPTER 2: ON THE KING"
  },
@@ -315,7 +537,7 @@
   "name_en": "Article 29 new\r\n",
   "description_en": "\nThe King creates and confers national honorific distinctions.  \r  \n\nThe King decides on granting military and civilian grades and titles in the framework as determined by the law.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ២ អំពីព្រះមហាក្សត្រ",
   "chapter_en": "CHAPTER 2: ON THE KING"
  },
@@ -326,7 +548,7 @@
   "name_en": "Article 30 new\r\n",
   "description_en": "\nDuring the absence of the King, the President of the Senate shall assume the duties of Head of State ad interim.  \r  \n\nIn case the President of the Senate can not perform the duties of Head of State ad interim during the absence of the King, these duties shall be assumed in conformity with paragraphs 2 and 3 of Article 11 new.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ២ អំពីព្រះមហាក្សត្រ",
   "chapter_en": "CHAPTER 2: ON THE KING"
  },
@@ -337,7 +559,7 @@
   "name_en": "Article 31\r\n",
   "description_en": "\nThe Kingdom of Cambodia recognizes and respects human rights as enshrined in the United Nations Charter, the Universal Declaration of Human rights and all the treaties and conventions related to human rights, women’s rights and children’s rights.  \r  \n\nKhmer citizens are equal before the law, enjoying the same rights, liberties and duties regardless of race, color, sex, language, beliefs, religions, political tendencies, birth origin, social status, wealth or other situations. The exercise of personal rights and liberties by any individual shall not adversely affect the rights and freedom of others. The exercise of such rights and liberties shall be in accordance with the law.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៣ អំពីសិទ្ធិ និងករណីយកិច្ចរបស់ប្រជាពលរដ្ឋខ្មែរ",
   "chapter_en": "CHAPTER 3: ON THE RIGHTS AND DUTIES OF KHMER CITIZENS"
  },
@@ -348,7 +570,7 @@
   "name_en": "Article 32\r\n",
   "description_en": "\nEveryone has the right to life, liberty and security of person.  \r  \n\nIn any case, there shall be no death penalty.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៣ អំពីសិទ្ធិ និងករណីយកិច្ចរបស់ប្រជាពលរដ្ឋខ្មែរ",
   "chapter_en": "CHAPTER 3: ON THE RIGHTS AND DUTIES OF KHMER CITIZENS"
  },
@@ -359,7 +581,7 @@
   "name_en": "Article 33\r\n",
   "description_en": "\nKhmer citizen shall not be deprived of his\/her nationality, exiled, or arrested to be extradited to a foreign country, except in case of mutual agreement.  \r  \n\nKhmer citizen residing abroad enjoys the protection of the State.  \r  \n\nThe acquisition of Khmer nationality shall be determined by law.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៣ អំពីសិទ្ធិ និងករណីយកិច្ចរបស់ប្រជាពលរដ្ឋខ្មែរ",
   "chapter_en": "CHAPTER 3: ON THE RIGHTS AND DUTIES OF KHMER CITIZENS"
  },
@@ -370,7 +592,7 @@
   "name_en": "Article 34 new (one)\r\n",
   "description_en": "\nKhmer citizens of both sexes shall enjoy the right to vote and to stand as candidates for the election.  \r  \n\nKhmer citizens of both sexes, at least eighteen years old, have the right to vote.  \r  \n\nKhmer citizens of both sexes, at least twenty-five years old, have the right to stand as candidates for the elections of the members of the National Assembly.  \r  \n\nKhmer citizens of both sexes, at least forty years old, have the right to stand as candidates for the elections of the members of the Senate.  \r  \n\nProvisions restricting the right to vote and the right to stand as candidates for the elections shall be determined by the Law.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៣ អំពីសិទ្ធិ និងករណីយកិច្ចរបស់ប្រជាពលរដ្ឋខ្មែរ",
   "chapter_en": "CHAPTER 3: ON THE RIGHTS AND DUTIES OF KHMER CITIZENS"
  },
@@ -381,7 +603,7 @@
   "name_en": "Article 35\r\n",
   "description_en": "\nKhmer citizens of both sexes have the right to participate actively in the political, economic, social and cultural life of the nation.  \r  \n\nAll requests from citizens shall be given full consideration and resolution by the State’s organizations.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៣ អំពីសិទ្ធិ និងករណីយកិច្ចរបស់ប្រជាពលរដ្ឋខ្មែរ",
   "chapter_en": "CHAPTER 3: ON THE RIGHTS AND DUTIES OF KHMER CITIZENS"
  },
@@ -392,7 +614,7 @@
   "name_en": "Article 36\r\n",
   "description_en": "\nKhmer citizens of both sexes have the right to choose any employment according to their ability and to the needs of the society.  \r  \n\nKhmer citizens of both sexes shall receive equal pay for equal work.  \r  \n\nThe work of housewife at home shall have equal value as the remunerated work done outside the home.  \r  \n\nKhmer citizens of both sexes shall have the right to enjoy social security and other social benefits as determined by law.  \r  \n\nKhmer citizens of both sexes shall have the right to create trade unions and to participate as their members.  \r  \n\nThe organization and functioning of the trade unions shall be determined by law.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៣ អំពីសិទ្ធិ និងករណីយកិច្ចរបស់ប្រជាពលរដ្ឋខ្មែរ",
   "chapter_en": "CHAPTER 3: ON THE RIGHTS AND DUTIES OF KHMER CITIZENS"
  },
@@ -403,7 +625,7 @@
   "name_en": "Article 37\r\n",
   "description_en": "\nThe rights to strike and to organize peaceful demonstrations shall be exercised within the framework of law.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៣ អំពីសិទ្ធិ និងករណីយកិច្ចរបស់ប្រជាពលរដ្ឋខ្មែរ",
   "chapter_en": "CHAPTER 3: ON THE RIGHTS AND DUTIES OF KHMER CITIZENS"
  },
@@ -414,7 +636,7 @@
   "name_en": "Article 38\r\n",
   "description_en": "\nThe law forbids any physical abuse against any individual.  \r  \n\nThe law protects the life, the honour and the dignity of the citizens.  \r  \n\nThe prosecution, arrest, police custody or detention of any person shall not be done, except in accordance with the law.  \r  \n\nThe coercion, physical punishment or any other treatment aggravating the penalty of the detainee or prisoner shall be forbidden. The author of such acts, co-authors and accomplices shall be punished according to the law.  \r  \n\nConfessions obtained by physical torture or mental pressure shall not be admissible as evidence of guilt.  \r  \n\nThe doubt shall benefit the accused.  \r  \n\nAny accused is presumed innocent up to the final verdict of the court.  \r  \n\nAny individual shall have the right to his\/her own defense through the judicial system.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៣ អំពីសិទ្ធិ និងករណីយកិច្ចរបស់ប្រជាពលរដ្ឋខ្មែរ",
   "chapter_en": "CHAPTER 3: ON THE RIGHTS AND DUTIES OF KHMER CITIZENS"
  },
@@ -425,7 +647,7 @@
   "name_en": "Article 39\r\n",
   "description_en": "\nKhmer citizens have the right to denounce, make complaints, or file claims for reparations of damages caused by any breach of law by state and social organizations or by staff of those organizations. The settlement of complaints and the reparations of damages are of the competence of the courts.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៣ អំពីសិទ្ធិ និងករណីយកិច្ចរបស់ប្រជាពលរដ្ឋខ្មែរ",
   "chapter_en": "CHAPTER 3: ON THE RIGHTS AND DUTIES OF KHMER CITIZENS"
  },
@@ -436,7 +658,7 @@
   "name_en": "Article 40\r\n",
   "description_en": "\nCitizen’s freedom to travel, far or near, and to legally settle down shall be respected.  \r  \n\nKhmer citizen has the right to settle in abroad or to return home.  \r  \n\nThe protection of the rights to the inviolability of residence and to the confidentiality of correspondences by mail, telegram, telex, facsimile and telephone shall be guaranteed.  \r  \n\nSearch of residences, properties and body search shall be done in accordance with the legal stipulations.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៣ អំពីសិទ្ធិ និងករណីយកិច្ចរបស់ប្រជាពលរដ្ឋខ្មែរ",
   "chapter_en": "CHAPTER 3: ON THE RIGHTS AND DUTIES OF KHMER CITIZENS"
  },
@@ -447,7 +669,7 @@
   "name_en": "Article 41\r\n",
   "description_en": "\nKhmer citizens shall have the freedom to express their personal opinions, the freedom of press, of publication and of assembly. No one can take abusively advantage of these rights to impinge on dignity of others, to affect the good mores and custom of society, public order and national security.  \r  \n\nThe regime of the media shall be regulated by law.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៣ អំពីសិទ្ធិ និងករណីយកិច្ចរបស់ប្រជាពលរដ្ឋខ្មែរ",
   "chapter_en": "CHAPTER 3: ON THE RIGHTS AND DUTIES OF KHMER CITIZENS"
  },
@@ -458,7 +680,7 @@
   "name_en": "Article 42 new\r\n",
   "description_en": "\nKhmer citizens shall have the right to create associations and political parties. This right shall be determined by law.\n\nPolitical parties must uphold the national interest and must not take any action, directly or indirectly, to the detriment of the interests of the Kingdom of Cambodia and the Cambodian people.  \r  \n\nKhmer citizens may participate in mass organizations meant for mutual assistance, protection of national realizations and social order.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៣ អំពីសិទ្ធិ និងករណីយកិច្ចរបស់ប្រជាពលរដ្ឋខ្មែរ",
   "chapter_en": "CHAPTER 3: ON THE RIGHTS AND DUTIES OF KHMER CITIZENS"
  },
@@ -469,7 +691,7 @@
   "name_en": "Article 43\r\n",
   "description_en": "\nKhmer citizens of both sexes shall have the full right of belief.  \r  \n\nFreedom of belief and religious practice shall be guaranteed by the State, provided that such freedom and religious practice do not impinge on other beliefs or religions, on public order and security.  \r  \n\nBuddhism is State’s religion.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៣ អំពីសិទ្ធិ និងករណីយកិច្ចរបស់ប្រជាពលរដ្ឋខ្មែរ",
   "chapter_en": "CHAPTER 3: ON THE RIGHTS AND DUTIES OF KHMER CITIZENS"
  },
@@ -480,7 +702,7 @@
   "name_en": "Article 44\r\n",
   "description_en": "\nAll persons, individually or collectively, shall have the right to ownership.  \r  \n\nOnly natural person or legal entity of Khmer nationality shall have the right to land ownership.  \r  \n\nLegal private ownership shall be protected by law.  \r  \n\nExpropriation shall be possible only if public utility demands in the cases stipulated by the law and if prior appropriate and fair compensation is granted.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៣ អំពីសិទ្ធិ និងករណីយកិច្ចរបស់ប្រជាពលរដ្ឋខ្មែរ",
   "chapter_en": "CHAPTER 3: ON THE RIGHTS AND DUTIES OF KHMER CITIZENS"
  },
@@ -491,7 +713,7 @@
   "name_en": "Article 45\r\n",
   "description_en": "\nAll forms of discrimination against women shall be abolished.  \r  \n\nThe exploitation of women’s labour shall be prohibited.  \r  \n\nMen and women have equal rights in all fields, especially with respect to those of marriage and family.  \r  \n\nMarriage shall be done according to the conditions set by the law and based on the principles of mutual consent and monogamy.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៣ អំពីសិទ្ធិ និងករណីយកិច្ចរបស់ប្រជាពលរដ្ឋខ្មែរ",
   "chapter_en": "CHAPTER 3: ON THE RIGHTS AND DUTIES OF KHMER CITIZENS"
  },
@@ -502,7 +724,7 @@
   "name_en": "Article 46\r\n",
   "description_en": "\nHuman trafficking, exploitation of prostitution and obscenities which affect the dignity of women shall be prohibited.  \r  \n\nThe dismissal of woman worker for reason of pregnancy shall be prohibited. Woman shall have the right to take maternity leave with full pay and with guarantee of her seniority in employment and of other social benefits.  \r  \n\nThe State and the society shall provide women, especially those underprivileged living in rural areas, with opportunities to benefit from assistance for a profession, for medical cares, for their children schooling and for decent living conditions.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៣ អំពីសិទ្ធិ និងករណីយកិច្ចរបស់ប្រជាពលរដ្ឋខ្មែរ",
   "chapter_en": "CHAPTER 3: ON THE RIGHTS AND DUTIES OF KHMER CITIZENS"
  },
@@ -513,7 +735,7 @@
   "name_en": "Article 47\r\n",
   "description_en": "\nMother and father shall have the obligation to take care of their children, to bring them up and to educate them in order to become good citizens.  \r  \n\nChildren shall have the duty to attend to the needs of their aged parents and to take good care of them in accordance with Khmer custom.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៣ អំពីសិទ្ធិ និងករណីយកិច្ចរបស់ប្រជាពលរដ្ឋខ្មែរ",
   "chapter_en": "CHAPTER 3: ON THE RIGHTS AND DUTIES OF KHMER CITIZENS"
  },
@@ -524,7 +746,7 @@
   "name_en": "Article 48\r\n",
   "description_en": "\nThe State shall assure the protection of children’s rights as enshrined in the Convention on Children, especially, the right to life, the right to education, the right to protection during wartime and the right to protection from economic or sexual exploitation.  \r  \n\nThe State shall protect children from all kinds of labour that can be detrimental to their education and their schooling, or to their health or their welfare.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៣ អំពីសិទ្ធិ និងករណីយកិច្ចរបស់ប្រជាពលរដ្ឋខ្មែរ",
   "chapter_en": "CHAPTER 3: ON THE RIGHTS AND DUTIES OF KHMER CITIZENS"
  },
@@ -535,7 +757,7 @@
   "name_en": "Article 49 new\r\n",
   "description_en": "\nEvery Khmer citizen shall respect the Constitution and the laws.\nEvery Cambodian citizen shall uphold the national interest and shall not take any action, whether directly or indirectly, to the detriment of the interests of the Kingdom of Cambodia and the Cambodian people.  \r  \n\nEvery Khmer citizen has the obligation to participate in the national construction and to defend the motherland.  \r  \n\nThe obligation to defend the motherland shall be done in accordance with the provisions of the law.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៣ អំពីសិទ្ធិ និងករណីយកិច្ចរបស់ប្រជាពលរដ្ឋខ្មែរ",
   "chapter_en": "CHAPTER 3: ON THE RIGHTS AND DUTIES OF KHMER CITIZENS"
  },
@@ -546,7 +768,7 @@
   "name_en": "Article 50\r\n",
   "description_en": "\nKhmer citizens of both sexes shall respect the principles of national sovereignty and liberal multi-party democracy.  \r  \n\nKhmer citizens of both sexes shall respect public property and legally acquired private property.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៣ អំពីសិទ្ធិ និងករណីយកិច្ចរបស់ប្រជាពលរដ្ឋខ្មែរ",
   "chapter_en": "CHAPTER 3: ON THE RIGHTS AND DUTIES OF KHMER CITIZENS"
  },
@@ -557,7 +779,7 @@
   "name_en": "Article 51 new\r\n",
   "description_en": "\nThe Kingdom of Cambodia adopts a policy of liberal multi-party democracy.  \r  \n\nKhmer citizens are masters of their country’s destiny.  \r  \n\nAll powers shall belong to the citizens.  \r  \n\nThe citizens shall exercise their powers through the National Assembly, the Senate, the Royal Government and the Jurisdictions.  \r  \n\nThe powers shall be separated between the legislative power, the executive power and the judicial power.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៤ អំពីរបបនយោបាយ",
   "chapter_en": "CHAPTER 4: ON THE POLITICAL REGIME"
  },
@@ -568,7 +790,7 @@
   "name_en": "Article 52\r\n",
   "description_en": "\nThe Royal Government of Cambodia shall commit itself resolutely to preserve and defend the independence, sovereignty, and territorial integrity of the Kingdom of Cambodia, implement a policy of national reconciliation to ensure national unity, and protect the good mores and custom of the nation. The Royal Government of Cambodia shall defend legality and ensure public order and security. The State shall give priority to the improvement of the living conditions and welfare of citizens.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៤ អំពីរបបនយោបាយ",
   "chapter_en": "CHAPTER 4: ON THE POLITICAL REGIME"
  },
@@ -579,7 +801,7 @@
   "name_en": "Article 53 new\r\n",
   "description_en": "\nThe Kingdom of Cambodia maintains resolutely a policy of permanent neutrality and non-alignment. The Kingdom of Cambodia coexists peacefully with its neighbours and with all other countries throughout the world.  \r  \n\nThe Kingdom of Cambodia shall never invade any country, nor interfere in any other country's internal affairs, directly or indirectly, and shall solve any problems peacefully with due respect for mutual interests.\nThe Kingdom of Cambodia strongly opposes foreign interference in its internal affairs under any circumstances.  \r  \n\nThe Kingdom of Cambodia shall not join in any military alliance, nor conclude any military agreement which is incompatible with its policy of neutrality.  \r  \n\nThe Kingdom of Cambodia shall not authorize any foreign military base on its territory, nor have its own military bases abroad, except within the framework of a United Nations request.  \r  \n\nThe Kingdom of Cambodia reserves the right to receive foreign assistance in military equipment, armaments, ammunition, in training of its armed forces, and other assistance for self-defense and for ensuring public order and security within its territory.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៤ អំពីរបបនយោបាយ",
   "chapter_en": "CHAPTER 4: ON THE POLITICAL REGIME"
  },
@@ -590,7 +812,7 @@
   "name_en": "Article 54\r\n",
   "description_en": "\nThe manufacture, use and storage of nuclear, chemical or biological weapons shall be absolutely prohibited.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៤ អំពីរបបនយោបាយ",
   "chapter_en": "CHAPTER 4: ON THE POLITICAL REGIME"
  },
@@ -601,7 +823,7 @@
   "name_en": "Article 55\r\n",
   "description_en": "\nAny treaty and agreement incompatible with the independence, sovereignty, territorial integrity, neutrality and national unity of the Kingdom of Cambodia shall be abrogated.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៤ អំពីរបបនយោបាយ",
   "chapter_en": "CHAPTER 4: ON THE POLITICAL REGIME"
  },
@@ -612,7 +834,7 @@
   "name_en": "Article 56\r\n",
   "description_en": "\nThe Kingdom of Cambodia implements the market economy system.  \r  \n\nThe organization and the functioning of this economic system shall be determined by the law.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៥ អំពីសេដ្ឋកិច្ច",
   "chapter_en": "CHAPTER 5: ON THE ECONOMY"
  },
@@ -623,7 +845,7 @@
   "name_en": "Article 57\r\n",
   "description_en": "\nTax can be collected only when it is authorized by a law.  \r  \n\nThe national budget shall be laid down and carried out in accordance with the law.  \r  \n\nThe monetary management and the financial system shall be determined by the law.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៥ អំពីសេដ្ឋកិច្ច",
   "chapter_en": "CHAPTER 5: ON THE ECONOMY"
  },
@@ -634,7 +856,7 @@
   "name_en": "Article 58\r\n",
   "description_en": "\nState property notably consists of land, underground, mountains, sea, sea-bed, undersea-bed, coastline, airspace, islands, rivers, canals, streams, lakes, forests, natural resources, economic and cultural centers, national defense bases, other building facilities belonging to the State.  \r  \n\nThe administration, the utilization and the assignment of State’s properties shall be determined by the law.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៥ អំពីសេដ្ឋកិច្ច",
   "chapter_en": "CHAPTER 5: ON THE ECONOMY"
  },
@@ -645,7 +867,7 @@
   "name_en": "Article 59\r\n",
   "description_en": "\nThe State shall preserve and protect the environment and the balance of natural resources, by organizing a precise planning for the management, especially of the land, water, atmosphere, air, geology, ecological systems, mines, energy, petroleum and gas, rocks, sand, gems, forests and forest by-products, wildlife, fish and aquatic resources.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៥ អំពីសេដ្ឋកិច្ច",
   "chapter_en": "CHAPTER 5: ON THE ECONOMY"
  },
@@ -656,7 +878,7 @@
   "name_en": "Article 60\r\n",
   "description_en": "\nCitizens have the right to freely sell and exchange their own products. The obligation to sell products to the State or the appropriation, even temporarily, of private riches or possessions by the State shall be prohibited, except under conditions specially authorized by the law.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៥ អំពីសេដ្ឋកិច្ច",
   "chapter_en": "CHAPTER 5: ON THE ECONOMY"
  },
@@ -667,7 +889,7 @@
   "name_en": "Article 61\r\n",
   "description_en": "\nThe State shall promote economic development in all fields, especially in agriculture, handicraft, industry, to begin with the remotest areas, with concern for water policy, electricity, roads and means of transportation, modern techniques and credit system.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៥ អំពីសេដ្ឋកិច្ច",
   "chapter_en": "CHAPTER 5: ON THE ECONOMY"
  },
@@ -678,7 +900,7 @@
   "name_en": "Article 62\r\n",
   "description_en": "\nThe State shall be concerned with resolving the means of production, sustaining the prices of agricultural and handicraft products, and helping find markets for these products to be sold.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៥ អំពីសេដ្ឋកិច្ច",
   "chapter_en": "CHAPTER 5: ON THE ECONOMY"
  },
@@ -689,7 +911,7 @@
   "name_en": "Article 63\r\n",
   "description_en": "\nThe State shall attend to regulating the markets in order to secure a suitable living standard for the citizens.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៥ អំពីសេដ្ឋកិច្ច",
   "chapter_en": "CHAPTER 5: ON THE ECONOMY"
  },
@@ -700,7 +922,7 @@
   "name_en": "Article 64\r\n",
   "description_en": "\nThe State shall forbid individuals to import, manufacture or sell illicit drugs, counterfeit products, expired goods harmful to the consumers’ health and life, and shall severely punish them.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៥ អំពីសេដ្ឋកិច្ច",
   "chapter_en": "CHAPTER 5: ON THE ECONOMY"
  },
@@ -711,7 +933,7 @@
   "name_en": "Article 65\r\n",
   "description_en": "\nThe State shall protect and promote the right of the citizen to a quality education at all levels and shall take every measure to progressively make this education available to all the citizens.  \r  \n\nThe State shall put emphasis on the field of physical education and sports for the benefit of all the Khmer citizens’ well-being.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៦ អំពីអប់រំ វប្បធម៌ និងសង្គមកិច្ច",
   "chapter_en": "CHAPTER 6: ON THE EDUCATION, THE CULTURE AND THE SOCIAL AFFAIRS"
  },
@@ -722,7 +944,7 @@
   "name_en": "Article 66\r\n",
   "description_en": "\nThe State shall establish a comprehensive and unified system of education throughout the country, capable of guaranteeing the principles of freedom of education and equal access to schooling, in order to offer each citizen the equal opportunity for the betterment of his\/her living conditions.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៦ អំពីអប់រំ វប្បធម៌ និងសង្គមកិច្ច",
   "chapter_en": "CHAPTER 6: ON THE EDUCATION, THE CULTURE AND THE SOCIAL AFFAIRS"
  },
@@ -733,7 +955,7 @@
   "name_en": "Article 67\r\n",
   "description_en": "\nThe State implements a curriculum and modern pedagogic principles including the teaching of technology and foreign languages.  \r  \n\nThe State shall oversee public and private educational establishments and classes at all cycles.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៦ អំពីអប់រំ វប្បធម៌ និងសង្គមកិច្ច",
   "chapter_en": "CHAPTER 6: ON THE EDUCATION, THE CULTURE AND THE SOCIAL AFFAIRS"
  },
@@ -744,7 +966,7 @@
   "name_en": "Article 68\r\n",
   "description_en": "\nThe State shall ensure for all citizens free primary and secondary education at public schools.  \r  \n\nCitizens shall receive schooling for at least nine years.  \r  \n\nThe State shall help propagate and promote the Pali schools and the Buddhist education.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៦ អំពីអប់រំ វប្បធម៌ និងសង្គមកិច្ច",
   "chapter_en": "CHAPTER 6: ON THE EDUCATION, THE CULTURE AND THE SOCIAL AFFAIRS"
  },
@@ -755,7 +977,7 @@
   "name_en": "Article 69\r\n",
   "description_en": "\nThe State has the obligation to preserve and develop national culture.  \r  \n\nThe State has the obligation to protect and develop the Khmer language according to the needs.  \r  \n\nThe State has the obligation to preserve and protect the ancient monuments, antiques, and to restore the historical sites.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៦ អំពីអប់រំ វប្បធម៌ និងសង្គមកិច្ច",
   "chapter_en": "CHAPTER 6: ON THE EDUCATION, THE CULTURE AND THE SOCIAL AFFAIRS"
  },
@@ -766,7 +988,7 @@
   "name_en": "Article 70\r\n",
   "description_en": "\nAny offence affecting or relating to cultural heritage and artistic heritage shall be severely punished.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៦ អំពីអប់រំ វប្បធម៌ និងសង្គមកិច្ច",
   "chapter_en": "CHAPTER 6: ON THE EDUCATION, THE CULTURE AND THE SOCIAL AFFAIRS"
  },
@@ -777,7 +999,7 @@
   "name_en": "Article 71\r\n",
   "description_en": "\nThe perimeter of national heritage sites as well as of those classified as world heritage sites shall be considered as neutral zone forbidden to any military activity.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៦ អំពីអប់រំ វប្បធម៌ និងសង្គមកិច្ច",
   "chapter_en": "CHAPTER 6: ON THE EDUCATION, THE CULTURE AND THE SOCIAL AFFAIRS"
  },
@@ -788,7 +1010,7 @@
   "name_en": "Article 72\r\n",
   "description_en": "\nThe health of the people shall be guaranteed. The State shall give full consideration to disease prevention and medical cares. Poor people shall receive free medical consultations in public hospitals, infirmaries and maternities.  \r  \n\nThe State shall establish infirmaries and maternities in rural areas.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៦ អំពីអប់រំ វប្បធម៌ និងសង្គមកិច្ច",
   "chapter_en": "CHAPTER 6: ON THE EDUCATION, THE CULTURE AND THE SOCIAL AFFAIRS"
  },
@@ -799,7 +1021,7 @@
   "name_en": "Article 73\r\n",
   "description_en": "\nThe State shall give full consideration for children and mothers, by encouraging the creation of nurseries and by attending to women without support who have many children under their cares.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៦ អំពីអប់រំ វប្បធម៌ និងសង្គមកិច្ច",
   "chapter_en": "CHAPTER 6: ON THE EDUCATION, THE CULTURE AND THE SOCIAL AFFAIRS"
  },
@@ -810,7 +1032,7 @@
   "name_en": "Article 74\r\n",
   "description_en": "\nThe State shall provide assistance to the disabled persons and to the families of combatants who sacrificed their lives for the nation.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៦ អំពីអប់រំ វប្បធម៌ និងសង្គមកិច្ច",
   "chapter_en": "CHAPTER 6: ON THE EDUCATION, THE CULTURE AND THE SOCIAL AFFAIRS"
  },
@@ -821,7 +1043,7 @@
   "name_en": "Article 75\r\n",
   "description_en": "\nThe State shall establish a social security regime for workers and employees.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៦ អំពីអប់រំ វប្បធម៌ និងសង្គមកិច្ច",
   "chapter_en": "CHAPTER 6: ON THE EDUCATION, THE CULTURE AND THE SOCIAL AFFAIRS"
  },
@@ -832,7 +1054,7 @@
   "name_en": "Article 76 new\r\n",
   "description_en": "\nThe National Assembly shall comprise at least 120 members.  \r  \n\nThe Members of the National Assembly shall be elected by a universal, free, equal, direct suffrage and secret ballot.  \r  \n\nThe National Assembly’s Members are re-eligible.  \r  \n\nKhmer citizens of both sexes, enjoying the right to vote, aged at least 25 years and having Khmer nationality by birth, have the right to be candidates to the National Assembly.  \r  \n\nThe organization in charge of preparing the elections, their modalities and functioning shall be determined by the electoral law.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៧ អំពីរដ្ឋសភា",
   "chapter_en": "CHAPTER 7: ON THE NATIONAL ASSEMBLY"
  },
@@ -843,7 +1065,7 @@
   "name_en": "Article 77\r\n",
   "description_en": "\nThe Members of the National Assembly are the representatives of the whole Khmer Nation and not of the only citizens from their constituencies.  \r  \n\nAny imperative mandate shall be considered as null.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៧ អំពីរដ្ឋសភា",
   "chapter_en": "CHAPTER 7: ON THE NATIONAL ASSEMBLY"
  },
@@ -854,7 +1076,7 @@
   "name_en": "Article 78\r\n",
   "description_en": "\nThe legislature of the National Assembly is of 5 years and shall terminate on the day of the new National Assembly entering in function.  \r  \n\nThe National Assembly cannot be dissolved before the end of its mandate, except in the case of the Royal government being voted out twice within a period of 12 months.  \r  \n\nIn this case, the King shall, on the proposal from the Prime Minister and with the approval of the President of the National Assembly, dissolve the National Assembly.  \r  \n\nThe election of the new National Assembly shall take place at the latest within 60 days, counting from the date of dissolution of the National Assembly.  \r  \n\nDuring this period, the Royal Government is only in charge of dispatching day-to-day affairs.  \r  \n\nIn time of war or in other exceptional circumstances when it is impossible to organize the elections, the National Assembly may, on the proposal from the King, declare the prorogation of its legislature for one year each time.  \r  \n\nThe declaration on the prorogation of the National Assembly’s legislature must be adopted by at least two-third of all its Members.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៧ អំពីរដ្ឋសភា",
   "chapter_en": "CHAPTER 7: ON THE NATIONAL ASSEMBLY"
  },
@@ -865,7 +1087,7 @@
   "name_en": "Article 79\r\n",
   "description_en": "\nThe mandate of the National Assembly’s Member is incompatible with actively exercising any public function and with the functions as member of any other institution stipulated in the Constitution, except those exercised in the Council of Ministers of the Royal Government. In this case, the concerned Member of the National Assembly keeps the quality as an ordinary Member of the National Assembly, but he\/she must have no position in the Standing Committee and in the different Commissions of the National Assembly.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៧ អំពីរដ្ឋសភា",
   "chapter_en": "CHAPTER 7: ON THE NATIONAL ASSEMBLY"
  },
@@ -876,7 +1098,7 @@
   "name_en": "Article 80\r\n",
   "description_en": "\nMembers of the National Assembly shall enjoy parliamentary immunity.  \r  \n\nNo National Assembly’s Member can in any case be prosecuted, arrested, kept in police custody or detained because of his\/her opinions or of the votes expressed during the exercise of his\/her functions.  \r  \n\nThe prosecution against, the arrest, the police custody or the detention of any Member of the National Assembly is possible only when approved by the National Assembly or by the Standing Committee during the interval between sessions, except in flagrante delicto case.  \r  \n\nIn this last case, the competent ministry must urgently report to the National Assembly or to the Standing Committee for decision.  \r  \n\nThe decision of the National Assembly’s Standing Committee must be submitted to the next session of the National Assembly for adoption by two-third majority of all its members.  \r  \n\nIn all the aforementioned cases, the detention of, the prosecution against any National Assembly’s Member shall be suspended, if the National Assembly so decided by three-forth majority of all its Members.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៧ អំពីរដ្ឋសភា",
   "chapter_en": "CHAPTER 7: ON THE NATIONAL ASSEMBLY"
  },
@@ -887,7 +1109,7 @@
   "name_en": "Article 81\r\n",
   "description_en": "\nThe National Assembly shall have an autonomous budget for its functioning.  \r  \n\nThe National Assembly’s Members shall receive allowances.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៧ អំពីរដ្ឋសភា",
   "chapter_en": "CHAPTER 7: ON THE NATIONAL ASSEMBLY"
  },
@@ -898,7 +1120,7 @@
   "name_en": "Article 82 new (one)\r\n",
   "description_en": "\nThe first session of the National Assembly shall open sixty days at the latest after the elections, upon the convening by the King.  \r  \n\nBefore starting its works, the National Assembly shall declare the validity of each Member's mandate and shall vote separately to elect its President, its Vice-Presidents and all the Members of its various Commissions, by an absolute majority of all its Members.\nThe President of the National Assembly shall be elected from among the members of the National Assembly who have only Khmer nationality.  \r  \n\nThe National Assembly shall adopt its Rules of Procedure by an absolute majority of all its Members.  \r  \n\nBefore taking office, all the National Assembly’s Members shall take oath according to the text written in Annex 5 of the Constitution.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៧ អំពីរដ្ឋសភា",
   "chapter_en": "CHAPTER 7: ON THE NATIONAL ASSEMBLY"
  },
@@ -909,7 +1131,7 @@
   "name_en": "Article 83\r\n",
   "description_en": "\nThe National Assembly shall convene in ordinary session twice a year.  \r  \n\nEach session shall last at least three months. Upon the request from the King or upon the proposal of the Prime Minister or of at least one-third of the National Assembly’s Members, the Standing Committee of the National Assembly shall convene an extraordinary session of the National Assembly.  \r  \n\nIn this case, the precise agenda of the extraordinary session and the date of this session must be brought to the knowledge of the people.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៧ អំពីរដ្ឋសភា",
   "chapter_en": "CHAPTER 7: ON THE NATIONAL ASSEMBLY"
  },
@@ -920,7 +1142,7 @@
   "name_en": "Article 84\r\n",
   "description_en": "\nDuring the interval between the Sessions of the National Assembly, its Standing Committee shall be in charge of the functioning of the National Assembly.  \r  \n\nThe Standing Committee shall be composed of the President of the National Assembly, the Vice-Presidents of the National Assembly, and the Presidents of all the Commissions of the National Assembly.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៧ អំពីរដ្ឋសភា",
   "chapter_en": "CHAPTER 7: ON THE NATIONAL ASSEMBLY"
  },
@@ -931,7 +1153,7 @@
   "name_en": "Article 85\r\n",
   "description_en": "\nThe sessions of the National Assembly shall take place in the Capital City of the Kingdom of Cambodia, at the National Assembly Meeting Hall, except a decision otherwise specified in the convening act for circumstantial reasons.  \r  \n\nApart from the aforementioned cases and apart from the location and the date specified in the convening act, any session of the National Assembly shall be considered illegal and null in its own full right.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៧ អំពីរដ្ឋសភា",
   "chapter_en": "CHAPTER 7: ON THE NATIONAL ASSEMBLY"
  },
@@ -942,7 +1164,7 @@
   "name_en": "Article 86\r\n",
   "description_en": "\nUnder the circumstances when the nation is in a state of emergency, the National Assembly shall convene everyday, in permanence. The National Assembly has the right to put an end to the aforementioned special circumstances, whenever the situation permits.  \r  \n\nIf the National Assembly can not convene for imperative reasons, notably in case of territorial occupation by foreign forces, the declaration of the state of emergency must be automatically extended.  \r  \n\nDuring the period when the nation is in a state of emergency, the National Assembly can not in any case be dissolved.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៧ អំពីរដ្ឋសភា",
   "chapter_en": "CHAPTER 7: ON THE NATIONAL ASSEMBLY"
  },
@@ -953,7 +1175,7 @@
   "name_en": "Article 87\r\n",
   "description_en": "\nThe President of the National Assembly presides over the National Assembly sessions, takes cognizance of the laws and the resolutions adopted by the National Assembly, ensures the implementation of the Rules of Procedure and organizes the international relations of the National Assembly.  \r  \n\nIn case the President of the National Assembly is prevented from performing his\/her duties for health reason, or for assuming his\/her functions as Head of State ad interim or as Regent, or for being on mission abroad, a Vice-President shall replace him\/her.  \r  \n\nIn case of resignation or decease of the President or of the Vice-Presidents, the National Assembly shall elect a new President or new Vice-Presidents.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៧ អំពីរដ្ឋសភា",
   "chapter_en": "CHAPTER 7: ON THE NATIONAL ASSEMBLY"
  },
@@ -964,7 +1186,7 @@
   "name_en": "Article 88 new (two)\r\n",
   "description_en": "\nThe National Assembly sessions shall be public.  \r  \n\nThe National Assembly can convene in camera at the request of the President or of at least one-tenth of its Members, of the King or of the Prime Minister.  \r  \n\nThe session of the National Assembly is only valid, when there is:  \r  \na- the quorum of over two-third of all its Members for the votes requiring the majority of two-third of all its Members.  \r  \nb- the quorum of over half of all its Members for the votes requiring the absolute majority of all its Members.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៧ អំពីរដ្ឋសភា",
   "chapter_en": "CHAPTER 7: ON THE NATIONAL ASSEMBLY"
  },
@@ -975,7 +1197,7 @@
   "name_en": "Article 89 new\r\n",
   "description_en": "\nUpon the request from at least one-tenth of its Members, the National Assembly can invite one or more members of the Royal Government, accompanied by dignitaries who are experts in any field, come to clarify the National Assembly on issues of particular importance.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៧ អំពីរដ្ឋសភា",
   "chapter_en": "CHAPTER 7: ON THE NATIONAL ASSEMBLY"
  },
@@ -986,7 +1208,7 @@
   "name_en": "Article 90 new (two)\r\n",
   "description_en": "\nThe National Assembly is an organ invested with legislative power which exercises its functions according to the provisions of the Constitution and the laws in force.  \r  \n\nThe National Assembly votes the national budget, the State planning, the borrowings, the lending, the various pledges of financial warranties, and the creation, modification or abolition of taxes.  \r  \n\nThe National Assembly approves the administrative account.  \r  \n\nThe National Assembly votes the amnesty law.  \r  \n\nThe National Assembly votes the approval or the abrogation of international treaties or conventions.  \r  \n\nThe National Assembly votes the law on war declaration.  \r  \n\nThe aforementioned votes must obtain the absolute majority of all the National Assembly’s Members.  \r  \n\nThe National Assembly grants a vote of confidence to the Royal Government at the absolute majority of all its Members.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៧ អំពីរដ្ឋសភា",
   "chapter_en": "CHAPTER 7: ON THE NATIONAL ASSEMBLY"
  },
@@ -997,7 +1219,7 @@
   "name_en": "Article 91 new\r\n",
   "description_en": "\nThe Senators, the National Assembly’s Members and the Prime Minister have the initiative of laws.  \r  \n\nThe National Assembly’s Members have the right to propose amendments to the laws, but this proposal is not admissible if that amendment tends to reduce public incomes or to increase the burden on the citizens.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៧ អំពីរដ្ឋសភា",
   "chapter_en": "CHAPTER 7: ON THE NATIONAL ASSEMBLY"
  },
@@ -1008,7 +1230,7 @@
   "name_en": "Article 92\r\n",
   "description_en": "\nAny adoption by the National Assembly contrary to the principles of safeguarding the independence, the sovereignty, the territorial integrity of the Kingdom of Cambodia, and affecting the political unity or the administrative management of the nation, is reputed to be null. The Constitutional Council is the sole organ competent to pronounce this nullity.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៧ អំពីរដ្ឋសភា",
   "chapter_en": "CHAPTER 7: ON THE NATIONAL ASSEMBLY"
  },
@@ -1019,7 +1241,7 @@
   "name_en": "Article 93\r\n",
   "description_en": "\nThe law voted by the National Assembly and definitely reviewed by the Senate, and being subject to promulgation by the King, shall come into force in the capital city of Phnom Penh within ten clear days counting from the date of promulgation, and throughout the country within twenty clear days counting from the date of promulgation. However, if the law is declared urgent, it shall come immediately into force within the whole territory of the country as counting from the date of promulgation.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៧ អំពីរដ្ឋសភា",
   "chapter_en": "CHAPTER 7: ON THE NATIONAL ASSEMBLY"
  },
@@ -1030,7 +1252,7 @@
   "name_en": "Article 94\r\n",
   "description_en": "\nThe National Assembly creates various necessary commissions. The organization and the functioning of the National Assembly shall be stipulated in the National Assembly’s Rules of Procedure.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៧ អំពីរដ្ឋសភា",
   "chapter_en": "CHAPTER 7: ON THE NATIONAL ASSEMBLY"
  },
@@ -1041,7 +1263,7 @@
   "name_en": "Article 95\r\n",
   "description_en": "\nIn case of decease, resignation of a National Assembly’s Member or loss of his\/her membership which would take place at least six months before the end of the legislature, his\/her replacement must proceed in the conditions set by the National Assembly’s Rules of Procedure and by the Electoral Law.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៧ អំពីរដ្ឋសភា",
   "chapter_en": "CHAPTER 7: ON THE NATIONAL ASSEMBLY"
  },
@@ -1052,7 +1274,7 @@
   "name_en": "Article 96\r\n",
   "description_en": "\nThe National Assembly’s Members have the right to raise questions to the Royal Government. The questions must be put in writing and transmitted through the President of the National Assembly.  \r  \n\nThe answers shall be given by one or several ministers depending on whether the raised issue comes under the responsibility of one or several ministers. If the issue concerns the general policy of the Royal Government, the Prime Minister shall reply in person.  \r  \n\nThe answers by the minister or by the Prime Minister shall be verbal or written.  \r  \n\nThe above answers shall be given within seven days after receiving the questions.  \r  \n\nIn case of verbal answer, the President of the National Assembly can decide whether to open the debate or not. If he does not authorize the debate, the answers of the minister or the Prime Minister put an end to the raised questions.  \r  \n\nIf he authorizes the opening of a debate, the authors of the questions, the other orators, the concerned minister or the Prime Minister can discuss and exchange the points of view within a time-frame that can not exceed one meeting.  \r  \n\nThe National Assembly shall reserve one day a week for questions time.  \r  \n\nThe meetings reserved for the questions time can not in any case give place to voting.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៧ អំពីរដ្ឋសភា",
   "chapter_en": "CHAPTER 7: ON THE NATIONAL ASSEMBLY"
  },
@@ -1063,7 +1285,7 @@
   "name_en": "Article 97\r\n",
   "description_en": "\nThe Commissions of the National Assembly can invite any minister to give clarifications on issue relating to his\/her responsibility.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៧ អំពីរដ្ឋសភា",
   "chapter_en": "CHAPTER 7: ON THE NATIONAL ASSEMBLY"
  },
@@ -1074,7 +1296,7 @@
   "name_en": "Article 98 new (one)\r\n",
   "description_en": "\nThe National Assembly can dismiss a Member of the Royal Government or remove the Royal Government from office by voting a motion of censure at the absolute majority of all its Members.\nIn the event that the Royal Government is removed from office by the National Assembly, the Royal Government to be removed from this position will only have the task of directing the day-to-day work until a new Royal Government takes office.  \r  \n\nThe motion of censure against the Royal Government must be submitted to the National Assembly by one-third of its total Members before this motion of censure can be examined.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៧ អំពីរដ្ឋសភា",
   "chapter_en": "CHAPTER 7: ON THE NATIONAL ASSEMBLY"
  },
@@ -1085,7 +1307,7 @@
   "name_en": "Article 99 new\r\n",
   "description_en": "\nThe Senate is an organ invested with legislative power which exercises its functions according to the provisions of the Constitution and the laws in force.  \r  \n\nThe number of the Senators must not exceed half of the total number of the National Assembly’s Members.  \r  \n\nThe Senate is composed of appointed members and members elected at restricted suffrage.  \r  \n\nThe Senators can be appointed anew or re-eligible. Can be candidates to the Senate the Khmer citizens of both sexes enjoying the right to vote, aged 40 years at least and having Khmer nationality by birth.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៨ ថ្មី អំពីព្រឹទ្ធសភា",
   "chapter_en": "CHAPTER 8 new: ON THE SENATE"
  },
@@ -1096,7 +1318,7 @@
   "name_en": "Article 100 new\r\n",
   "description_en": "\nTwo Senators are appointed by the King.  \r  \n\nTwo Senators are elected by the National Assembly at a relative majority vote.  \r  \n\nThe other Senators are elected at a restricted suffrage.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៨ ថ្មី អំពីព្រឹទ្ធសភា",
   "chapter_en": "CHAPTER 8 new: ON THE SENATE"
  },
@@ -1107,7 +1329,7 @@
   "name_en": "Article 101 new\r\n",
   "description_en": "\nThe modalities of the organization and the functioning of the appointment and the elections of the Senators as well as the determination of the voters, the electoral colleges and the electoral constituencies must be determined by a law.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៨ ថ្មី អំពីព្រឹទ្ធសភា",
   "chapter_en": "CHAPTER 8 new: ON THE SENATE"
  },
@@ -1118,7 +1340,7 @@
   "name_en": "Article 102 new (one)\r\n",
   "description_en": "\nThe legislature of the Senate is of 6 years and shall terminate on the day the new Senate enters in function.  \r  \n\nIn time of war or in other exceptional circumstances when it is impossible to organize the elections, the Senate may, on the proposal from the King, declare the prorogation of its legislature for one year each time.  \r  \n\nThe declaration of prorogation of the Senate’s legislature must be adopted by at least two-third of all the Senators.  \r  \n\nUnder the aforementioned circumstances, the Senate shall convene everyday, in permanence. The Senate has the right to put an end to the aforementioned special circumstances, whenever the situation permits. However, the decision to end the special circumstances in which the nation is in a state of emergency must be decided jointly by the National Assembly in the National Assembly and the Senate, except for the implementation of Article 86 of the Constitution.  \r  \n\nIf the Senate can not convene for imperative reasons, notably in case of territorial occupation by foreign forces, the declaration of the state of emergency must be automatically extended.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៨ ថ្មី អំពីព្រឹទ្ធសភា",
   "chapter_en": "CHAPTER 8 new: ON THE SENATE"
  },
@@ -1129,7 +1351,7 @@
   "name_en": "Article 103 new\r\n",
   "description_en": "\nThe Senator’s mandate is incompatible with actively exercising any public function, with the functions as the National Assembly’s Member and with those as member of another institution stipulated in the Constitution.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៨ ថ្មី អំពីព្រឹទ្ធសភា",
   "chapter_en": "CHAPTER 8 new: ON THE SENATE"
  },
@@ -1140,7 +1362,7 @@
   "name_en": "Article 104 new\r\n",
   "description_en": "\nThe Senators shall enjoy parliamentary immunity.  \r  \n\nNo Senator can in any case be prosecuted, arrested, kept in police custody or detained because of his\/her opinions or of the votes expressed during the exercise of his\/her functions.  \r  \n\nThe prosecution against, the arrest, the police custody or the detention of a Senator is possible only when approved by the Senate or by the Standing Committee during the interval between sessions, except in flagrante delicto case.  \r  \n\nIn this last case, the competent ministry must urgently report to the Senate or to the Standing Committee for decision.  \r  \n\nThe decision of the Senate’s Standing Committee must be submitted to the next session of the Senate for adoption by two-third majority of all the Senators.  \r  \n\nIn all the aforementioned cases, the detention of, the prosecution against any Senator shall be suspended, if the Senate so decides by three-forth majority of all the Senators.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៨ ថ្មី អំពីព្រឹទ្ធសភា",
   "chapter_en": "CHAPTER 8 new: ON THE SENATE"
  },
@@ -1151,7 +1373,7 @@
   "name_en": "Article 105 new\r\n",
   "description_en": "\nThe Senate shall have an autonomous budget for its functioning.  \r  \n\nThe Senators shall receive allowances.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៨ ថ្មី អំពីព្រឹទ្ធសភា",
   "chapter_en": "CHAPTER 8 new: ON THE SENATE"
  },
@@ -1162,7 +1384,7 @@
   "name_en": "Article 106 new (two)\r\n",
   "description_en": "\nThe first session of the Senate shall open sixty days at the latest after the elections, upon the convening by the King.  \r  \n\nBefore starting its works, the Senate shall declare the validity of each Senator’s mandate and shall vote separately to elect its President, its Vice-Presidents and all the Members of its various Commissions, by an absolute majority of all the Senators.\nThe President of the Senate shall be elected from among the senators who have the sole Khmer nationality.  \r  \n\nBefore taking office, all the Senators shall take oath according to the text written in Annex 7 of the Constitution.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៨ ថ្មី អំពីព្រឹទ្ធសភា",
   "chapter_en": "CHAPTER 8 new: ON THE SENATE"
  },
@@ -1173,7 +1395,7 @@
   "name_en": "Article 107 new\r\n",
   "description_en": "\nThe Senate shall convene in or dinary sessions twice a year.  \r  \n\nEach Session shall last at least three months. Upon the request from the King or upon the proposal of the Prime Minister or of at least one-third of the Senators, the Senate shall convene in an extraordinary session.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៨ ថ្មី អំពីព្រឹទ្ធសភា",
   "chapter_en": "CHAPTER 8 new: ON THE SENATE"
  },
@@ -1184,7 +1406,7 @@
   "name_en": "Article 108 new\r\n",
   "description_en": "\nDuring the interval between the Sessions of the Senate, its Standing Committee shall be in charge of the functioning of the Senate.  \r  \n\nThe Standing Committee shall be composed of the President of the Senate, the Vice-Presidents of the Senate and the Presidents of all the Commissions of the Senate.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៨ ថ្មី អំពីព្រឹទ្ធសភា",
   "chapter_en": "CHAPTER 8 new: ON THE SENATE"
  },
@@ -1195,7 +1417,7 @@
   "name_en": "Article 109 new\r\n",
   "description_en": "\nThe sessions of the Senate shall take place in the Capital City of the Kingdom of Cambodia, at the Senate Meeting Hall, except a decision otherwise specified in the convening act for circumstantial reasons.  \r  \n\nApart from the aforementioned cases and apart from the location and the date specified in the convening act, any session of the Senate shall be considered illegal and null in its own full right.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៨ ថ្មី អំពីព្រឹទ្ធសភា",
   "chapter_en": "CHAPTER 8 new: ON THE SENATE"
  },
@@ -1206,7 +1428,7 @@
   "name_en": "Article 110 new\r\n",
   "description_en": "\nThe President of the Senate presides over the Senate sessions, takes cognizance of the laws and the resolutions adopted by the Senate, ensures the implementation of the Rules of Procedure and organizes the international relations of the Senate.  \r  \n\nIn case the President of the Senate is prevented from performing his\/her duties for health reason, or for assuming his\/her functions as Head of State ad interim or as Regent, or for being on mission abroad, a Vice-President shall replace him\/her.  \r  \n\nIn case of resignation or decease of the President or of the Vice-Presidents, the Senate shall elect a new President or new Vice-Presidents.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៨ ថ្មី អំពីព្រឹទ្ធសភា",
   "chapter_en": "CHAPTER 8 new: ON THE SENATE"
  },
@@ -1217,7 +1439,7 @@
   "name_en": "Article 111 new (two)\r\n",
   "description_en": "\nThe Senate sessions shall be public.  \r  \n\nThe Senate can convene in camera at the request of the President or of at least one-tenth of its Members, at the request of the King, of the Prime Minister or of the President of the National Assembly.  \r  \n\nThe session of the Senate is only valid, when there is:  \r  \n\na- the quorum of over two-third of all its Members for the votes requiring the majority of two-third of all its Members.  \r  \n\nb- the quorum of over half of all its Members for the votes requiring the relative or absolute majority of all its Members.  \r  \n\nThe number of votes required for the adoption by the National Assembly, as provided in this Constitution, shall also apply to the adoption by the Senate.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៨ ថ្មី អំពីព្រឹទ្ធសភា",
   "chapter_en": "CHAPTER 8 new: ON THE SENATE"
  },
@@ -1228,7 +1450,7 @@
   "name_en": "Article 112 new\r\n",
   "description_en": "\nThe Senate has the attribution to coordinate the work between the National Assembly and the Government.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៨ ថ្មី អំពីព្រឹទ្ធសភា",
   "chapter_en": "CHAPTER 8 new: ON THE SENATE"
  },
@@ -1239,7 +1461,7 @@
   "name_en": "Article 113 new\r\n",
   "description_en": "\nThe Senate shall examine and give its views on draft law or on proposed law adopted by the National Assembly in its first reading, as well as all the questions submitted by the National Assembly, within a period not exceeding one month.  \r  \n\nIn case of urgency, this time frame shall be reduced to five days.  \r  \n\nIf the Senate gives a favourable view, or gives no view, within the provided time limits, the law already adopted by the National Assembly will be submitted for promulgation.  \r  \n\nIf the Senate proposes amendments to these draft laws or these proposed laws, the National Assembly shall immediately examine them in a second reading. The National Assembly shall decide on the sole amendments proposed by the Senate, either by accepting or rejecting them, in totality or in part.  \r  \n\nA shuttle between the Senate and the National Assembly shall proceed within a limited time frame of one month. This time frame shall be reduced to ten days for the budgetary texts and the laws on finances, and to two days in case of urgency declaration.  \r  \n\nIf the National Assembly exceeds or extends the time frame at its disposal for examination, the time frame by principle allocated for agreement between the two Chambers is increased as much.  \r  \n\nIn case the Senate purely and simply rejects them, the draft laws or the proposed laws can not be examined by the National Assembly in a second reading, before a time frame of one month. This time frame is reduced to fifteen days for budgetary texts and the laws on finances, and to four days in case of urgency declaration.  \r  \n\nWhen examining the draft laws or the proposed laws in a second reading, the National Assembly shall adopt them by open ballot and at the absolute majority of all its Members.  \r  \n\nThe draft laws or the proposed laws, once adopted according to aforementioned modalities, are submitted for promulgation.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៨ ថ្មី អំពីព្រឹទ្ធសភា",
   "chapter_en": "CHAPTER 8 new: ON THE SENATE"
  },
@@ -1250,7 +1472,7 @@
   "name_en": "Article 114 new (one)\r\n",
   "description_en": "\nThe Senate creates various necessary commissions. The organization and the functioning of the Senate shall be stipulated in the Senate’s Rules of Procedure. These Rules of Procedure are adopted by absolute majority of all its Members.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៨ ថ្មី អំពីព្រឹទ្ធសភា",
   "chapter_en": "CHAPTER 8 new: ON THE SENATE"
  },
@@ -1261,7 +1483,7 @@
   "name_en": "Article 115 new\r\n",
   "description_en": "\nIn case of decease, resignation of a Senator or loss of his\/her membership which would take place at least six months before the end of the legislature, his\/her replacement must proceed in the conditions set by the Senate’s Rules of Procedure and by the law pertaining to the appointment and the elections of the Senators.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៨ ថ្មី អំពីព្រឹទ្ធសភា",
   "chapter_en": "CHAPTER 8 new: ON THE SENATE"
  },
@@ -1272,7 +1494,7 @@
   "name_en": "Article 116 new\r\n",
   "description_en": "\nIn case of necessity, the National Assembly and the Senate can convene in Congress to resolve the important issues of the country.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៩ ថ្មី អំពីសមាជរដ្ឋសភា និង ព្រឹទ្ធសភា",
   "chapter_en": "CHAPTER 9 new: ON THE CONGRESS OF THE NATIONAL ASSEMBLY AND THE SENATE"
  },
@@ -1283,7 +1505,7 @@
   "name_en": "Article 117 new\r\n",
   "description_en": "\nThe important issues of the country as provided in the Article 116 new, as well as the organization and functioning of the Congress shall be determined by a law.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ៩ ថ្មី អំពីសមាជរដ្ឋសភា និង ព្រឹទ្ធសភា",
   "chapter_en": "CHAPTER 9 new: ON THE CONGRESS OF THE NATIONAL ASSEMBLY AND THE SENATE"
  },
@@ -1294,7 +1516,7 @@
   "name_en": "Article 118 new (one)\r\n",
   "description_en": "\nThe Council of Ministers is the Royal Government of the Kingdom of Cambodia.  \r  \n\nThe Council of Ministers shall be headed by a Prime Minister, assisted by Deputy Prime Ministers as well by Senior Ministers and Ministers as members.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១០ ថ្មី អំពីរាជរដ្ឋាភិបាល",
   "chapter_en": "CHAPTER 10: ON THE ROYAL GOVERNMENT"
  },
@@ -1305,7 +1527,7 @@
   "name_en": "Article 119 new (two)\r\n",
   "description_en": "\nAt the request of the party with the most seats in the National Assembly, the King appoints an elite Prime Minister to form the Royal Government. The proposal from the party with the largest number of seats in the National Assembly shall be copied to the President of the National Assembly. Most seats in the National Assembly.The appointed elites bring their colleagues who are MPs or members of the House of Representatives in the National Assembly who are matched to hold various positions in the Royal Government to seek the trust of the National Assembly. This vote of confidence shall be made on the list of the members of the entire Cabinet. Once the National Assembly has voted in favor, the King shall issue a Royal Decree appointing the entire Council of Ministers. \r  \n\nBefore taking office, the Council of Ministers shall take oath according to the text written in Annex 6.\nAt the end of each term of the National Assembly, the outgoing government has only the task of leading the day-to-day work until a new government takes office.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១០ ថ្មី អំពីរាជរដ្ឋាភិបាល",
   "chapter_en": "CHAPTER 10: ON THE ROYAL GOVERNMENT"
  },
@@ -1316,7 +1538,7 @@
   "name_en": "Article 120 new (former Article 101)\r\n",
   "description_en": "\nThe function of Member of the Royal Government is incompatible with any professional activity in the field of trade or industry and with the holding of any position in the public function.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១០ ថ្មី អំពីរាជរដ្ឋាភិបាល",
   "chapter_en": "CHAPTER 10: ON THE ROYAL GOVERNMENT"
  },
@@ -1327,7 +1549,7 @@
   "name_en": "Article 121 new (former Article 102)\r\n",
   "description_en": "\nAll the Members of the Royal Government are collectively responsible to the National Assembly for the general policy of the Royal Government.  \r  \n\nEach Member of the Royal Government is individually responsible to the Prime Minister and to the National Assembly for his\/her own actions.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១០ ថ្មី អំពីរាជរដ្ឋាភិបាល",
   "chapter_en": "CHAPTER 10: ON THE ROYAL GOVERNMENT"
  },
@@ -1338,7 +1560,7 @@
   "name_en": "Article 122 new (former Article 103)\r\n",
   "description_en": "\nThe Members of the Royal Government can not resort to a written or verbal order from whomever to decline their own responsibility.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១០ ថ្មី អំពីរាជរដ្ឋាភិបាល",
   "chapter_en": "CHAPTER 10: ON THE ROYAL GOVERNMENT"
  },
@@ -1349,7 +1571,7 @@
   "name_en": "Article 123 new (former Article 104)\r\n",
   "description_en": "\nThe Council of Ministers shall convene every week in plenary session or in working session.  \r  \n\nThe plenary session is chaired by the Prime Minister. The Prime Minister can delegate to a Deputy Prime Minister the chairmanship of the working sessions.  \r  \n\nAll the minutes of the Council of Ministers’ sessions shall be submitted to the King for His highest Information.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១០ ថ្មី អំពីរាជរដ្ឋាភិបាល",
   "chapter_en": "CHAPTER 10: ON THE ROYAL GOVERNMENT"
  },
@@ -1360,7 +1582,7 @@
   "name_en": "Article 124 new (former Article 105)\r\n",
   "description_en": "\nThe Prime Minister can delegate his\/her powers to a Deputy Prime Minister or to a Member of the Royal Government.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១០ ថ្មី អំពីរាជរដ្ឋាភិបាល",
   "chapter_en": "CHAPTER 10: ON THE ROYAL GOVERNMENT"
  },
@@ -1371,7 +1593,7 @@
   "name_en": "Article 125 new (one)\r\n",
   "description_en": "\nIn the event of the Prime Minister being absent from time to time, the Prime Minister shall appoint a Deputy Prime Minister as the Acting Prime Minister to take charge of the Council of Ministers temporarily.\n\nIf the post of Prime Minister is permanently vacant due to the death or resignation of a new Council of Ministers, it shall be immediately appointed in accordance with the provisions of this Constitution. The President of the National Assembly shall convene an urgent meeting of the National Assembly and take any other necessary action as soon as possible within seven days after receiving a request from the party with the largest number of seats in the National Assembly.\n\nIn the event that the position of the Prime Minister is permanently vacant due to the death of the Council of Ministers, which shall be vacated under the leadership of the Deputy Prime Minister who has been appointed as the Acting Prime Minister, only the duties of directing the daily work until A new cabinet takes office.\n\nThe resignation of the Prime Minister shall be made by a letter of resignation which shall be sent to the King and sent to the President of the National Assembly. In this case, the outgoing cabinet must continue to lead the work of the Royal Government until the new cabinet takes office.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១០ ថ្មី អំពីរាជរដ្ឋាភិបាល",
   "chapter_en": "CHAPTER 10: ON THE ROYAL GOVERNMENT"
  },
@@ -1382,7 +1604,7 @@
   "name_en": "Article 126 new (former Article 107)\r\n",
   "description_en": "\nEach Member of the Royal Government holds penal responsibility for the major or minor indictable offences while performing his\/her functions.  \r  \n\nIn this case and in the case of serious misdeeds committed by a Member of Royal Government while performing his\/her functions, the National Assembly can decide to seize the competent jurisdictions.  \r  \n\nThe National Assembly shall decide on such matter in a secret ballot by an absolute majority of all its Members.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១០ ថ្មី អំពីរាជរដ្ឋាភិបាល",
   "chapter_en": "CHAPTER 10: ON THE ROYAL GOVERNMENT"
  },
@@ -1393,7 +1615,7 @@
   "name_en": "Article 127 new (former Article 108)\r\n",
   "description_en": "\nThe organization and functioning of the Council of Ministers are stipulated by a law.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១០ ថ្មី អំពីរាជរដ្ឋាភិបាល",
   "chapter_en": "CHAPTER 10: ON THE ROYAL GOVERNMENT"
  },
@@ -1404,7 +1626,7 @@
   "name_en": "Article 128 new (former Article 109)\r\n",
   "description_en": "\nThe Judicial power is an independent power.  \r  \n\nThe Judicial power is the guarantor of impartiality and the protector of the citizens’ rights and liberties.  \r  \n\nThe Judicial power covers all litigations, including administrative litigation.  \r  \n\nThis power is entrusted to the Supreme Court and to the Jurisdictions of the various categories and at all the degrees.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១១ ថ្មី អំពីអំណាចតុលាការ",
   "chapter_en": "CHAPTER 11 new: ON THE JUDICIARY"
  },
@@ -1415,7 +1637,7 @@
   "name_en": "Article 129 new (former Article 110)\r\n",
   "description_en": "\nJustice is rendered in the name of Khmer people in accordance with the legal procedures and the laws in force.  \r  \n\nOnly the judges are vested with the judicial function. The judges shall fulfill their duties in strict respect of the law, in all honesty and conscientiousness.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១១ ថ្មី អំពីអំណាចតុលាការ",
   "chapter_en": "CHAPTER 11 new: ON THE JUDICIARY"
  },
@@ -1426,7 +1648,7 @@
   "name_en": "Article 130 new (former Article 111)\r\n",
   "description_en": "\nNo organ of the Legislative Power or of the Executive Power can exercise any judicial power.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១១ ថ្មី អំពីអំណាចតុលាការ",
   "chapter_en": "CHAPTER 11 new: ON THE JUDICIARY"
  },
@@ -1437,7 +1659,7 @@
   "name_en": "Article 131 new (former Article 112)\r\n",
   "description_en": "\nOnly the public prosecution has the right to take public action.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១១ ថ្មី អំពីអំណាចតុលាការ",
   "chapter_en": "CHAPTER 11 new: ON THE JUDICIARY"
  },
@@ -1448,7 +1670,7 @@
   "name_en": "Article 132 new (former Article 113)\r\n",
   "description_en": "\nThe King is the Guarantor of the independence of the Judiciary. The Supreme Council of Magistracy assists the King in this task.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១១ ថ្មី អំពីអំណាចតុលាការ",
   "chapter_en": "CHAPTER 11 new: ON THE JUDICIARY"
  },
@@ -1459,7 +1681,7 @@
   "name_en": "Article 133 new (former Article 114)\r\n",
   "description_en": "\nThe Magistrates are irremovable. However, the Supreme Council of Magistracy shall pronounce disciplinary sanctions against the Magistrates committing misdeeds.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១១ ថ្មី អំពីអំណាចតុលាការ",
   "chapter_en": "CHAPTER 11 new: ON THE JUDICIARY"
  },
@@ -1470,7 +1692,7 @@
   "name_en": "Article 134 new (former Article 115)\r\n",
   "description_en": "\nThe Supreme Council of Magistracy shall be created by an Organic Law which determines its composition and attributions.  \r  \n\nThe Supreme Council of Magistracy is placed under the Presidency of the King. The King can designate His Representative to preside over the Supreme Council of Magistracy.  \r  \n\nThe Supreme Council of Magistracy submits to the King the proposal for appointment of judges and public prosecutors to all the Jurisdictions.  \r  \n\nTo decide disciplinary sanctions against the judges and the public prosecutors, the Supreme Council of Magistracy convenes under the presidency of the Supreme Court’s President or of the General Public Prosecutor to the Supreme Court, whether the case relate s to the judges or the public prosecutors.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១១ ថ្មី អំពីអំណាចតុលាការ",
   "chapter_en": "CHAPTER 11 new: ON THE JUDICIARY"
  },
@@ -1481,7 +1703,7 @@
   "name_en": "Article 135 new (former Article 116)\r\n",
   "description_en": "\nThe statutes of judges and public prosecutors and the judicial organization shall be stipulated in separate laws.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១១ ថ្មី អំពីអំណាចតុលាការ",
   "chapter_en": "CHAPTER 11 new: ON THE JUDICIARY"
  },
@@ -1492,7 +1714,7 @@
   "name_en": "Article 136 new\r\n",
   "description_en": "\nThe Constitutional Council shall have the competence to guarantee the respect of the Constitution, to interpret the Constitution and the Laws adopted by the National Assembly and definitively reviewed by the Senate.  \r  \n\nThe Constitutional Council has the right to examine and to decide on litigations related to the elections of the Members of the National Assembly and to the elections of the Senators.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១២ ថ្មី អំពីក្រុមប្រឹក្សាធម្មនុញ្",
   "chapter_en": "CHAPTER 12 new: ON THE CONSTITUTIONAL COUNCIL"
  },
@@ -1503,7 +1725,7 @@
   "name_en": "Article 137 new (one)\r\n",
   "description_en": "\nThe Constitutional Council is composed of nine Members whose mandate is limited to nine years. One-third of its Members shall be renewed every three years. Three Members shall be appointed by the King, three elected by the National Assembly and three others elected by the Supreme Council of Magistracy.  \r  \n\nThe President is elected by the members of the Constitutional Council from among the members of the Constitutional Council who are of Khmer nationality by birth and have only one Khmer nationality. In case of a tie in the voting, the voice of the President prevails.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១២ ថ្មី អំពីក្រុមប្រឹក្សាធម្មនុញ្",
   "chapter_en": "CHAPTER 12 new: ON THE CONSTITUTIONAL COUNCIL"
  },
@@ -1514,7 +1736,7 @@
   "name_en": "Article 138 new (former Article 119)\r\n",
   "description_en": "\nThe Members of the Constitutional Council shall be chosen among the high ranking personalities holding high diplomas in law, administration, diplomacy or economics and having extensive professional experience.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១២ ថ្មី អំពីក្រុមប្រឹក្សាធម្មនុញ្",
   "chapter_en": "CHAPTER 12 new: ON THE CONSTITUTIONAL COUNCIL"
  },
@@ -1525,7 +1747,7 @@
   "name_en": "Article 139 new\r\n",
   "description_en": "\nThe functions as member of the Constitutional Council are incompatible with the functions as senator, as member of the National Assembly, as member of the Royal Government, as incumbent magistrate, as personnel in the public function, as President or Vice-President of a political party or as President or Vice-President of a trade union.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១២ ថ្មី អំពីក្រុមប្រឹក្សាធម្មនុញ្",
   "chapter_en": "CHAPTER 12 new: ON THE CONSTITUTIONAL COUNCIL"
  },
@@ -1536,7 +1758,7 @@
   "name_en": "Article 140 new\r\n",
   "description_en": "\nThe King, the Prime Minister, the President of the National Assembly or one-tenth of the National Assembly’s Members, the President of the Senate or one-fourth of the Senators, may send the laws adopted by the National Assembly to the Constitutional Council for examination before their promulgation.  \r  \n\nThe rules of procedure of the National Assembly, the rules of procedure of the Senate and the organic laws must be sent to the Constitutional Council for examination before their promulgation. The Constitutional Council shall pronounce within the time frame of thirty (30) days at the latest, whether the laws, the rules of procedure of the National Assembly and those of the Senate are or not in conformity with the Constitution.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១២ ថ្មី អំពីក្រុមប្រឹក្សាធម្មនុញ្",
   "chapter_en": "CHAPTER 12 new: ON THE CONSTITUTIONAL COUNCIL"
  },
@@ -1547,7 +1769,7 @@
   "name_en": "Article 141 new\r\n",
   "description_en": "\nAfter a law has been promulgated, the King, the President of the Senate, the President of the National Assembly, the Prime Minister, one-fourth of the Senators, one-tenth of the National Assembly’s Members, or the Courts can request the Constitutional Council to examine the constitutionality of that law.  \r  \n\nAny citizen has the right to raise the unconstitutionality of the laws through the intermediary of the National Assembly’s Members or that of the President of the National Assembly or of the Senators or of the President of the Senate, as provided in the aforementioned paragraph.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១២ ថ្មី អំពីក្រុមប្រឹក្សាធម្មនុញ្",
   "chapter_en": "CHAPTER 12 new: ON THE CONSTITUTIONAL COUNCIL"
  },
@@ -1558,7 +1780,7 @@
   "name_en": "Article 142 new (former Article 123)\r\n",
   "description_en": "\nA provision of any Article, declared by the Constitutional Council not in conformity with the Constitution, can not be promulgated or implemented.  \r  \n\nThe decision of the Constitutional Council is final without recourse.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១២ ថ្មី អំពីក្រុមប្រឹក្សាធម្មនុញ្",
   "chapter_en": "CHAPTER 12 new: ON THE CONSTITUTIONAL COUNCIL"
  },
@@ -1569,7 +1791,7 @@
   "name_en": "Article 143 new (former Article 124)\r\n",
   "description_en": "\nThe King consults the Constitutional Council on any proposal aiming at amending the Constitution.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១២ ថ្មី អំពីក្រុមប្រឹក្សាធម្មនុញ្",
   "chapter_en": "CHAPTER 12 new: ON THE CONSTITUTIONAL COUNCIL"
  },
@@ -1580,7 +1802,7 @@
   "name_en": "Article 144 new (former Article 125)\r\n",
   "description_en": "\nThe organization and the functioning of the Constitutional Council are subject to an organic law.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១២ ថ្មី អំពីក្រុមប្រឹក្សាធម្មនុញ្",
   "chapter_en": "CHAPTER 12 new: ON THE CONSTITUTIONAL COUNCIL"
  },
@@ -1591,7 +1813,7 @@
   "name_en": "Article 145 new (one)\r\n",
   "description_en": "\nThe territory of the Kingdom of Cambodia is divided into Reach Theany (Royal Capital City), Khet (provinces), Krong (municipalities), Srok (districts), Khan (arrondissements), Khum (communes) and Sangkat (quarters).\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១៣ ថ្មី អំពីការគ្រប់គ្រងរដ្ឋបាល",
   "chapter_en": "CHAPTER 13 new: ON THE ADMINISTRATIVE ORGANIZATION"
  },
@@ -1602,7 +1824,7 @@
   "name_en": "Article 146 new (one)\r\n",
   "description_en": "\nReach Theany, Khet, Krong, Srok, Khan, Khum and Sangkat are administered according to the conditions provided by an organic law.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១៣ ថ្មី អំពីការគ្រប់គ្រងរដ្ឋបាល",
   "chapter_en": "CHAPTER 13 new: ON THE ADMINISTRATIVE ORGANIZATION"
  },
@@ -1613,7 +1835,7 @@
   "name_en": "Article 147 new (former Article 128)\r\n",
   "description_en": "\nThe National Congress allows the citizens to be directly informed on various affairs of national interest, to raise issues and to submit suggestions to the State authorities for a solution.  \r  \n\nKhmer citizens of both sexes have the right to participate in the National Congress.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១៤ ថ្មី អំពីសមាជជាតិ",
   "chapter_en": "CHAPTER 14 new: ON THE NATIONAL CONGRESS"
  },
@@ -1624,7 +1846,7 @@
   "name_en": "Article 148 new (former Article 129)\r\n",
   "description_en": "\nThe National Congress shall meet once a year, in early month of December upon the convening by the Prime Minister.  \r  \n\nThe National Congress shall proceed under the High Presidency of the King.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១៤ ថ្មី អំពីសមាជជាតិ",
   "chapter_en": "CHAPTER 14 new: ON THE NATIONAL CONGRESS"
  },
@@ -1635,7 +1857,7 @@
   "name_en": "Article 149 new\r\n",
   "description_en": "\nThe National Congress shall adopt suggestions to be submitted to the Senate, the National Assembly and the State authorities for consideration.  \r  \n\nThe organization and the functioning of the National Congress shall be stipulated by a law.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១៤ ថ្មី អំពីសមាជជាតិ",
   "chapter_en": "CHAPTER 14 new: ON THE NATIONAL CONGRESS"
  },
@@ -1646,7 +1868,7 @@
   "name_en": "Article 150 new (two)\r\n",
   "description_en": "\nThe National Election Committee is the body which has the competence for organising, regulating and administering the Elections of the Senators and the Elections of the Members of the National Assembly and other elections as determined by law.  \r  \n\nThe National Election Committee shall exercise its competence independently and impartially in order to ensure free, accurate and fair elections in accordance with the principles of liberal multi-party democracy.  \r  \n\nThe functions as the Members of the National Election Committee are incompatible with the positions in the public function and the function as the members of other institutions as stipulated in the present Constitution. The member of the National Election Committee cannot be the member of political party or president of the non-governmental organisation, association, trade unions or any commercial company.  \r  \n\nThe National Election Committee shall have an autonomous budget for its operation.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១៥ ថ្មី(ពីរ) អំពីអង្គការរៀបចំការបោះឆ្នោត",
   "chapter_en": "CHAPTER 15 new (two): ON THE ELECTION BODY"
  },
@@ -1657,7 +1879,7 @@
   "name_en": "Article 151 new (two)\r\n",
   "description_en": "\nThe National Election Committee is composed of nine Members whose mandate is five years. Four members shall be elected by the political party leading the Royal Government; four shall be elected by the political parties that won seats in the National Assembly, not in coalition with the Royal Government, and the other one shall be elected with the consent of all political parties having seats in the National Assembly.  \r  \n\nThe Standing Committee of the National Assembly shall organise an open and transparent election of the National Election Committee's members. The Standing Committee of the National Assembly shall prepare the list of the composition of the National Election Committee to submit to the National Assembly for an absolute majority vote of confidence of all the Members of the National Assembly.  \r  \n\nMembers of the National Election Committee shall be appointed by Royal Kret.  \r  \n\nIn case, any Member of the National Election Committee loses membership, the Standing Committee of the National Assembly shall conduct the procedure to choose the new member within the period of 15 days at the latest from the date of the loss of membership. Detailed procedures for choosing a new member for replacement shall be determined separately by law.  \r  \n\nIn case of failing to organise the composition of the National Election Committee, the existing Members of the National Election Committee shall remain in office and shall have competence to organise the election in accordance with the law.  \r  \n\nThe organisation and the functioning of the National Election Committee shall be determined by law.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១៥ ថ្មី(ពីរ) អំពីអង្គការរៀបចំការបោះឆ្នោត",
   "chapter_en": "CHAPTER 15 new (two): ON THE ELECTION BODY"
  },
@@ -1668,7 +1890,7 @@
   "name_en": "Article 152 new (two) (former Article 150 new)\r\n",
   "description_en": "\nThe present Constitution is the supreme law of the Kingdom of Cambodia.  \r  \n\nAll the laws and decisions of all the state institutions must be absolutely in conformity with the Constitution.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១៦ ថ្មី(ពីរ) អំពីការអនុភាព ការសើរើ និងវិសោធនកម្មរដ្ឋធម្មនុញ្ញ",
   "chapter_en": "CHAPTER 16 new (two): ON THE EFFECT, THE REVISION AND THE AMENDMENT OF THE CONSTITUTION"
  },
@@ -1677,9 +1899,9 @@
   "name": "មាត្រា១៥៣.- ថ្មី (ពីរ មាត្រា ១៥១ ថ្មី)\n",
   "description": "\n​    ការផ្តើមគំនិតសើរើ ឬការផ្តើមគំនិតធ្វើវិសោធនកម្មរដ្ឋធម្មនុញ្ញជាសិទ្ធិរបស់ព្រះមហាក្សត្រ របស់នាយករដ្ឋមន្ត្រី និងរបស់ប្រធានរដ្ឋសភា តាមសេចក្តីស្នើរបស់តំណាងរាស្ត្រមួយភាគបួននៃចំនួនសមាជិករដ្ឋសភាទាំងមូល ។ \n​    ការសើរើ ឬវិសោធនកម្មរដ្ឋធម្មនុញ្ញ ត្រូវធ្វើឡើងដោយច្បាប់ធម្មនុញ្ញមួយ ដែលអនុម័តដោយរដ្ឋសភា តាមមតិភាគច្រើនពីរភាគបី នៃចំនួនសមាជិក រដ្ឋសភាទាំងមូល ។\n",
   "name_en": "Article 153 new (two) (former Article 151 new)\r\n",
-  "description_en": "\nThe initiative of the revision or the amendment of the Constitution belongs to the King, to the Prime Minister and to the President of the National Assembly on the proposal from one-fourth of all the National Assembly’s Members.  \r  \n\nThe revision or the amendment of the Constitution must be carried out by a constitutional law adopted by the National Assembly at the two-third majority of all its Members.  \n\n",
+  "description_en": "\nThe initiative of the revision or the amendment of the Constitution belongs to the King, to the Prime Minister and to the President of the National Assembly on the proposal from one-fourth of all the National Assembly’s Members.  \r  \n\nThe revision or the amendment of the Constitution must be carried out by a Constitution adopted by the National Assembly at the two-third majority of all its Members.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១៦ ថ្មី(ពីរ) អំពីការអនុភាព ការសើរើ និងវិសោធនកម្មរដ្ឋធម្មនុញ្ញ",
   "chapter_en": "CHAPTER 16 new (two): ON THE EFFECT, THE REVISION AND THE AMENDMENT OF THE CONSTITUTION"
  },
@@ -1690,7 +1912,7 @@
   "name_en": "Article 154 new (two) (former Article 152 new)\r\n",
   "description_en": "\nThe revision or the amendment of the Constitution is prohibited when the nation is in a state of emergency, as provided in the Article 86.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១៦ ថ្មី(ពីរ) អំពីការអនុភាព ការសើរើ និងវិសោធនកម្មរដ្ឋធម្មនុញ្ញ",
   "chapter_en": "CHAPTER 16 new (two): ON THE EFFECT, THE REVISION AND THE AMENDMENT OF THE CONSTITUTION"
  },
@@ -1701,7 +1923,7 @@
   "name_en": "Article 155 new (two) (former Article 153 new)\r\n",
   "description_en": "\nThe revision or the amendment of the Constitution can not be done, if affecting the liberal multi-party democracy system and the constitutional monarchy regime.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១៦ ថ្មី(ពីរ) អំពីការអនុភាព ការសើរើ និងវិសោធនកម្មរដ្ឋធម្មនុញ្ញ",
   "chapter_en": "CHAPTER 16 new (two): ON THE EFFECT, THE REVISION AND THE AMENDMENT OF THE CONSTITUTION"
  },
@@ -1712,7 +1934,7 @@
   "name_en": "Article 156 new (two) (former Article 154 new)\r\n",
   "description_en": "\nThe present Constitution, once adopted, shall be promulgated by the King of Cambodia with immediate effect.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១៧ ថ្មី អំពីអន្តរប្បញ្ញត្តិ",
   "chapter_en": "CHAPTER 17 new: ON THE TRANSITIONAL PROVISIONS"
  },
@@ -1723,7 +1945,7 @@
   "name_en": "Article 157 new (two Article 155 new)\r\n",
   "description_en": "\nAfter the present Constitution comes into force, the Constituent Assembly becomes the National Assembly.  \r  \n\nThe Rules of Procedure of the National Assembly shall come into force after their adoption by the National Assembly.  \r  \n\nIn case the National Assembly can not take its function, the President, the First and the Second Vice-Presidents of the Constituent Assembly fulfill their mission within the Crown Council, if so required by the situation of the country.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១៧ ថ្មី អំពីអន្តរប្បញ្ញត្តិ",
   "chapter_en": "CHAPTER 17 new: ON THE TRANSITIONAL PROVISIONS"
  },
@@ -1734,7 +1956,7 @@
   "name_en": "Article 158 new (two) (former Article 156 new)\r\n",
   "description_en": "\nAfter the present Constitution comes into force, the King is elected under the conditions provided in the Articles 13 new and 14.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១៧ ថ្មី អំពីអន្តរប្បញ្ញត្តិ",
   "chapter_en": "CHAPTER 17 new: ON THE TRANSITIONAL PROVISIONS"
  },
@@ -1745,7 +1967,7 @@
   "name_en": "Article 159 new (two) (former Article 157 new)\r\n",
   "description_en": "\nThe duration of the first legislature of the Senate is five years and comes to an end when the new Senate assumes office.  \r  \n\nFor the first legislature of the Senate:  \r  \n\n- the total number of Senators shall be sixty-one,  \r  \n\n- the King shall appoint two Senators, as well as the President and the two Vice-Presidents of the Senate,  \r  \n\n- the other Senators shall be appointed by the King among the members of the political parties having their seats at the National Assembly, on the proposal from the President of the National Assembly and the President of the Senate,  \r  \n\n- the Congress of the National Assembly and the Senate shall be held under the chairmanship of the Co-Presidents.  \n\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១៧ ថ្មី អំពីអន្តរប្បញ្ញត្តិ",
   "chapter_en": "CHAPTER 17 new: ON THE TRANSITIONAL PROVISIONS"
  },
@@ -1756,7 +1978,7 @@
   "name_en": "Article 160 new (two Article 158 new)\r\n",
   "description_en": "\nLaws and normative acts in Cambodia that guarantee the State properties, the rights, the liberties and the legal properties of private persons and that are in conformity with the national interests, shall remain in force until the new texts are made to amend or to abrogate them, except the provisions contrary to the spirit of the present Constitution.\n",
   "book": "រដ្ឋធម្មនុញ្ញ",
-  "book_en": "Constitutional Law",
+  "book_en": "Constitution",
   "chapter": "ជំពូកទី ១៧ ថ្មី អំពីអន្តរប្បញ្ញត្តិ",
   "chapter_en": "CHAPTER 17 new: ON THE TRANSITIONAL PROVISIONS"
  }
