@@ -48,5 +48,15 @@
     "description": "នីតិវិធីដែលទាក់ទងទៅនឹងបណ្តឹងរដ្ឋប្បវេណី ត្រូវធ្វើតាមបញ្ញត្តិនៃក្រមនេះ លើកលែងតែក្នុងករណីដែលច្បាប់ផ្សេងបានកំណត់ពិសេស។",
     "image_url": "https://www.khmerlawcode.com/images/codes/civil-procedure-code.jpg",
     "pdf_url": "https://www.khmerlawcode.com/pdf/civil_procedure.pdf"
+  },
+  {
+    "id": "Military Obligation",
+    "order": 6,
+    "title": "កាតព្វកិច្ចយោធា",
+    "articles_count": "២០ មាត្រា",
+    "source": "ប្រភព៖ ក្រសួងយុត្តិធម៌",
+    "description": "ច្បាប់នេះកំណត់អំពីវិធាននៃការអនុវត្តកាតព្វកិច្ចយោធា ដើម្បីរួមចំណែកកសាងប្រទេសជាតិ និងការពារមាតុភូមិ...",
+    "image_url": "https://www.khmerlawcode.com/images/codes/military.jpg",
+    "pdf_url": "https://www.khmerlawcode.com/pdf/military.pdf"
   }
 ]
